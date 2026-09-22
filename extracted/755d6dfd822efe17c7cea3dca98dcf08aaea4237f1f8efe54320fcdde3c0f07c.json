@@ -1,0 +1,228 @@
+{
+  "order_id": "755d6dfd822efe17c7cea3dca98dcf08aaea4237f1f8efe54320fcdde3c0f07c",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 6,
+  "coram": {
+    "name": "Manoj Saunik",
+    "designation": "Chairperson, MahaRERA"
+  },
+  "respondents": [
+    {
+      "name": "JVPD PROPERTIES PRIVATE LIMITED",
+      "role": "promoter"
+    },
+    {
+      "name": "SWATANTRA KUMAR",
+      "role": "co-promoter"
+    },
+    {
+      "name": "LAXMAN BHAGTANI",
+      "role": "co-promoter"
+    },
+    {
+      "name": "DIIPESH LAXMAN BHAGTANI",
+      "role": "co-promoter"
+    },
+    {
+      "name": "MUKESH LAXMAN BHAGTANI",
+      "role": "co-promoter"
+    },
+    {
+      "name": "JAYCEE HOMES PRIVATE LIMITED",
+      "role": "co-promoter"
+    }
+  ],
+  "project": {
+    "project_name": "SERENITY- BLDG 1",
+    "project_reg_no": "P51800011181",
+    "location": "Village Tirandaz, Taluka Kurla, Mumbai",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "The occupancy certificate is yet to be issued."
+    }
+  },
+  "primary_order": {
+    "order_date": "2025-01-09",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000193702",
+        "complainant_names": [
+          "GAUTAM THAKKAR"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complaint is not maintainable as it is premature, given the proposed date of completion is 30.07.2025.",
+            "source_page": 7
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193840",
+        "complainant_names": [
+          "MUKESH DESAI"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complaint is not maintainable as it is premature, given the proposed date of completion is 30.07.2025.",
+            "source_page": 7
+          },
+          {
+            "relief_type": "compensation",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complaint is not maintainable as it is premature, given the proposed date of completion is 30.07.2025. All other reliefs claimed were rejected.",
+            "source_page": 7
+          },
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complaint is not maintainable as it is premature, given the proposed date of completion is 30.07.2025. All other reliefs claimed were rejected.",
+            "source_page": 7
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000198422",
+        "complainant_names": [
+          "LENZON MENDES",
+          "IMMELDA MENDES"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complaint is not maintainable as it is premature, given the proposed date of completion is 30.07.2025.",
+            "source_page": 7
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000199138",
+        "complainant_names": [
+          "SERENITY WELFARE ASSOCIATION"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Relief sought (registration of Xander Finance Private Limited as promoter, or its revocation and project completion by the association) was rejected because XANDER FINANCE PRIVATE LIMITED is a secured creditor, not a developer or promoter, and this relief is not provided in the Act.",
+            "source_page": 7
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000251387",
+        "complainant_names": [
+          "YAQOOB AHMED"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 5124116,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "as prescribed under Rule 18 of the Maharashtra Real Estate (Regulation and Development) (Registration of Real Estate Projects, Registration of Real Estate Agents, Rate of Interest and Disclosures on Website) Rules 2017"
+            },
+            "deadline": {
+              "type": "days_from_order",
+              "date": null,
+              "days": 60,
+              "event": null,
+              "from_date": "2017-04-14",
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complaint allowed for refund of consideration with interest under Section 18 as the promoter failed to deliver possession on time. The promoter is not entitled to claim 'moratorium period' benefits.",
+            "source_page": 7
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000292679",
+        "complainant_names": [
+          "SAUREB BANNERJI",
+          "DEVJANI BANNERJI",
+          "SHIPRA BANERJEE"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 3625000,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "as prescribed under Rule 18 of the Maharashtra Real Estate (Regulation and Development) (Registration of Real Estate Projects, Registration of Real Estate Agents, Rate of Interest and Disclosures on Website) Rules 2017"
+            },
+            "deadline": {
+              "type": "days_from_order",
+              "date": null,
+              "days": 60,
+              "event": null,
+              "from_date": "2017-03-01",
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complaint allowed for refund of consideration with interest under Section 18 as the promoter failed to deliver possession on time. The promoter is not entitled to claim 'moratorium period' benefits. This amount corresponds to property 1801/D.",
+            "source_page": 7
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 2835000,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "as prescribed under Rule 18 of the Maharashtra Real Estate (Regulation and Development) (Registration of Real Estate Projects, Registration of Real Estate Agents, Rate of Interest and Disclosures on Website) Rules 2017"
+            },
+            "deadline": {
+              "type": "days_from_order",
+              "date": null,
+              "days": 60,
+              "event": null,
+              "from_date": "2017-03-01",
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complaint allowed for refund of consideration with interest under Section 18 as the promoter failed to deliver possession on time. The promoter is not entitled to claim 'moratorium period' benefits. This amount corresponds to property 1802/D.",
+            "source_page": 7
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 7
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "XANDER FINANCE PRIVATE LIMITED was not included in the 'respondents' array, as the order explicitly states it is a secured creditor and not a promoter for the purpose of the relief sought in complaint 4. The interest rate is specified as per Rule 18 of RERA Rules 2017, which commonly refers to MCLR + 2%."
+}

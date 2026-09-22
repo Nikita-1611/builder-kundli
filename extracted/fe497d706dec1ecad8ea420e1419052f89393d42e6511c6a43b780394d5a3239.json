@@ -1,0 +1,421 @@
+{
+  "order_id": "fe497d706dec1ecad8ea420e1419052f89393d42e6511c6a43b780394d5a3239",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 9,
+  "coram": {
+    "name": "Dr. Vijay Satbir Singh",
+    "designation": "Member-1/ MahaRERA"
+  },
+  "respondents": [
+    {
+      "name": "M/s. Nirmal Lifestyle (Kalyan) Pvt.Ltd.",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Nirmal Lifestyle (Kalyan)",
+    "project_reg_no": null,
+    "location": "Kalyan",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2019-02-13",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000001182",
+        "complainant_names": [
+          "Sandesh S. Amrutkar"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "payments made as per consent terms/orders",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent defaulted on payments as per prior order/consent terms. Directed to clear all outstanding dues.",
+            "source_page": 3
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "payments made as per consent terms/orders",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Rs. 10,000 awarded to the complainant for litigation costs.",
+            "source_page": 3
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000001518",
+        "complainant_names": [
+          "Rahul Tulshiram Kharatmol"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "payments made as per consent terms/orders",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent defaulted on payments as per prior order/consent terms. Directed to clear all outstanding dues.",
+            "source_page": 3
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "payments made as per consent terms/orders",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Rs. 10,000 awarded to the complainant for litigation costs.",
+            "source_page": 3
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000001940",
+        "complainant_names": [
+          "A. Siddhappa Kore",
+          "B. Santosh Khose"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "payments made as per consent terms/orders",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent defaulted on payments as per prior order/consent terms. Directed to clear all outstanding dues.",
+            "source_page": 3
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "payments made as per consent terms/orders",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Rs. 10,000 awarded to each complainant for litigation costs.",
+            "source_page": 3
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000001588",
+        "complainant_names": [
+          "Pramod Ashtekar"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "payments made as per consent terms/orders",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent defaulted on payments as per prior order/consent terms. Directed to clear all outstanding dues.",
+            "source_page": 3
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "payments made as per consent terms/orders",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Rs. 10,000 awarded to the complainant for litigation costs.",
+            "source_page": 3
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000023231",
+        "complainant_names": [
+          "Prakash Mallesh Arvena"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "payments made as per consent terms/orders",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent defaulted on payments as per prior order/consent terms. Directed to clear all outstanding dues.",
+            "source_page": 3
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "payments made as per consent terms/orders",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Rs. 10,000 awarded to the complainant for litigation costs.",
+            "source_page": 3
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000012379",
+        "complainant_names": [
+          "Amol Goje"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "payments made as per consent terms/orders",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent defaulted on payments as per prior order/consent terms. Directed to clear all outstanding dues.",
+            "source_page": 3
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "payments made as per consent terms/orders",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Rs. 10,000 awarded to the complainant for litigation costs.",
+            "source_page": 3
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000012228",
+        "complainant_names": [
+          "A. Shoaib Kazi",
+          "B. Shifa Kazi"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "payments made as per consent terms/orders",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent defaulted on payments as per prior order/consent terms. Directed to clear all outstanding dues.",
+            "source_page": 3
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "payments made as per consent terms/orders",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Rs. 10,000 awarded to each complainant for litigation costs.",
+            "source_page": 3
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": {
+      "amount": {
+        "value": 50000,
+        "type": "penalty",
+        "recipient": "government",
+        "interest_rate_description": null
+      },
+      "reason": "Penalty for default in making payments to complainants so far.",
+      "deadline": {
+        "type": "fixed_date",
+        "date": "2019-02-13",
+        "days": null,
+        "event": null,
+        "from_date": null,
+        "options": null,
+        "installments": null
+      },
+      "source_page": 3
+    },
+    "source_page": 3
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Project name 'Nirmal Lifestyle (Kalyan)' and location 'Kalyan' inferred from respondent name. OC status not explicitly stated. The order mentions 'Rs.50,000/- (Rupees Five Lakh only)' for the penalty; the numeric value 50,000 has been used. Additionally, a penalty of 'Rs.4,000/- ... for each day of default in future' is mentioned, but since it's a conditional future penalty and not a fixed amount at the time of order, it is described here instead of being included in 'order_level_penalty' which expects a fixed or rate-based amount directly related to a specific item. The 'outstanding dues' amount for each complainant is not specified in this order, as it refers to prior consent terms/orders, so value is null."
+}

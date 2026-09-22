@@ -1,0 +1,63 @@
+{
+  "order_id": "174d05e70f11f38ded478c56268c6c3fb196b85bfcf6573506c3b6f8b030491e",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Shri B.D. Kapadnis",
+    "designation": "Hon'ble Member II"
+  },
+  "respondents": [
+    {
+      "name": "M/s. Om sai Infra & Om sai Group",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Sai Kanishk Phase II (Building No. B-6, Florida)",
+    "project_reg_no": "P51700012436",
+    "location": "Village Dawle, Diva",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2019-10-09",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000078S30",
+        "complainant_names": [
+          "Pankaj Manohar Bhargalkar"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The agreed date of possession is December 2019 after accounting for the reasonable extension of 12 months, which has not yet been crossed.",
+            "source_page": 1
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The agreed date of possession of December 2019 has not yet been crossed, hence there is no cause of action.",
+            "source_page": 1
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "The complaint sought interest for delayed possession and possession of flat no. 701. Both were dismissed as the agreed possession date (December 2019 including extension) had not yet been crossed at the time of the order."
+}

@@ -1,0 +1,110 @@
+{
+  "order_id": "1cbeeb9c4e5686384595a6d7ca75f6d8b8f30a3040d3fe314ef136176dc4b89c",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 3,
+  "coram": {
+    "name": "Shri B.D. Kapadnis",
+    "designation": "Hon'ble Member II"
+  },
+  "respondents": [
+    {
+      "name": "Vidhi Realtors",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Gaurav Discovery",
+    "project_reg_no": "P51800007949",
+    "location": "Malwani, Taluka Borivali, Mumbai",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2020-01-23",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000100576",
+        "complainant_names": [
+          "Bhavna Avinash Bodhare"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "penalty",
+              "recipient": "buyer",
+              "interest_rate_description": "2% above the SBI's highest MCLR which is currently 8.2%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The respondents agreed to hand over possession by the agreed date but failed to do so, making the complainant entitled to interest on investments for delayed possession.",
+            "source_page": 2
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to get Rs. 20,000/- towards the cost of the complaint.",
+            "source_page": 3
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000100526",
+        "complainant_names": [
+          "Santosh Kisan Churmure",
+          "Tanvi Santosh Churmure"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "penalty",
+              "recipient": "buyer",
+              "interest_rate_description": "2% above the SBI's highest MCLR which is currently 8.2%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The respondents agreed to hand over possession by the agreed date but failed to do so, making the complainants entitled to interest on investments for delayed possession.",
+            "source_page": 2
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to get Rs. 20,000/- towards the cost of the complaint.",
+            "source_page": 3
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "Two clubbed complaints (CC006000000100576 and CC006000000100526) handled in a single final order. Individual monetary principal amounts are mentioned in the table on page 2, but since the order grants interest at a prescribed rate on the amounts paid from the respective dates without specifying a total lumpsum figure, relief amounts have value left as null and described via interest_rate_description."
+}

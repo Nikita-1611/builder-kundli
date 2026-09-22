@@ -1,0 +1,128 @@
+{
+  "order_id": "0b344ecd39c45f8980c75cddb0d591836114decc1c290ea8a23238eddd38ce37",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 6,
+  "coram": {
+    "name": "Shri. Ajoy Mehta",
+    "designation": "Chairperson, MahaRERA"
+  },
+  "respondents": [
+    {
+      "name": "Ricardo Constructions Private Limited",
+      "role": "promoter"
+    },
+    {
+      "name": "Nirmal Lifestyle Pvt. Ltd.",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Ace and Matchpoint",
+    "project_reg_no": "P51800007641",
+    "location": null,
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2021-09-15",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000079139",
+        "complainant_names": [
+          "Mr Vishal Bhanudas Ghule",
+          "Ms Nutan Chudaman Wankhede"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "possession_and_completion",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Disposed of in terms of directions issued in Complaint No. CC006000000192365 filed by the Association of Allottees.",
+            "source_page": 12
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000141071",
+        "complainant_names": [
+          "Deepak Jaiprakash Rai",
+          "Swatantra Jaiprakash Rai"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Disposed of in terms of directions issued in Complaint No. CC006000000192365 filed by the Association of Allottees.",
+            "source_page": 12
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000161352",
+        "complainant_names": [
+          "Amol Sawant"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Disposed of in terms of directions issued in Complaint No. CC006000000192365 filed by the Association of Allottees.",
+            "source_page": 12
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000182051",
+        "complainant_names": [
+          "Sunil Mahendra Chaurasia"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "compensation",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Disposed of in terms of directions issued in Complaint No. CC006000000192365 filed by the Association of Allottees.",
+            "source_page": 12
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192120",
+        "complainant_names": [
+          "Swapnil Gawas"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "possession_and_completion",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Disposed of in terms of directions issued in Complaint No. CC006000000192365 filed by the Association of Allottees.",
+            "source_page": 12
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 12
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "The individual complaints were clubbed with the Association complaint (CC006000000192365) and disposed of directing compliance with the directions given under that Association complaint."
+}

@@ -1,0 +1,76 @@
+{
+  "order_id": "0872e60e4268518041e71f7ef7a931a59b971ac096d0cdf7e7a13ed29e393f91",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Dr. Vijay Satbir Singh",
+    "designation": "Hon'ble Member - 1/MahaRERA"
+  },
+  "respondents": [
+    {
+      "name": "M/s. Nirmal Lifestyle (Kalyan) Pvt. Ltd.",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Nirmal Lifestyle (Kalyan)",
+    "project_reg_no": "P51700006766",
+    "location": "Kalyan",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": "competent authority",
+      "note": "Applied for occupancy certificate, expected within 2-3 months."
+    }
+  },
+  "primary_order": {
+    "order_date": "2018-02-01",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000000829",
+        "complainant_names": [
+          "Mr. Suryaprakash Sharma"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "actual date of possession",
+              "from_date": "2017-05-01",
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Original complaint disposed of by consent terms, where respondent agreed to pay interest for delayed possession from 1-05-2017 till actual date of possession.",
+            "source_page": 1
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2020-01-22",
+      "complaint_no": "CC006000000000829",
+      "outcome": "dismissed_other",
+      "reasoning": "The complainant filed a non-execution application for the 01-02-2018 order regarding delay interest. The respondent acknowledged an outstanding amount of Rs. 2,07,621/-, committed to pay Rs. 50,000/- immediately, and the balance by 31-03-2020. The complainant accepted this offer, leading to the disposal of the application.",
+      "source_page": 1
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "This document is a disposal order for a Non-Execution Application (NEA). The `primary_order` field summarizes the terms of the original order dated 01-02-2018 that the NEA sought to execute. The `supplementary_proceedings` field captures the disposal of this NEA itself, including the new payment terms agreed upon to settle the execution matter. The interest rate for the original order's delay interest is not specified in this document."
+}

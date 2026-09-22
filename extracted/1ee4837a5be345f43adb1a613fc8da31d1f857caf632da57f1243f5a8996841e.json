@@ -1,0 +1,71 @@
+{
+  "order_id": "1ee4837a5be345f43adb1a613fc8da31d1f857caf632da57f1243f5a8996841e",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Dr. Vijay Satbir Singh",
+    "designation": "Member 1"
+  },
+  "respondents": [
+    {
+      "name": "M/s. Nirmal Lifestyle (Kalyan) Private Limited",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Platano-F",
+    "project_reg_no": "P51700003538",
+    "location": "Kalyan, Dist Thane",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2018-05-07",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000023509",
+        "complainant_names": [
+          "Mr. Dinanath Sawant"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 1430057,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "fixed_date",
+              "date": "2018-09-20",
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": {
+                "count": 5,
+                "frequency": "one_time",
+                "note": "Five post-dated cheques drawn on Union Bank of India, Mulund (West) Branch."
+              }
+            },
+            "validity_window": null,
+            "reasoning": "Both parties arrived at an amicable settlement and filed notarized consent terms.",
+            "source_page": 2
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "Consent terms filed by both parties settling the matter for Rs. 14,30,057/- to be paid in 5 equal installments up to 20-09-2018."
+}

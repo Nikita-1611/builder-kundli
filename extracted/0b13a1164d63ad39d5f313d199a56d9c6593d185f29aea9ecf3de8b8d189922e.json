@@ -1,0 +1,59 @@
+{
+  "order_id": "0b13a1164d63ad39d5f313d199a56d9c6593d185f29aea9ecf3de8b8d189922e",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Dr. Vijay Satbir Singh",
+    "designation": "Member"
+  },
+  "respondents": [
+    {
+      "name": "M/s. Nirmal Lifestyle Kalyan Pvt Ltd",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": null,
+    "project_reg_no": "P51700003543",
+    "location": null,
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2018-01-09",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000000097",
+        "complainant_names": [
+          "Parthabi Mohapatra"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The parties have settled the matter amicably and filed consent terms on record.",
+            "source_page": 1
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "The complaint was disposed of based on consent terms filed by both parties. Refund amount value is not explicitly stated in the final order text, hence left null."
+}

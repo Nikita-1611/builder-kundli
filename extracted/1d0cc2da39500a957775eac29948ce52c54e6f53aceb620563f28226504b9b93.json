@@ -1,0 +1,68 @@
+{
+  "order_id": "1d0cc2da39500a957775eac29948ce52c54e6f53aceb620563f28226504b9b93",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Dr. Vijay Satbir Singh",
+    "designation": "Member - 1"
+  },
+  "respondents": [
+    {
+      "name": "M/s. Nirmal Lifestyle (Kalyan) Private Limited",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": null,
+    "project_reg_no": "P51700005583",
+    "location": null,
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2018-03-01",
+    "complaints": [
+      {
+        "complaint_no": "CC00600000056346",
+        "complainant_names": [
+          "Jagdish Mishra"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "penalty",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Original complaint was disposed of by way of filing consent terms where respondent agreed to pay interest for delayed possession under section 18.",
+            "source_page": 1
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2020-02-27",
+      "complaint_no": "CC00600000056346",
+      "outcome": "allowed",
+      "reasoning": "Respondent stated that an amount of Rs. 3,81,958/- is payable towards interest, out of which a Demand Draft of Rs. 81,958/- is ready to be handed over and balance Rs. 3,00,000/- will be paid within three months. Execution application stands disposed of based on undertaking.",
+      "source_page": 1
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "The document is a non-execution application order arising out of a previous order dated 1st March 2018. The original interest amount was governed by consent terms."
+}

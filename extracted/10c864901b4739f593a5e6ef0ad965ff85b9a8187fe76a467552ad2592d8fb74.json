@@ -1,0 +1,89 @@
+{
+  "order_id": "10c864901b4739f593a5e6ef0ad965ff85b9a8187fe76a467552ad2592d8fb74",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 33,
+  "coram": {
+    "name": "Dr. Vijay Satbir Singh",
+    "designation": "Member-1"
+  },
+  "respondents": [
+    {
+      "name": "M/s. Nirmal Developers",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Olympia C & D",
+    "project_reg_no": "P51800012383",
+    "location": "Mulund (West), Mumbai",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2018-11-26",
+    "complaints": [
+      {
+        "complaint_no": "CC00600000023508",
+        "complainant_names": [
+          "Nirmal Developer Olympia Aggrieved Buyers Association"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "fixed_date",
+              "date": "2018-12-05",
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": {
+                "count": 4,
+                "frequency": "quarterly",
+                "note": "Agreed via consent terms; second installment directed to be paid by 5th Dec 2018, third installment by end of Dec 2018, and fourth installment by 15th Jan 2019."
+              }
+            },
+            "validity_window": null,
+            "reasoning": "Both parties had filed signed consent terms whereby respondent agreed to refund the amount paid in four installments. As the respondent failed to pay the second installment due in July 2018, the Authority directed payment of the second installment by 5th Dec 2018 and noted the proposed timeline for remaining installments.",
+            "source_page": 3
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": {
+      "amount": {
+        "value": 100000,
+        "type": "penalty",
+        "recipient": "government",
+        "interest_rate_description": null
+      },
+      "reason": "Penalty of Rs. 1,00,000/- for everyday of delay in case the respondent fails to pay the second installment on or before 5th Dec 2018, as provided under Section 63 of the RERA Act, 2016.",
+      "deadline": {
+        "type": "fixed_date",
+        "date": "2018-12-05",
+        "days": null,
+        "event": null,
+        "from_date": null,
+        "options": null,
+        "installments": null
+      },
+      "source_page": 3
+    },
+    "source_page": 3
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "The document is an execution application order resulting from a prior consent terms settlement. Principal refund value is left null as it represents a cumulative amount for 33 members not individually stated in total."
+}

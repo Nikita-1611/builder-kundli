@@ -1,0 +1,508 @@
+{
+  "builder_id": "monarch-qureshi-builders",
+  "builder_name": "Monarch & Qureshi Builders",
+  "name_variants": [
+    "MONARCH & QURESHI BUILDERS",
+    "Monarch & Qureshi Builders"
+  ],
+  "score": 3.6,
+  "raw_points": 255.0,
+  "project_count": 2,
+  "warrant_count": 11,
+  "warrant_points": 165.0,
+  "warrants_recent_count": 0,
+  "warrants_recent_points": 0,
+  "warrants_older_count": 11,
+  "warrants_older_points": 165.0,
+  "order_count": 2,
+  "relief_count": 23,
+  "order_points": 90.0,
+  "total_buyers": 12,
+  "buyers_won": 11,
+  "warranted_buyers": 2,
+  "buyers_won_no_warrant": 9,
+  "adverse_no_warrant_relief_count": 18,
+  "categories": [
+    {
+      "id": "late-possession",
+      "label": "Flat handed over late",
+      "buyers": 11,
+      "buyers_won": 11,
+      "warranted_buyers": 2,
+      "project_count": 1
+    },
+    {
+      "id": "refund",
+      "label": "Money not returned",
+      "buyers": 3,
+      "buyers_won": 3,
+      "warranted_buyers": 0,
+      "project_count": 1
+    },
+    {
+      "id": "other",
+      "label": "Other",
+      "buyers": 1,
+      "buyers_won": 0,
+      "warranted_buyers": 0,
+      "project_count": 1
+    }
+  ],
+  "projects": [
+    {
+      "project_no": "P51800009046",
+      "warrant_count": 10
+    },
+    {
+      "project_no": "P51800010967",
+      "warrant_count": 1
+    }
+  ],
+  "orders": [
+    {
+      "order_id": "14ebb78b5db247b87c5fc73d58bc306803850934144a28120f958ab521c71c30",
+      "order_date": "2019-02-12",
+      "project_name": "Gaurav Legend",
+      "project_reg_no": "P51800010967",
+      "order_total_points": 0.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000056807",
+          "complainant_names": [
+            "Amartya Ray",
+            "Rupanjana Ray"
+          ],
+          "relief_type": "other",
+          "granted": false,
+          "amount": null,
+          "reasoning": "Parties amicably settled the matter out of court and filed consent terms marked Exh. A, and the complainants withdrew the complaint.",
+          "has_warrant": false,
+          "signal": null,
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        }
+      ]
+    },
+    {
+      "order_id": "207ff4e8c022ee2a55bf58c1366b9aa9329e39027949421a077b44d8d902987e",
+      "order_date": "2023-01-13",
+      "project_name": "COSMIC",
+      "project_reg_no": "P51800009046",
+      "order_total_points": 90.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000171952",
+          "complainant_names": [
+            "APARNAA FISCAL SERVIES PVT LTD"
+          ],
+          "relief_type": "refund_of_consideration",
+          "granted": true,
+          "amount": {
+            "value": 10214036,
+            "type": "refund_principal",
+            "recipient": "buyer",
+            "interest_rate_description": "Rule 18 of Maharashtra Real Estate (Regulation and Development) Rules 2017"
+          },
+          "reasoning": "Complainant is allowed to withdraw from the project due to delay under Section 18 with refund and interest.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000171952",
+          "complainant_names": [
+            "APARNAA FISCAL SERVIES PVT LTD"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "Rule 18 of Maharashtra Real Estate (Regulation and Development) Rules 2017"
+          },
+          "reasoning": "Interest granted from applicable date till realization, subject to moratorium period deduction.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000182002",
+          "complainant_names": [
+            "PRADEEP SINGH VALLIA"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Complainant chose to stay in the project and is entitled to interest for delay till handover.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000182002",
+          "complainant_names": [
+            "PRADEEP SINGH VALLIA"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "Rule 18 of Maharashtra Real Estate (Regulation and Development) Rules 2017"
+          },
+          "reasoning": "Interest for delay allowed from 01.01.2018 till handover of possession with OC.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000182100",
+          "complainant_names": [
+            "RAMNIWAS RANDER",
+            "KUSUM LATA RANDER"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Complainants chose to stay in the project and are entitled to interest for delay till handover.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000182100",
+          "complainant_names": [
+            "RAMNIWAS RANDER",
+            "KUSUM LATA RANDER"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "Rule 18 of Maharashtra Real Estate (Regulation and Development) Rules 2017"
+          },
+          "reasoning": "Interest for delay allowed from 01.01.2018 till handover of possession with OC.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000192231",
+          "complainant_names": [
+            "PAWAN BAIRAGRA",
+            "URMILA BAIRAGRA"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Complainants chose to stay in the project and are entitled to interest for delay till handover.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000192231",
+          "complainant_names": [
+            "PAWAN BAIRAGRA",
+            "URMILA BAIRAGRA"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "Rule 18 of Maharashtra Real Estate (Regulation and Development) Rules 2017"
+          },
+          "reasoning": "Interest for delay allowed from 01.01.2018 till handover of possession with OC.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000192293",
+          "complainant_names": [
+            "FARZANA MALIK KHAN",
+            "MALIK FARIDA KHALIK",
+            "AHMED MR KHAN FARHAD ASIF",
+            "KHAN PARVEEN FEROZ"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Complainants chose to stay in the project and are entitled to interest for delay till handover.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000192293",
+          "complainant_names": [
+            "FARZANA MALIK KHAN",
+            "MALIK FARIDA KHALIK",
+            "AHMED MR KHAN FARHAD ASIF",
+            "KHAN PARVEEN FEROZ"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "Rule 18 of Maharashtra Real Estate (Regulation and Development) Rules 2017"
+          },
+          "reasoning": "Interest for delay allowed from 01.05.2019 till handover of possession with OC.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000192799",
+          "complainant_names": [
+            "RAJEEV KUMAR"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Complainant chose to stay in the project and is entitled to interest for delay till handover.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000192799",
+          "complainant_names": [
+            "RAJEEV KUMAR"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "Rule 18 of Maharashtra Real Estate (Regulation and Development) Rules 2017"
+          },
+          "reasoning": "Interest for delay allowed from 01.01.2018 till handover of possession with OC.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000192823",
+          "complainant_names": [
+            "VANDANA P SHENOY"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Complainant chose to stay in the project and is entitled to interest for delay till handover.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000192823",
+          "complainant_names": [
+            "VANDANA P SHENOY"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "Rule 18 of Maharashtra Real Estate (Regulation and Development) Rules 2017"
+          },
+          "reasoning": "Interest for delay allowed from 01.01.2018 till handover of possession with OC.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193115",
+          "complainant_names": [
+            "PIYUSH BATHWAL"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Complainant chose to stay in the project and is entitled to interest for delay till handover.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000193115",
+          "complainant_names": [
+            "PIYUSH BATHWAL"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "Rule 18 of Maharashtra Real Estate (Regulation and Development) Rules 2017"
+          },
+          "reasoning": "Interest for delay allowed from 01.02.2014 till handover of possession with OC.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000193116",
+          "complainant_names": [
+            "AAYUSH BATHWAL"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Complainant chose to stay in the project and is entitled to interest for delay till handover.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000193116",
+          "complainant_names": [
+            "AAYUSH BATHWAL"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "Rule 18 of Maharashtra Real Estate (Regulation and Development) Rules 2017"
+          },
+          "reasoning": "Interest for delay allowed from 01.02.2014 till handover of possession with OC.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000194227",
+          "complainant_names": [
+            "ASHA KHADARIA"
+          ],
+          "relief_type": "refund_of_consideration",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "refund_principal",
+            "recipient": "buyer",
+            "interest_rate_description": "Rule 18 of Maharashtra Real Estate (Regulation and Development) Rules 2017"
+          },
+          "reasoning": "Complainant is allowed to withdraw from the project due to delay under Section 18 with refund and interest.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000194227",
+          "complainant_names": [
+            "ASHA KHADARIA"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "Rule 18 of Maharashtra Real Estate (Regulation and Development) Rules 2017"
+          },
+          "reasoning": "Interest granted from applicable date till realization, subject to moratorium period deduction.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000194593",
+          "complainant_names": [
+            "RANGMAHAL MERCHANDISE PRIVATE LIMITED"
+          ],
+          "relief_type": "refund_of_consideration",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "refund_principal",
+            "recipient": "buyer",
+            "interest_rate_description": "Rule 18 of Maharashtra Real Estate (Regulation and Development) Rules 2017"
+          },
+          "reasoning": "Complainant is allowed to withdraw from the project due to delay under Section 18 with refund and interest.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000194593",
+          "complainant_names": [
+            "RANGMAHAL MERCHANDISE PRIVATE LIMITED"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "Rule 18 of Maharashtra Real Estate (Regulation and Development) Rules 2017"
+          },
+          "reasoning": "Interest granted from applicable date till realization, subject to moratorium period deduction.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    }
+  ],
+  "last_built": "2026-09-22"
+}

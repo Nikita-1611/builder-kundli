@@ -1,0 +1,1484 @@
+{
+  "builder_id": "nirmal-lifestyle-ltd",
+  "builder_name": "Nirmal Lifestyle Ltd",
+  "name_variants": [
+    "M/s Nirmal Lifestyle Ltd",
+    "M/s. Nirmal Lifestyle Limited",
+    "M/s. Nirmal Lifestyle Ltd",
+    "NIRMAL LIFESTYLE LIMITED",
+    "Nirmal Lifestyle Limited",
+    "Nirmal Lifestyle Ltd",
+    "Nirmal Lifestyle Ltd."
+  ],
+  "score": 6.7,
+  "raw_points": 575.0,
+  "project_count": 6,
+  "warrant_count": 13,
+  "warrant_points": 210.0,
+  "warrants_recent_count": 1,
+  "warrants_recent_points": 30.0,
+  "warrants_older_count": 12,
+  "warrants_older_points": 180.0,
+  "order_count": 8,
+  "relief_count": 75,
+  "order_points": 365.0,
+  "total_buyers": 38,
+  "buyers_won": 37,
+  "warranted_buyers": 0,
+  "buyers_won_no_warrant": 37,
+  "adverse_no_warrant_relief_count": 73,
+  "categories": [
+    {
+      "id": "late-possession",
+      "label": "Flat handed over late",
+      "buyers": 36,
+      "buyers_won": 35,
+      "warranted_buyers": 0,
+      "project_count": 4
+    },
+    {
+      "id": "other",
+      "label": "Other",
+      "buyers": 2,
+      "buyers_won": 2,
+      "warranted_buyers": 0,
+      "project_count": 2
+    },
+    {
+      "id": "compensation",
+      "label": "Ordered to pay buyers",
+      "buyers": 1,
+      "buyers_won": 1,
+      "warranted_buyers": 0,
+      "project_count": 1
+    },
+    {
+      "id": "refund",
+      "label": "Money not returned",
+      "buyers": 1,
+      "buyers_won": 1,
+      "warranted_buyers": 0,
+      "project_count": 1
+    }
+  ],
+  "projects": [
+    {
+      "project_no": "P51800004719",
+      "warrant_count": 3
+    },
+    {
+      "project_no": "P51800005668",
+      "warrant_count": 3
+    },
+    {
+      "project_no": "P51800006781",
+      "warrant_count": 4
+    },
+    {
+      "project_no": "P51800007641",
+      "warrant_count": 1
+    },
+    {
+      "project_no": "P51800010841",
+      "warrant_count": 1
+    },
+    {
+      "project_no": "P51800012386",
+      "warrant_count": 1
+    }
+  ],
+  "orders": [
+    {
+      "order_id": "028a222d29b27325e141b51cfaed0ec767a56f41411a1225435ffb560cc3e420",
+      "order_date": "2022-09-16",
+      "project_name": "Turquoise",
+      "project_reg_no": "P51800003188",
+      "order_total_points": 5.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000012119",
+          "complainant_names": [
+            "Sadia Ishaque Daruesh",
+            "Abeer Syed"
+          ],
+          "relief_type": "refund_of_consideration",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "refund_principal",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "The respondent has partially complied with the consent terms by paying Rs. 27,00,000 out of Rs. 1,50,00,000 and has not submitted any justified reasons for non-compliance, hence directed to refund the balance amount.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "0435e191615395b1ef04a356bb64779f25428d27a655e3b454ba2c979bae469f",
+      "order_date": "2019-08-06",
+      "project_name": "Turquoise",
+      "project_reg_no": "P518000003188",
+      "order_total_points": 5.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000078380",
+          "complainant_names": [
+            "Smita Bhikaji Kaskar"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "compensation",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "There is a delay in handing over possession as per the registered agreement for sale. The respondent has not mentioned sufficient reason for the delay. Allottees are entitled to seek interest for delayed possession under Section 18 of the RERA Act.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "0b82c71752f3accbb6faa2b07c00379093c980b7fc9eaa0d19a59adabcdc0a19",
+      "order_date": "2019-08-06",
+      "project_name": "Ace and Matchpoint",
+      "project_reg_no": "P51800007641",
+      "order_total_points": 0.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000058064",
+          "complainant_names": [
+            "Mr. Narendra Parmanand Lilaney"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": false,
+          "amount": null,
+          "reasoning": "The project is being transferred to another developer (M/s. Shapoorji Pallonji), so the claim cannot be decided at this stage. Appropriate decision will be taken on merits after completion of transfer proceedings.",
+          "has_warrant": false,
+          "signal": null,
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000058064",
+          "complainant_names": [
+            "Mr. Narendra Parmanand Lilaney"
+          ],
+          "relief_type": "delay_interest",
+          "granted": false,
+          "amount": null,
+          "reasoning": "Since the project is being transferred to another developer, the claim for interest cannot be decided at this stage and will be considered after transfer proceedings.",
+          "has_warrant": false,
+          "signal": null,
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        }
+      ]
+    },
+    {
+      "order_id": "18ce76a11515e107587d8f93cf20b9479dde010aebf90d7e8e6b7d4effe93501",
+      "order_date": "2018-05-14",
+      "project_name": "Turquoise",
+      "project_reg_no": "P51800003188",
+      "order_total_points": 5.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000012119",
+          "complainant_names": [
+            "Mrs. Sadia Ishque Daruesh",
+            "Ms. Abeer Syed"
+          ],
+          "relief_type": "refund_of_consideration",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "refund_principal",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Both parties settled the matter amicably and filed consent terms, leading to disposal of the complaint.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "1b0f7700f13106d3948d1800a93ec984d7472d160601f171c40d82926ebb63a0",
+      "order_date": "2020-12-17",
+      "project_name": "Nirmal Lifestyle - Blu Diamond - One Edition",
+      "project_reg_no": "P51800006693",
+      "order_total_points": 15.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000120965",
+          "complainant_names": [
+            "Vivek V. Shinde",
+            "Yojana V. Shinde"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "9% p.a. (2% above SBI's highest MCLR which is currently 7% p.a.)"
+          },
+          "reasoning": "Respondent failed to mention the date of possession in the agreement for sale in violation of section 13(2) of RERA and MOFA. Complainants are entitled to simple interest for delayed possession from 05.09.2006 till handing over possession.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000120965",
+          "complainant_names": [
+            "Vivek V. Shinde",
+            "Yojana V. Shinde"
+          ],
+          "relief_type": "cost",
+          "granted": true,
+          "amount": {
+            "value": 20000.0,
+            "type": "cost",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Complainants are entitled to Rs. 20,000/- towards the cost of the complaint.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000120965",
+          "complainant_names": [
+            "Vivek V. Shinde",
+            "Yojana V. Shinde"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is liable to handover possession of the flat along with all agreed amenities and completion/occupancy certificate at the earliest but not later than December 2021.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "218f9088442c200b91ee96ccf60eae234fcf256f94f68ec84c49c868915ede42",
+      "order_date": "2019-03-29",
+      "project_name": null,
+      "project_reg_no": null,
+      "order_total_points": 5.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000057898",
+          "complainant_names": [
+            "Yogesh Kulkarni"
+          ],
+          "relief_type": "other",
+          "granted": true,
+          "amount": null,
+          "reasoning": "The complainant submitted an application for withdrawal at the hearing, which was allowed, disposing of the complaint as withdrawn with liberty to file afresh at an appropriate time.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "24abde361c3b1bcfac31e3d648ada76026546b25342b67628191012c1b51354f",
+      "order_date": "2018-02-23",
+      "project_name": "Aces",
+      "project_reg_no": "P51800007641",
+      "order_total_points": 10.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000001588",
+          "complainant_names": [
+            "Mr. Pramod Ashtekar"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": null,
+          "reasoning": "The parties settled the matter amicably and filed consent terms on record.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000001588",
+          "complainant_names": [
+            "Mr. Pramod Ashtekar"
+          ],
+          "relief_type": "compensation",
+          "granted": true,
+          "amount": null,
+          "reasoning": "The parties settled the matter amicably and filed consent terms on record.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "2588ab2f369eb12f497101ea57d78971057f60318cb10a10881bfb37d7c4a003",
+      "order_date": "2019-04-04",
+      "project_name": "Blue Diamond",
+      "project_reg_no": null,
+      "order_total_points": 320.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000055510",
+          "complainant_names": [
+            "Geeta Sekhar"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055510",
+          "complainant_names": [
+            "Geeta Sekhar"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055513",
+          "complainant_names": [
+            "Narendra Nadkarni"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055513",
+          "complainant_names": [
+            "Narendra Nadkarni"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055514",
+          "complainant_names": [
+            "Umesh Bahdur"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055514",
+          "complainant_names": [
+            "Umesh Bahdur"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055515",
+          "complainant_names": [
+            "Sheela Ved"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055515",
+          "complainant_names": [
+            "Sheela Ved"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055519",
+          "complainant_names": [
+            "Ashok Anand"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055519",
+          "complainant_names": [
+            "Ashok Anand"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055520",
+          "complainant_names": [
+            "Shrikumar Naik"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055520",
+          "complainant_names": [
+            "Shrikumar Naik"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055521",
+          "complainant_names": [
+            "Ashok Balani"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055521",
+          "complainant_names": [
+            "Ashok Balani"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055522",
+          "complainant_names": [
+            "Rajkumar Balani"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055522",
+          "complainant_names": [
+            "Rajkumar Balani"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055525",
+          "complainant_names": [
+            "Kamlesh Advani"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055525",
+          "complainant_names": [
+            "Kamlesh Advani"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055526",
+          "complainant_names": [
+            "Mukesh Hiran"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055526",
+          "complainant_names": [
+            "Mukesh Hiran"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055527",
+          "complainant_names": [
+            "Dhiraj Saxena"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055527",
+          "complainant_names": [
+            "Dhiraj Saxena"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055528",
+          "complainant_names": [
+            "Upendra Tiwari"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055528",
+          "complainant_names": [
+            "Upendra Tiwari"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055529",
+          "complainant_names": [
+            "Dr Praveen Mody"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055529",
+          "complainant_names": [
+            "Dr Praveen Mody"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055530",
+          "complainant_names": [
+            "Suresh Shetty"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055530",
+          "complainant_names": [
+            "Suresh Shetty"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055531",
+          "complainant_names": [
+            "Prashant Borade"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055531",
+          "complainant_names": [
+            "Prashant Borade"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055532",
+          "complainant_names": [
+            "Mr Dharmu Balani",
+            "Mrs Neetu Balani"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055532",
+          "complainant_names": [
+            "Mr Dharmu Balani",
+            "Mrs Neetu Balani"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055534",
+          "complainant_names": [
+            "Mr Manish Korgaonkar",
+            "Mrs Meena Korgaonkar"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055534",
+          "complainant_names": [
+            "Mr Manish Korgaonkar",
+            "Mrs Meena Korgaonkar"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055535",
+          "complainant_names": [
+            "Pradeep D'Souza"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055535",
+          "complainant_names": [
+            "Pradeep D'Souza"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055536",
+          "complainant_names": [
+            "Mohanlal Padhi"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055536",
+          "complainant_names": [
+            "Mohanlal Padhi"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055538",
+          "complainant_names": [
+            "Colville Sequeira"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055538",
+          "complainant_names": [
+            "Colville Sequeira"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055540",
+          "complainant_names": [
+            "Mohamed Ansari"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055540",
+          "complainant_names": [
+            "Mohamed Ansari"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055541",
+          "complainant_names": [
+            "Ramprakash Iyer"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055541",
+          "complainant_names": [
+            "Ramprakash Iyer"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055544",
+          "complainant_names": [
+            "Kulwant Singh Mokha"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055544",
+          "complainant_names": [
+            "Kulwant Singh Mokha"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055545",
+          "complainant_names": [
+            "Anthony Peter"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055545",
+          "complainant_names": [
+            "Anthony Peter"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055546",
+          "complainant_names": [
+            "Anand Vachhani"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055546",
+          "complainant_names": [
+            "Anand Vachhani"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055547",
+          "complainant_names": [
+            "R Krishnan"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055547",
+          "complainant_names": [
+            "R Krishnan"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055548",
+          "complainant_names": [
+            "Manoj R Iyer"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055548",
+          "complainant_names": [
+            "Manoj R Iyer"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055549",
+          "complainant_names": [
+            "Manisha A Ramchandani"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055549",
+          "complainant_names": [
+            "Manisha A Ramchandani"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055550",
+          "complainant_names": [
+            "Aruna Godwin"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055550",
+          "complainant_names": [
+            "Aruna Godwin"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055553",
+          "complainant_names": [
+            "Avaneet Soni"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055553",
+          "complainant_names": [
+            "Avaneet Soni"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055518",
+          "complainant_names": [
+            "Deepa Patil"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055518",
+          "complainant_names": [
+            "Deepa Patil"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000056338",
+          "complainant_names": [
+            "Gautam Addanki"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "MCLR + 2%"
+          },
+          "reasoning": "Promoter delayed handing over possession beyond reasonable time after supreme court clearance in 2014.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000056338",
+          "complainant_names": [
+            "Gautam Addanki"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to complete the formation of the association/society of the allottees.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    }
+  ],
+  "last_built": "2026-09-22"
+}

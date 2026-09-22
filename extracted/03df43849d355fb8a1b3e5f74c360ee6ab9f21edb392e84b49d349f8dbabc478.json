@@ -1,0 +1,88 @@
+{
+  "order_id": "03df43849d355fb8a1b3e5f74c360ee6ab9f21edb392e84b49d349f8dbabc478",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 2,
+  "coram": {
+    "name": "Shri. Ajoy Mehta",
+    "designation": "Chairperson, MahaRERA"
+  },
+  "respondents": [
+    {
+      "name": "JVPD PROPERTIES PVT LTD",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Bhagtani Serenity",
+    "project_reg_no": "P51800011181",
+    "location": null,
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "Proposed date of completion 30th July, 2025, revised to 30th July, 2026."
+    }
+  },
+  "primary_order": {
+    "order_date": "2022-01-10",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000192985",
+        "complainant_names": [
+          "OM PRAKASH SINGH"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The Authority stated it lacks jurisdiction to interfere with the terms of pre-RERA allotment letters. Complainants' entitlement to refund is to be governed by the individual Letter of Allotment.",
+            "source_page": 7
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193001",
+        "complainant_names": [
+          "VIJAI LAXMI SINGH"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The Authority stated it lacks jurisdiction to interfere with the terms of pre-RERA allotment letters. Complainants' entitlement to refund is to be governed by the individual Letter of Allotment.",
+            "source_page": 7
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 3
+  },
+  "supplementary_proceedings": [
+    {
+      "proceeding_type": "other",
+      "date": "2022-06-08",
+      "complaint_no": "CC006000000192985",
+      "outcome": "allowed",
+      "reasoning": "Rectification of an inadvertent error in the date of the final order from '10.01.2021' to '10.01.2022'.",
+      "source_page": 1
+    },
+    {
+      "proceeding_type": "other",
+      "date": "2022-06-08",
+      "complaint_no": "CC006000000193001",
+      "outcome": "allowed",
+      "reasoning": "Rectification of an inadvertent error in the date of the final order from '10.01.2021' to '10.01.2022'.",
+      "source_page": 1
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "The primary order date is set to the rectified date '2022-01-10'. The rectification order is captured as a supplementary proceeding, noting the change for both clubbed complaints."
+}

@@ -1,0 +1,996 @@
+{
+  "builder_id": "shadow-builders",
+  "builder_name": "Shadow Builders",
+  "name_variants": [
+    "M/S SHADOW BUILDERS AND DEVELOPERS PVT LTD",
+    "Shadow Builders"
+  ],
+  "score": 2.6,
+  "raw_points": 180.0,
+  "project_count": 1,
+  "warrant_count": 12,
+  "warrant_points": 180.0,
+  "warrants_recent_count": 0,
+  "warrants_recent_points": 0,
+  "warrants_older_count": 12,
+  "warrants_older_points": 180.0,
+  "order_count": 1,
+  "relief_count": 52,
+  "order_points": 0,
+  "total_buyers": 12,
+  "buyers_won": 12,
+  "warranted_buyers": 12,
+  "buyers_won_no_warrant": 0,
+  "adverse_no_warrant_relief_count": 0,
+  "categories": [
+    {
+      "id": "late-possession",
+      "label": "Flat handed over late",
+      "buyers": 12,
+      "buyers_won": 12,
+      "warranted_buyers": 12,
+      "project_count": 1
+    },
+    {
+      "id": "other",
+      "label": "Other",
+      "buyers": 12,
+      "buyers_won": 12,
+      "warranted_buyers": 12,
+      "project_count": 1
+    }
+  ],
+  "projects": [
+    {
+      "project_no": "P52000007231",
+      "warrant_count": 12
+    }
+  ],
+  "orders": [
+    {
+      "order_id": "1945ea1409c0a4f48e3167f435ab3bddd82f7ac48ea29ad2e8442ac9654a441d",
+      "order_date": "2021-01-01",
+      "project_name": "Apollo 2",
+      "project_reg_no": "P52000007231",
+      "order_total_points": 0.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000193147",
+          "complainant_names": [
+            "Mr Vishal Phalke",
+            "Mrs Anita Phalke"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "9% p.a."
+          },
+          "reasoning": "Respondent failed to hand over possession by the agreed date and delayed completion.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193147",
+          "complainant_names": [
+            "Mr Vishal Phalke",
+            "Mrs Anita Phalke"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Allottees are entitled to possession with occupancy certificate.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193147",
+          "complainant_names": [
+            "Mr Vishal Phalke",
+            "Mrs Anita Phalke"
+          ],
+          "relief_type": "other",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to join the complainants as members in the existing society.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193147",
+          "complainant_names": [
+            "Mr Vishal Phalke",
+            "Mrs Anita Phalke"
+          ],
+          "relief_type": "cost",
+          "granted": true,
+          "amount": {
+            "value": 20000,
+            "type": "cost",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Cost awarded for each complaint.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193148",
+          "complainant_names": [
+            "Smita Laxman Survase",
+            "Laxman Shamrao Survase"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "9% p.a."
+          },
+          "reasoning": "Respondent failed to hand over possession by the agreed date.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193148",
+          "complainant_names": [
+            "Smita Laxman Survase",
+            "Laxman Shamrao Survase"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Allottees are entitled to possession with occupancy certificate.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193148",
+          "complainant_names": [
+            "Smita Laxman Survase",
+            "Laxman Shamrao Survase"
+          ],
+          "relief_type": "other",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to join the complainants as members in the existing society.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193148",
+          "complainant_names": [
+            "Smita Laxman Survase",
+            "Laxman Shamrao Survase"
+          ],
+          "relief_type": "cost",
+          "granted": true,
+          "amount": {
+            "value": 20000,
+            "type": "cost",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Cost awarded for each complaint.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193149",
+          "complainant_names": [
+            "Ravindra Vishnu Mojar"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "9% p.a."
+          },
+          "reasoning": "Respondent failed to hand over possession by the agreed date.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193149",
+          "complainant_names": [
+            "Ravindra Vishnu Mojar"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Allottees are entitled to possession with occupancy certificate.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193149",
+          "complainant_names": [
+            "Ravindra Vishnu Mojar"
+          ],
+          "relief_type": "other",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to join the complainants as members in the existing society.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193149",
+          "complainant_names": [
+            "Ravindra Vishnu Mojar"
+          ],
+          "relief_type": "cost",
+          "granted": true,
+          "amount": {
+            "value": 20000,
+            "type": "cost",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Cost awarded for each complaint.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193150",
+          "complainant_names": [
+            "Sukhadev Virakar",
+            "Nanda Virakar"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "9% p.a."
+          },
+          "reasoning": "Respondent failed to hand over possession by the agreed date.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193150",
+          "complainant_names": [
+            "Sukhadev Virakar",
+            "Nanda Virakar"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Allottees are entitled to possession with occupancy certificate.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193150",
+          "complainant_names": [
+            "Sukhadev Virakar",
+            "Nanda Virakar"
+          ],
+          "relief_type": "other",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to join the complainants as members in the existing society.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193150",
+          "complainant_names": [
+            "Sukhadev Virakar",
+            "Nanda Virakar"
+          ],
+          "relief_type": "cost",
+          "granted": true,
+          "amount": {
+            "value": 20000,
+            "type": "cost",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Cost awarded for each complaint.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193151",
+          "complainant_names": [
+            "Manasi Keni"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "9% p.a."
+          },
+          "reasoning": "Respondent failed to hand over possession by the agreed date.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193151",
+          "complainant_names": [
+            "Manasi Keni"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Allottees are entitled to possession with occupancy certificate.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193151",
+          "complainant_names": [
+            "Manasi Keni"
+          ],
+          "relief_type": "other",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to join the complainants as members in the existing society.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193151",
+          "complainant_names": [
+            "Manasi Keni"
+          ],
+          "relief_type": "cost",
+          "granted": true,
+          "amount": {
+            "value": 20000,
+            "type": "cost",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Cost awarded for each complaint.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193152",
+          "complainant_names": [
+            "Mansing Deshmukh"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "9% p.a."
+          },
+          "reasoning": "Respondent failed to hand over possession by the agreed date.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193152",
+          "complainant_names": [
+            "Mansing Deshmukh"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Allottees are entitled to possession with occupancy certificate.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193152",
+          "complainant_names": [
+            "Mansing Deshmukh"
+          ],
+          "relief_type": "other",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to join the complainants as members in the existing society.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193152",
+          "complainant_names": [
+            "Mansing Deshmukh"
+          ],
+          "relief_type": "cost",
+          "granted": true,
+          "amount": {
+            "value": 20000,
+            "type": "cost",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Cost awarded for each complaint.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193153",
+          "complainant_names": [
+            "Rajiv Chand Rajan",
+            "Meena Rajiv Rajan"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "9% p.a."
+          },
+          "reasoning": "Respondent failed to mention date of possession in agreement, but inferred date 01/03/2018 applies.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193153",
+          "complainant_names": [
+            "Rajiv Chand Rajan",
+            "Meena Rajiv Rajan"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Allottees are entitled to possession with occupancy certificate.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193153",
+          "complainant_names": [
+            "Rajiv Chand Rajan",
+            "Meena Rajiv Rajan"
+          ],
+          "relief_type": "other",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to join the complainants as members in the existing society.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193153",
+          "complainant_names": [
+            "Rajiv Chand Rajan",
+            "Meena Rajiv Rajan"
+          ],
+          "relief_type": "cost",
+          "granted": true,
+          "amount": {
+            "value": 20000,
+            "type": "cost",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Cost awarded for each complaint.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193154",
+          "complainant_names": [
+            "Shailesh Damodar Keni"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "9% p.a."
+          },
+          "reasoning": "Respondent failed to hand over possession by the agreed date.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193154",
+          "complainant_names": [
+            "Shailesh Damodar Keni"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Allottees are entitled to possession with occupancy certificate.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193154",
+          "complainant_names": [
+            "Shailesh Damodar Keni"
+          ],
+          "relief_type": "other",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to join the complainants as members in the existing society.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193154",
+          "complainant_names": [
+            "Shailesh Damodar Keni"
+          ],
+          "relief_type": "cost",
+          "granted": true,
+          "amount": {
+            "value": 20000,
+            "type": "cost",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Cost awarded for each complaint.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193155",
+          "complainant_names": [
+            "Kannan Krishnan Swami",
+            "Manashri Dihingia"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "9% p.a."
+          },
+          "reasoning": "Respondent failed to hand over possession by agreed date.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193155",
+          "complainant_names": [
+            "Kannan Krishnan Swami",
+            "Manashri Dihingia"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Allottees are entitled to possession with occupancy certificate.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193155",
+          "complainant_names": [
+            "Kannan Krishnan Swami",
+            "Manashri Dihingia"
+          ],
+          "relief_type": "other",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Parties are directed to reconcile accounts regarding alleged excess amount paid.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193155",
+          "complainant_names": [
+            "Kannan Krishnan Swami",
+            "Manashri Dihingia"
+          ],
+          "relief_type": "other",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to join the complainants as members in the existing society.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193155",
+          "complainant_names": [
+            "Kannan Krishnan Swami",
+            "Manashri Dihingia"
+          ],
+          "relief_type": "cost",
+          "granted": true,
+          "amount": {
+            "value": 20000,
+            "type": "cost",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Cost awarded for each complaint.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193156",
+          "complainant_names": [
+            "Yogesh Nanabhau Ahire",
+            "Nanabhau Fula Ahire"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "9% p.a."
+          },
+          "reasoning": "Respondent failed to hand over possession by agreed date.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193156",
+          "complainant_names": [
+            "Yogesh Nanabhau Ahire",
+            "Nanabhau Fula Ahire"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Allottees are entitled to possession with occupancy certificate.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193156",
+          "complainant_names": [
+            "Yogesh Nanabhau Ahire",
+            "Nanabhau Fula Ahire"
+          ],
+          "relief_type": "other",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Parties are directed to reconcile accounts regarding alleged excess amount paid.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193156",
+          "complainant_names": [
+            "Yogesh Nanabhau Ahire",
+            "Nanabhau Fula Ahire"
+          ],
+          "relief_type": "other",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to join the complainants as members in the existing society.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193156",
+          "complainant_names": [
+            "Yogesh Nanabhau Ahire",
+            "Nanabhau Fula Ahire"
+          ],
+          "relief_type": "cost",
+          "granted": true,
+          "amount": {
+            "value": 20000,
+            "type": "cost",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Cost awarded for each complaint.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193157",
+          "complainant_names": [
+            "Neeta Rajdoot Shinde"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "9% p.a."
+          },
+          "reasoning": "Respondent failed to hand over possession by agreed date.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193157",
+          "complainant_names": [
+            "Neeta Rajdoot Shinde"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Allottees are entitled to possession with occupancy certificate.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193157",
+          "complainant_names": [
+            "Neeta Rajdoot Shinde"
+          ],
+          "relief_type": "other",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Parties are directed to reconcile accounts regarding alleged excess amount paid.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193157",
+          "complainant_names": [
+            "Neeta Rajdoot Shinde"
+          ],
+          "relief_type": "other",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "refund_principal",
+            "recipient": "buyer",
+            "interest_rate_description": "9% p.a."
+          },
+          "reasoning": "If respondent recovered excess money, it shall refund it with simple interest at 9% p.a.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193157",
+          "complainant_names": [
+            "Neeta Rajdoot Shinde"
+          ],
+          "relief_type": "other",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to join the complainants as members in the existing society.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193157",
+          "complainant_names": [
+            "Neeta Rajdoot Shinde"
+          ],
+          "relief_type": "cost",
+          "granted": true,
+          "amount": {
+            "value": 20000,
+            "type": "cost",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Cost awarded for each complaint.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193158",
+          "complainant_names": [
+            "Shankar Ananda Phanse",
+            "Surekha Shankar Phanse"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "9% p.a."
+          },
+          "reasoning": "Respondent failed to hand over possession by agreed date.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193158",
+          "complainant_names": [
+            "Shankar Ananda Phanse",
+            "Surekha Shankar Phanse"
+          ],
+          "relief_type": "possession_and_completion",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Allottees are entitled to possession with occupancy certificate.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193158",
+          "complainant_names": [
+            "Shankar Ananda Phanse",
+            "Surekha Shankar Phanse"
+          ],
+          "relief_type": "other",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Respondent is directed to join the complainants as members in the existing society.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193158",
+          "complainant_names": [
+            "Shankar Ananda Phanse",
+            "Surekha Shankar Phanse"
+          ],
+          "relief_type": "cost",
+          "granted": true,
+          "amount": {
+            "value": 20000,
+            "type": "cost",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Cost awarded for each complaint.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        }
+      ]
+    }
+  ],
+  "last_built": "2026-09-22"
+}

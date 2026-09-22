@@ -1,0 +1,67 @@
+{
+  "order_id": "a35494eb371656d5a5bd31b35f8d80c9a655d46c941d73265d86a72c3fd0fbb0",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Dr. Vijay Satbir Singh",
+    "designation": "Member-1/MahaRERA"
+  },
+  "respondents": [
+    {
+      "name": "M/s. Nirmal Lifestyle (Kalyan) Private Limited",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Victory-B",
+    "project_reg_no": "P51700003544",
+    "location": "Kalyan Dist Thane",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2018-04-17",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000001419",
+        "complainant_names": [
+          "Mr. Ajay Sankhyan"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "actual date of possession",
+              "from_date": "2017-05-01",
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Parties reached an amicable settlement where the respondent agreed to pay interest for delayed possession. The interest commences from 1st May 2017, to be paid on a monthly basis on the 10th day, until the actual date of possession or 31st July 2018, whichever is earlier. It was further clarified that if possession is beyond 31st July 2018, interest payment continues till the actual date of possession.",
+            "source_page": 1
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "The order specifies payment of 'interest' without stating a specific rate or total amount, hence 'value' and 'interest_rate_description' are null. The deadline is interpreted as ongoing until actual possession, commencing from 2017-05-01, as the clarification in 1(d) overrides the earlier of 31st July 2018 clause if possession is delayed beyond that date. The monthly payment on the 10th day is an operational detail of the ongoing interest payment, not a breakdown of a fixed sum into installments."
+}

@@ -1,0 +1,559 @@
+{
+  "order_id": "18af36f475a491635882bbf6bdd57287ff50c6938bdee86bb5c3e03b06019525",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 18,
+  "coram": {
+    "name": "Shri B.D. Kapadnis",
+    "designation": "Member II"
+  },
+  "respondents": [
+    {
+      "name": "JVPD Properties Pvt. Ltd.",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Bhagtani Serenity",
+    "project_reg_no": "P51800011181",
+    "location": "Village Tirandaz, Taluka Kurla",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "Project abandoned by respondents"
+    }
+  },
+  "primary_order": {
+    "order_date": "2020-02-18",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000110798",
+        "complainant_names": [
+          "Ashesh Garg",
+          "Manu Garg"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 4070466,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project and abandoned it.",
+            "source_page": 6
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost of complaint granted to complainants.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000141028",
+        "complainant_names": [
+          "Praveenkumar Garg"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 2180353,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project and abandoned it.",
+            "source_page": 6
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost of complaint granted to complainants.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000141134",
+        "complainant_names": [
+          "Mr Sharad vasudev Koli",
+          "Mrs Priyanka Sharad Koli"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 4364479,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project and abandoned it.",
+            "source_page": 6
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost of complaint granted to complainants.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192243",
+        "complainant_names": [
+          "Ms. M. V. Geetha",
+          "Mr. G. Venkata Krishanan"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 5066100,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project and abandoned it. Cash payment of Rs 4,00,750/- not proved.",
+            "source_page": 6
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost of complaint granted to complainants.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192328",
+        "complainant_names": [
+          "Indu Sharma"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 2866266,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project and abandoned it.",
+            "source_page": 6
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost of complaint granted to complainants.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192389",
+        "complainant_names": [
+          "Renu H Dubey"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 4142672,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project and abandoned it.",
+            "source_page": 6
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost of complaint granted to complainants.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192391",
+        "complainant_names": [
+          "Shashi H Dubey",
+          "Harish D Dubey"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 5814008,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project and abandoned it.",
+            "source_page": 6
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost of complaint granted to complainants.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192395",
+        "complainant_names": [
+          "Shweta Nayak"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 3580586,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project and abandoned it.",
+            "source_page": 6
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost of complaint granted to complainants.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192412",
+        "complainant_names": [
+          "Sudhir Kumar Singh",
+          "Meenakshi Singh"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 2071336,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project and abandoned it.",
+            "source_page": 6
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost of complaint granted to complainants.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192432",
+        "complainant_names": [
+          "Alphonso Paul"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 3384252,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project and abandoned it.",
+            "source_page": 6
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost of complaint granted to complainants.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192435",
+        "complainant_names": [
+          "Selvin Correia",
+          "Pinky Correia"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 1915540,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project and abandoned it.",
+            "source_page": 6
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost of complaint granted to complainants.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192439",
+        "complainant_names": [
+          "Smitha Anand Maroli",
+          "Suresh Anand Maroli"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 5301818,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project and abandoned it.",
+            "source_page": 6
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost of complaint granted to complainants.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192473",
+        "complainant_names": [
+          "Jatinder Pal Singh Dhanjal",
+          "Kuldeep Singh"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 4639050,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project and abandoned it.",
+            "source_page": 6
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost of complaint granted to complainants.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192475",
+        "complainant_names": [
+          "Ajay Narayan Solanki",
+          "Varsha Ajay Solanki"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 5416950,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project and abandoned it.",
+            "source_page": 6
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost of complaint granted to complainants.",
+            "source_page": 6
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 6
+  },
+  "supplementary_proceedings": [
+    {
+      "proceeding_type": "execution_application",
+      "date": "2020-10-16",
+      "complaint_no": "CC006000000110798",
+      "outcome": "allowed",
+      "reasoning": "Non-compliance of final order dated 18th February 2020 reported. Respondent contention regarding frozen bank account rejected as respondents had opportunity and other sources to satisfy claims. Recovery warrant issued under Section 40(1) of RERA.",
+      "source_page": 8
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Pages 7 and 8 contain supplementary proceedings for additional complaints under a recovery application for non-compliance of the final order. The main final order lists multiple clubbed complaints with distinct amounts paid."
+}

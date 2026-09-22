@@ -1,0 +1,54 @@
+{
+  "order_id": "00fb8defdd0b268b02db953b860d5b07fb3cbd90146c0c5a44a01535d7ac48fc",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Dr. Vijay Satbir Singh",
+    "designation": "Member-1"
+  },
+  "respondents": [
+    {
+      "name": "M/s. Nirmal Lifestyle (K.) Pvt. Ltd.",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Nirmal Lifestyle-Center Court",
+    "project_reg_no": "P51800012386",
+    "location": "Mulund (West), Mumbai",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2019-02-06",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000055199",
+        "complainant_names": [
+          "Mr. Yuvraj Aher"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Parties settled the matter amicably and filed a consent terms and withdrawal application dated 6th February 2019, which is taken on record.",
+            "source_page": 1
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "The complaint was disposed of as settled amicably based on consent terms filed by both parties."
+}

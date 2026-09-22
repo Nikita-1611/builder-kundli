@@ -1,0 +1,99 @@
+{
+  "order_id": "09133243631d14c042493b9784900a22332b8da06b2f91c72187e0c0ad55e3ce",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 2,
+  "coram": {
+    "name": "Dr. Vasant Prabhu",
+    "designation": "Secretary, MahaRERA"
+  },
+  "respondents": [
+    {
+      "name": "Nirmal Lifestyle (Kalyan) Private Limited",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Lifestyle City Kalyan-Platano B",
+    "project_reg_no": "P51700003540",
+    "location": "Kalyan, Dist. Thane - 421301",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "Project is being implemented; booked apartments not to be attached to allow completion."
+    }
+  },
+  "primary_order": {
+    "order_date": "2021-02-26",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000192232",
+        "complainant_names": [
+          "Vaishali Himanshu Khot",
+          "Himanshu Khot"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "The respondent was directed to refund the amount paid by the complainant (excluding taxes).",
+            "source_page": 9
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "applicable interest"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "full refund of the amount to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "The respondent was directed to refund the amount paid by the complainant along with applicable interest.",
+            "source_page": 9
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 9
+  },
+  "supplementary_proceedings": [
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2022-01-07",
+      "complaint_no": "CC006000000192232",
+      "outcome": "allowed",
+      "reasoning": "The complainant filed a non-compliance application as the respondent failed to comply with the primary order (refund with interest). The respondent did not appear for the hearing. MahaRERA found no alternative but to issue a recovery warrant, thereby disposing of the non-compliance application.",
+      "source_page": 9
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "OC status inferred as 'not received' for the whole project as the document states the project is 'being implemented' and mentions not attaching 'booked apartments' so the project can be 'completed'."
+}

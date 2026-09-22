@@ -1,0 +1,64 @@
+{
+  "order_id": "93f8e92fba911435a2a20039f51f1c2917666975dba9c00814fdbc632581fa04",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Dr. Vijay Satbir Singh",
+    "designation": "Member 1"
+  },
+  "respondents": [
+    {
+      "name": "M/s Nirmal Developers",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Olympia B",
+    "project_reg_no": "P51800012383",
+    "location": "Mulund (West)",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2018-01-23",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000001434",
+        "complainant_names": [
+          "Mr. Ramchandra L. Badge",
+          "Mrs Pushpalata R. Badge"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complaint seeking refund and interest was disposed of as parties settled amicably and filed consent terms on record of the Authority. The Authority did not pass an order for refund or interest.",
+            "source_page": 1
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complaint seeking refund and interest was disposed of as parties settled amicably and filed consent terms on record of the Authority. The Authority did not pass an order for refund or interest.",
+            "source_page": 1
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "The complaint was disposed of due to an amicable settlement between the parties, with consent terms filed. The Authority's order itself did not grant any specific reliefs (like refund or interest) directly, but rather recorded the settlement. Therefore, 'granted' is marked as false for the individual reliefs as per the schema's interpretation of 'granted by the order'."
+}

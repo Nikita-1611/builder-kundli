@@ -1,0 +1,54 @@
+{
+  "order_id": "02e2c59011842dfe373b4a650e4ac33eae6791d31d2f20b4d21002e23989b76e",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Shri B.D. Kapadnis",
+    "designation": "Member-II"
+  },
+  "respondents": [
+    {
+      "name": "Vidhi Realtors",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Gaurav Discovery",
+    "project_reg_no": "P51800007949",
+    "location": null,
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "Implied not received as the possession date was extended due to the COVID-19 pandemic, rendering the complaint premature."
+    }
+  },
+  "primary_order": {
+    "order_date": "2021-01-29",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000161278",
+        "complainant_names": [
+          "Kamala Rakesh Agarwal"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The complaint for refund under Section 18 of RERA is not maintainable as it is premature. The agreed date of possession, December 2020, was extended for six months due to the Covid-19 pandemic (MahaRERA Order No. 14/2020 dated 18.05.2020). The complainant has liberty to file the complaint after the lapse of the extended date.",
+            "source_page": 1
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "Project location not specified. OC status inferred as not received because the possession date was extended, making the Section 18 complaint premature."
+}

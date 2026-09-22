@@ -1,0 +1,771 @@
+{
+  "order_id": "19c35808da0acd8be7d9c27608f5ff083920bafb9bfc575a23fbab205cedcbff",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 19,
+  "coram": {
+    "name": "Dr. Vijay Satbir Singh",
+    "designation": "Member - 1/MahaRERA"
+  },
+  "respondents": [
+    {
+      "name": "M/s. Sahyog Homes Ltd",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Verona",
+    "project_reg_no": "P51800003040",
+    "location": "Oshiwara, Jogeshwari(West), Mumbai-400102",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2019-12-05",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000057431",
+        "complainant_names": [
+          "Viloo Keki Italia"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The project BBJ Roma in which flats were booked is not registered and has no sanctioned plan/CC; complainants are directed to be treated as allottees in BBJ Roma or future registered project as per layout, or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to seek refund of their money along with interest at SBI MCLR plus 2% as offered by respondent.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000057844",
+        "complainant_names": [
+          "Manav Aggarwal",
+          "Shirin Aggarwal"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Project BBJ Roma not registered; complainants to be treated as allottees in future registered project or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants entitled to seek refund with interest at SBI MCLR plus 2% from the date of payment.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000057804",
+        "complainant_names": [
+          "Manav Aggarwal",
+          "Shirin Aggarwal"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Project BBJ Roma not registered; complainants to be treated as allottees in future registered project or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants entitled to seek refund with interest at SBI MCLR plus 2% from the date of payment.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000057760",
+        "complainant_names": [
+          "Shirin Agarwal",
+          "Shagun Udhas"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Project BBJ Roma not registered; complainants to be treated as allottees in future registered project or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants entitled to seek refund with interest at SBI MCLR plus 2% from the date of payment.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000057767",
+        "complainant_names": [
+          "Manav Aggarwal",
+          "Shirin Aggarwal"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Project BBJ Roma not registered; complainants to be treated as allottees in future registered project or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants entitled to seek refund with interest at SBI MCLR plus 2% from the date of payment.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000057761",
+        "complainant_names": [
+          "Eshan Aggarwal"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Project BBJ Roma not registered; complainants to be treated as allottees in future registered project or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants entitled to seek refund with interest at SBI MCLR plus 2% from the date of payment.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000057849",
+        "complainant_names": [
+          "Shashi Udhas",
+          "Pradeep Udhas"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Project BBJ Roma not registered; complainants to be treated as allottees in future registered project or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants entitled to seek refund with interest at SBI MCLR plus 2% from the date of payment.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000057843",
+        "complainant_names": [
+          "Pradeep Udhas",
+          "Shashi Udhas"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Project BBJ Roma not registered; complainants to be treated as allottees in future registered project or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants entitled to seek refund with interest at SBI MCLR plus 2% from the date of payment.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000057848",
+        "complainant_names": [
+          "Shashi Udhas",
+          "Pradeep Udhas"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Project BBJ Roma not registered; complainants to be treated as allottees in future registered project or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants entitled to seek refund with interest at SBI MCLR plus 2% from the date of payment.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000058137",
+        "complainant_names": [
+          "Husein K Kuwajerwala",
+          "Tina Kumar Darire"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Project BBJ Roma not registered; complainants to be treated as allottees in future registered project or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants entitled to seek refund with interest at SBI MCLR plus 2% from the date of payment.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000058139",
+        "complainant_names": [
+          "Tina Kumar Darire",
+          "Husein K Kuwajerwala"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Project BBJ Roma not registered; complainants to be treated as allottees in future registered project or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants entitled to seek refund with interest at SBI MCLR plus 2% from the date of payment.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000068141",
+        "complainant_names": [
+          "Sonam Kapoor",
+          "Sunita Kapoor"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Project BBJ Roma not registered; complainants to be treated as allottees in future registered project or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants entitled to seek refund with interest at SBI MCLR plus 2% from the date of payment.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000068143",
+        "complainant_names": [
+          "Rhea Kapoor",
+          "Sunita Kapoor"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Project BBJ Roma not registered; complainants to be treated as allottees in future registered project or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants entitled to seek refund with interest at SBI MCLR plus 2% from the date of payment.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000058131",
+        "complainant_names": [
+          "Qaeed Kuwajerwala"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Project BBJ Roma not registered; complainants to be treated as allottees in future registered project or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants entitled to seek refund with interest at SBI MCLR plus 2% from the date of payment.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000058134",
+        "complainant_names": [
+          "Hina Karim Mantri",
+          "Karimi Nuruddin Mantri"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Project BBJ Roma not registered; complainants to be treated as allottees in future registered project or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants entitled to seek refund with interest at SBI MCLR plus 2% from the date of payment.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000058140",
+        "complainant_names": [
+          "Karimi Nuruddin Mantri",
+          "Hina karim Mantri"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Project BBJ Roma not registered; complainants to be treated as allottees in future registered project or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants entitled to seek refund with interest at SBI MCLR plus 2% from the date of payment.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000068144",
+        "complainant_names": [
+          "Nafisa Gulamabbas Kapasi",
+          "Gulamabbas Kapasi"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Project BBJ Roma not registered; complainants to be treated as allottees in future registered project or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants entitled to seek refund with interest at SBI MCLR plus 2% from the date of payment.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000058136",
+        "complainant_names": [
+          "Nazira Hasnain Lala",
+          "Hasnain Akbar Ali Lala"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Project BBJ Roma not registered; complainants to be treated as allottees in future registered project or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants entitled to seek refund with interest at SBI MCLR plus 2% from the date of payment.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000058142",
+        "complainant_names": [
+          "Zeenat Z Mantri",
+          "Zaheed N mantra"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Project BBJ Roma not registered; complainants to be treated as allottees in future registered project or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants entitled to seek refund with interest at SBI MCLR plus 2% from the date of payment.",
+            "source_page": 9
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 9
+  },
+  "supplementary_proceedings": [
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2020-09-30",
+      "complaint_no": "CC006000000057760",
+      "outcome": "allowed",
+      "reasoning": "Non-execution application allowed; directing refund of entire amount with interest within 30 days after moratorium.",
+      "source_page": 13
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2020-09-30",
+      "complaint_no": "CC006000000057761",
+      "outcome": "allowed",
+      "reasoning": "Non-execution application allowed; directing refund of entire amount with interest within 30 days after moratorium.",
+      "source_page": 13
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2020-09-30",
+      "complaint_no": "CC006000000057767",
+      "outcome": "allowed",
+      "reasoning": "Non-execution application allowed; directing refund of entire amount with interest within 30 days after moratorium.",
+      "source_page": 13
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2020-09-30",
+      "complaint_no": "CC006000000057804",
+      "outcome": "allowed",
+      "reasoning": "Non-execution application allowed; directing refund of entire amount with interest within 30 days after moratorium.",
+      "source_page": 13
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2020-09-30",
+      "complaint_no": "CC006000000057843",
+      "outcome": "allowed",
+      "reasoning": "Non-execution application allowed; directing refund of entire amount with interest within 30 days after moratorium.",
+      "source_page": 13
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2020-09-30",
+      "complaint_no": "CC006000000057844",
+      "outcome": "allowed",
+      "reasoning": "Non-execution application allowed; directing refund of entire amount with interest within 30 days after moratorium.",
+      "source_page": 13
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2020-09-30",
+      "complaint_no": "CC006000000057848",
+      "outcome": "allowed",
+      "reasoning": "Non-execution application allowed; directing refund of entire amount with interest within 30 days after moratorium.",
+      "source_page": 13
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2020-09-30",
+      "complaint_no": "CC006000000057849",
+      "outcome": "allowed",
+      "reasoning": "Non-execution application allowed; directing refund of entire amount with interest within 30 days after moratorium.",
+      "source_page": 13
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2021-06-25",
+      "complaint_no": "CC006000000057760",
+      "outcome": "allowed",
+      "reasoning": "Non-compliance applications allowed, issuing individual recovery warrants under section 40(1).",
+      "source_page": 20
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2021-06-25",
+      "complaint_no": "CC006000000057761",
+      "outcome": "allowed",
+      "reasoning": "Non-compliance applications allowed, issuing individual recovery warrants under section 40(1).",
+      "source_page": 20
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2021-06-25",
+      "complaint_no": "CC006000000057767",
+      "outcome": "allowed",
+      "reasoning": "Non-compliance applications allowed, issuing individual recovery warrants under section 40(1).",
+      "source_page": 20
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2021-06-25",
+      "complaint_no": "CC006000000057804",
+      "outcome": "allowed",
+      "reasoning": "Non-compliance applications allowed, issuing individual recovery warrants under section 40(1).",
+      "source_page": 20
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2021-06-25",
+      "complaint_no": "CC006000000057843",
+      "outcome": "allowed",
+      "reasoning": "Non-compliance applications allowed, issuing individual recovery warrants under section 40(1).",
+      "source_page": 20
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2021-06-25",
+      "complaint_no": "CC006000000057844",
+      "outcome": "allowed",
+      "reasoning": "Non-compliance applications allowed, issuing individual recovery warrants under section 40(1).",
+      "source_page": 20
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2021-06-25",
+      "complaint_no": "CC006000000057848",
+      "outcome": "allowed",
+      "reasoning": "Non-compliance applications allowed, issuing individual recovery warrants under section 40(1).",
+      "source_page": 20
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2021-06-25",
+      "complaint_no": "CC006000000057849",
+      "outcome": "allowed",
+      "reasoning": "Non-compliance applications allowed, issuing individual recovery warrants under section 40(1).",
+      "source_page": 20
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "The document contains multiple orders spanning across the initial common order (dated 05.12.2019), a non-execution order (dated 30.09.2020), and a subsequent non-compliance order issuing recovery warrants (dated 25.06.2021). All 19 complaints are clubbed under the initial order, and the subsequent proceedings for the 8 applications are fully captured."
+}

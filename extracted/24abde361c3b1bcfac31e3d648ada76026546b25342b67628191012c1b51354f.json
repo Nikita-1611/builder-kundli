@@ -1,0 +1,63 @@
+{
+  "order_id": "24abde361c3b1bcfac31e3d648ada76026546b25342b67628191012c1b51354f",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Dr. Vijay Satbir Singh",
+    "designation": "Member 1"
+  },
+  "respondents": [
+    {
+      "name": "M/s. Nirmal Lifestyle Ltd",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Aces",
+    "project_reg_no": "P51800007641",
+    "location": "Mulund (West)",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2018-02-23",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000001588",
+        "complainant_names": [
+          "Mr. Pramod Ashtekar"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The parties settled the matter amicably and filed consent terms on record.",
+            "source_page": 1
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The parties settled the matter amicably and filed consent terms on record.",
+            "source_page": 1
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "The matter was settled amicably via consent terms filed by both parties, disposing of the complaint."
+}

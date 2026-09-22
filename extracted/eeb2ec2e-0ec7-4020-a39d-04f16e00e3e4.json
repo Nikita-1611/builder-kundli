@@ -1,0 +1,158 @@
+{
+  "order_id": "eeb2ec2e-0ec7-4020-a39d-04f16e00e3e4",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 7,
+  "coram": {
+    "name": "Ajoy Mehta",
+    "designation": "Chairperson, MahaRERA"
+  },
+  "respondents": [
+    { "name": "Accord Builders (Partnership)", "role": "promoter" }
+  ],
+  "project": {
+    "project_name": "Meridia (Omkar Meridia)",
+    "project_reg_no": "P51800009440",
+    "location": "Kurla, Mumbai",
+    "oc_status": {
+      "received": true,
+      "date": "2018-05-05",
+      "issuing_authority": "Slum Rehabilitation Authority (SRA)",
+      "note": "Partial OC only, for building 1(A) & 2(B) (3 basements + ground/stilt + 14 upper floors); common-area work and balance OC still pending. Project registration itself lapsed 30.10.2021 with no extension sought."
+    }
+  },
+  "primary_order": {
+    "order_date": "2022-09-21",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000089989",
+        "complainant_names": ["Alok Sanghi"],
+        "reliefs": [
+          {
+            "relief_type": "structural_defect_rectification",
+            "granted": true,
+            "amount": null,
+            "deadline": { "type": "days_from_notice", "date": null, "days": 30, "event": "receipt of notice of a structural or other defect from the allottee", "from_date": null, "options": null, "installments": null },
+            "validity_window": { "years": 5, "from_event": "date of handing over possession of the apartment" },
+            "reasoning": "Complainants raised common structural defects (leakages, flooring, incomplete rooftop amenities). Under Section 14, respondent is duty-bound for 5 years from possession to rectify defects free of charge within 30 days of notice. SRA additionally directed to appoint a structural auditor and report within 60 days. No individual monetary compensation was awarded despite being sought.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000110774",
+        "complainant_names": ["Amit Dua", "Anju Dua"],
+        "reliefs": [
+          {
+            "relief_type": "structural_defect_rectification",
+            "granted": true,
+            "amount": null,
+            "deadline": { "type": "days_from_notice", "date": null, "days": 30, "event": "receipt of notice of a structural or other defect from the allottee", "from_date": null, "options": null, "installments": null },
+            "validity_window": { "years": 5, "from_event": "date of handing over possession of the apartment" },
+            "reasoning": "Same common structural-defect finding as Sr. No. 1. Compensation of Rs. 10.55 lacs sought was not awarded.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000100484",
+        "complainant_names": ["Ravindra Mangal"],
+        "reliefs": [
+          {
+            "relief_type": "structural_defect_rectification",
+            "granted": true,
+            "amount": null,
+            "deadline": { "type": "days_from_notice", "date": null, "days": 30, "event": "receipt of notice of a structural or other defect from the allottee", "from_date": null, "options": null, "installments": null },
+            "validity_window": { "years": 5, "from_event": "date of handing over possession of the apartment" },
+            "reasoning": "Same common structural-defect finding as Sr. No. 1. Complainant was absent at the 17.03.2022 hearing and given liberty to file submissions separately; ultimately disposed of together with the group.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000110865",
+        "complainant_names": ["Renu Chaudhary"],
+        "reliefs": [
+          {
+            "relief_type": "structural_defect_rectification",
+            "granted": true,
+            "amount": null,
+            "deadline": { "type": "days_from_notice", "date": null, "days": 30, "event": "receipt of notice of a structural or other defect from the allottee", "from_date": null, "options": null, "installments": null },
+            "validity_window": { "years": 5, "from_event": "date of handing over possession of the apartment" },
+            "reasoning": "Same common structural-defect finding as Sr. No. 1. Compensation of Rs. 25 lacs sought (car damage, medical bills, business loss) was not awarded.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000100402",
+        "complainant_names": ["Mateena Ayaz Merchant"],
+        "reliefs": [
+          {
+            "relief_type": "structural_defect_rectification",
+            "granted": true,
+            "amount": null,
+            "deadline": { "type": "days_from_notice", "date": null, "days": 30, "event": "receipt of notice of a structural or other defect from the allottee", "from_date": null, "options": null, "installments": null },
+            "validity_window": { "years": 5, "from_event": "date of handing over possession of the apartment" },
+            "reasoning": "Same common structural-defect finding as Sr. No. 1. Compensation of Rs. 15 lacs sought was not awarded. Complainant did not appear at the final hearing (none present).",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193786",
+        "complainant_names": ["Deepak Sadanand Neroorkar", "Poornima Deepak Neroorkar"],
+        "reliefs": [
+          {
+            "relief_type": "structural_defect_rectification",
+            "granted": true,
+            "amount": null,
+            "deadline": { "type": "days_from_notice", "date": null, "days": 30, "event": "receipt of notice of a structural or other defect from the allottee", "from_date": null, "options": null, "installments": null },
+            "validity_window": { "years": 5, "from_event": "date of handing over possession of the apartment" },
+            "reasoning": "Same common structural-defect finding as the other complainants; also reiterated in this complainant's separate submission.",
+            "source_page": 9
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants (senior citizens) sought compensation for delay in possession. Respondent showed possession was taken 26.04.2018, before OC (05.05.2018) and without caveat, and cited an Authority order that delay claims cannot be raised as an afterthought after OC. MahaRERA agreed: apartments were already complete (OC received) before this complaint was filed (20.08.2020), so Section 18 delay relief does not apply.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193766",
+        "complainant_names": ["Vidya Hegde"],
+        "reliefs": [
+          {
+            "relief_type": "structural_defect_rectification",
+            "granted": true,
+            "amount": null,
+            "deadline": { "type": "days_from_notice", "date": null, "days": 30, "event": "receipt of notice of a structural or other defect from the allottee", "from_date": null, "options": null, "installments": null },
+            "validity_window": { "years": 5, "from_event": "date of handing over possession of the apartment" },
+            "reasoning": "Same common structural-defect finding as Sr. No. 1. Compensation of Rs. 10 lacs sought (unable to rent out flat due to defects/reputation) was not awarded.",
+            "source_page": 9
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": {
+      "amount": {
+        "value": 50000,
+        "type": "penalty",
+        "recipient": "government",
+        "interest_rate_description": null
+      },
+      "reason": "Project registration lapsed since 30.10.2021 with common-area/balance work and OC still pending, and respondent never sought an extension — violation of the Act, penalty under Section 61.",
+      "deadline": null,
+      "source_page": 9
+    },
+    "source_page": 9
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "Respondent is a partnership of Omkar Realtors & Developers Pvt. Ltd. and Anatomy Realtors Pvt. Ltd.; modeled as a single respondent entity ('Accord Builders (Partnership)') since the order treats the partnership, not the individual partner companies, as the liable party. All 7 complaints were disposed of together in one FINAL ORDER; the structural-defect relief (directions A-C of that order) is treated here as applying to every complaint since the order does not carve out any complainant from it."
+}

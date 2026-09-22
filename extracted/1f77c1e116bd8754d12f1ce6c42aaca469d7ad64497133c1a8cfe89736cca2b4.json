@@ -1,0 +1,715 @@
+{
+  "order_id": "1f77c1e116bd8754d12f1ce6c42aaca469d7ad64497133c1a8cfe89736cca2b4",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 35,
+  "coram": {
+    "name": "Shri Mahesh Pathak",
+    "designation": "Hon\u2019ble Member-1"
+  },
+  "respondents": [
+    {
+      "name": "M/S.Sankalp Siddhi Developers Pvt Ltd",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": null,
+    "project_reg_no": "P51800007725",
+    "location": null,
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2024-04-30",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000292802",
+        "complainant_names": [
+          "Sanjeeda Shaikh"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 1\uacfc of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000302973",
+        "complainant_names": [
+          "Mr Naresh Kumar Omprakash Hiranandani"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000303393",
+        "complainant_names": [
+          "Ms Mumtaz Ibrahim Khan"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000303504",
+        "complainant_names": [
+          "Mr Gehimal Aidasani",
+          "Mrs Sunita Aidasani"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000303505",
+        "complainant_names": [
+          "Mr Dilip Kumar Odhrani"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000303506",
+        "complainant_names": [
+          "Mr Mohit D Odhrani"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000303676",
+        "complainant_names": [
+          "Mr Chander Prakash Kewlani",
+          "Mrs Meena Kewlani"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000303710",
+        "complainant_names": [
+          "Mr Bhojraj Kewlani",
+          "Mrs Nisha Kewlani"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000334000",
+        "complainant_names": [
+          "Vissa Investments"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000344258",
+        "complainant_names": [
+          "Mr Murli Pursumal Bhatia",
+          "Dr ( Mrs ) Champa Murli Bhatia"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000344259",
+        "complainant_names": [
+          "Mr Prakash Bhatia",
+          "Mrs Simran Bhatia"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000375174",
+        "complainant_names": [
+          "Mr Devraj Lalwani",
+          "Mr Manish Lalwani"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000375182",
+        "complainant_names": [
+          "Chandru Bhojwani"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000375184",
+        "complainant_names": [
+          "Mahender Hiranand Bhojwani"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000375185",
+        "complainant_names": [
+          "Dilip Bharat Manghnani"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000375186",
+        "complainant_names": [
+          "Sarika Chawla"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000375233",
+        "complainant_names": [
+          "Mr Ram Priyani Moolchand"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000396124",
+        "complainant_names": [
+          "Dipak Kailash Devnani"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000396205",
+        "complainant_names": [
+          "Mahendra Kanayalal Hemdev"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000396207",
+        "complainant_names": [
+          "Narendra Kanayalal Hemdev"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000397162",
+        "complainant_names": [
+          "Vinod Thukral HUF"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000397163",
+        "complainant_names": [
+          "Sheetal Dinesh Thukral"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000397164",
+        "complainant_names": [
+          "Neelu Satyan Thukral"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000397414",
+        "complainant_names": [
+          "Akash Ashok Bhagia"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000397627",
+        "complainant_names": [
+          "Sumesh Ashok Patel",
+          "Dharali Suresh Patel"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000397635",
+        "complainant_names": [
+          "Mrs Anju Yogesh Singhvi",
+          "Mr Yogesh Manchand Singhvi"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000397638",
+        "complainant_names": [
+          "Abhinay Rao Penugonda"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000397641",
+        "complainant_names": [
+          "Shreya Mitra",
+          "Partha Sarathi Mitra"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000397649",
+        "complainant_names": [
+          "Aashi Arora"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000397656",
+        "complainant_names": [
+          "Mr Suhail Mehboob Khan",
+          "Mrs Sana Khan",
+          "Ms Arbina Suhail Khan"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000397705",
+        "complainant_names": [
+          "Gregory Stany Cardoza"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000397733",
+        "complainant_names": [
+          "Maheshkumar Shamdas Kalro"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000397735",
+        "complainant_names": [
+          "Vinod Makhija"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000397755",
+        "complainant_names": [
+          "Kutubuddin Seth",
+          "Sakina Seth"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000397769",
+        "complainant_names": [
+          "Lokesh Amarnani",
+          "Prakash Amarnani"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Adjourned sine die due to NCLT moratorium under Section 14 of IBC code.",
+            "source_page": 6
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 6
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "All 35 clubbed complaints in this common order are adjourned sine die due to an ongoing NCLT proceeding and appointment of a CIRP dated 23-02-2024."
+}

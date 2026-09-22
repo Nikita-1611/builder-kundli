@@ -1,0 +1,54 @@
+{
+  "order_id": "424db256077e1b129658d74b5cf63d3abfcf1ebce6f398ac3bd11baf8c1982d9",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Ajoy Mehta",
+    "designation": "Chairperson, MahaRERA"
+  },
+  "respondents": [
+    {
+      "name": "NIRMAL LIFESTYLE KALYAN PVT LTD",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Nirmal Lifestyle Kalyan",
+    "project_reg_no": "P51700003540",
+    "location": "Kalyan",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2023-01-23",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000012518",
+        "complainant_names": [
+          "KUNAL KARVIR"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complaint dismissed due to complainant's absence in two consequent hearings, indicating lack of prosecution.",
+            "source_page": 1
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "Project name and location inferred from respondent name and project registration number. OC status not mentioned in the order."
+}

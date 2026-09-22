@@ -1,0 +1,1556 @@
+{
+  "order_id": "05e4d8ae323ce55e9314f3ed9a540aafeccd538db1bd81c13d0981c6a073e37d",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 29,
+  "coram": {
+    "name": "Dr. Vasant Prabhu",
+    "designation": "Secretary, MahaRERA"
+  },
+  "respondents": [
+    {
+      "name": "Om Sai Infra & Om Sai Group",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "SAI KANISHK PHASE II",
+    "project_reg_no": "P51700012436",
+    "location": "Plot Bearing No / CTS no / Survey Number/Final Plot no. 5/5B, 5/9, at Thane - 400612.",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2022-08-02",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000192326",
+        "complainant_names": [
+          "Aditi Alankar Thakur"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on consideration amounts paid till handing over possession"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "possession to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for delayed possession as per directions issued in common order dated 29th September 2020. Complainants sought recovery warrants.",
+            "source_page": 13
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192392",
+        "complainant_names": [
+          "SANTOSH BAPU GURAV"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on consideration amounts paid till handing over possession"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "possession to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for delayed possession as per directions issued in common order dated 29th September 2020. Complainants sought recovery warrants.",
+            "source_page": 13
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192397",
+        "complainant_names": [
+          "Jaisingh Dharmraj"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on consideration amounts paid till handing over possession"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "possession to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for delayed possession as per directions issued in common order dated 29th September 2020. Complainants sought recovery warrants.",
+            "source_page": 13
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192398",
+        "complainant_names": [
+          "Vandana Vasant Gaikwad"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on consideration amounts paid till handing over possession"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "possession to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for delayed possession as per directions issued in common order dated 29th September 2020. Complainants sought recovery warrants.",
+            "source_page": 13
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192399",
+        "complainant_names": [
+          "Seeta Pankaj Singh"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on consideration amounts paid till handing over possession"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "possession to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for delayed possession as per directions issued in common order dated 29th September 2020. Complainants sought recovery warrants.",
+            "source_page": 13
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192404",
+        "complainant_names": [
+          "MUBEEN ABDUL HAMID WADKAR"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on consideration amounts paid till handing over possession"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "possession to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for delayed possession as per directions issued in common order dated 29th September 2020. Complainants sought recovery warrants.",
+            "source_page": 13
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192410",
+        "complainant_names": [
+          "kanhaiya chouhan"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on consideration amounts paid till handing over possession"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "possession to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for delayed possession as per directions issued in common order dated 29th September 2020. Complainants sought recovery warrants.",
+            "source_page": 13
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192411",
+        "complainant_names": [
+          "Sanket Urkande"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on consideration amounts paid till handing over possession"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "possession to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for delayed possession as per directions issued in common order dated 29th September 2020. Complainants sought recovery warrants.",
+            "source_page": 13
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192413",
+        "complainant_names": [
+          "DARSHAN LAXMAN BAMANE"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on consideration amounts paid till handing over possession"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "possession to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for delayed possession as per directions issued in common order dated 29th September 2020. Complainants sought recovery warrants.",
+            "source_page": 13
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192415",
+        "complainant_names": [
+          "NISHA RAVINDRA DALVI"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on consideration amounts paid till handing over possession"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "possession to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for delayed possession as per directions issued in common order dated 29th September 2020. Complainants sought recovery warrants.",
+            "source_page": 13
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192417",
+        "complainant_names": [
+          "Anant S Nagaonkar"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on consideration amounts paid till handing over possession"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "possession to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for delayed possession as per directions issued in common order dated 29th September 2020. Complainants sought recovery warrants.",
+            "source_page": 13
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192424",
+        "complainant_names": [
+          "ABDUL WADOOD KHAN"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on consideration amounts paid till handing over possession"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "possession to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for delayed possession as per directions issued in common order dated 29th September 2020. Complainants sought recovery warrants.",
+            "source_page": 13
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192443",
+        "complainant_names": [
+          "Omkar Dasharath Chavan"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on consideration amounts paid till handing over possession"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "possession to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for delayed possession as per directions issued in common order dated 29th September 2020. Complainants sought recovery warrants.",
+            "source_page": 13
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192476",
+        "complainant_names": [
+          "Deepak Newaskar",
+          "Vaishali Newaskar"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": 708534.0,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on principal amounts paid along with further applicable interest till possession"
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay calculated interest for delayed possession.",
+            "source_page": 2
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192483",
+        "complainant_names": [
+          "SACHIN LAXMAN PAWAR"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on consideration amounts paid till handing over possession"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "possession to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for delayed possession as per directions issued in common order dated 29th September 2020. Complainants sought recovery warrants.",
+            "source_page": 13
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192486",
+        "complainant_names": [
+          "SUNIL SHIVAJI THORAT"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on consideration amounts paid till handing over possession"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "possession to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for delayed possession as per directions issued in common order dated 29th September 2020. Complainants sought recovery warrants.",
+            "source_page": 13
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192517",
+        "complainant_names": [
+          "Vedang Pradeep Mahajan"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on consideration amounts paid till handing over possession"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "possession to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for delayed possession as per directions issued in common order dated 29th September 2020. Complainants sought recovery warrants.",
+            "source_page": 13
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192519",
+        "complainant_names": [
+          "Kusumadevi Sureshchandra Gupta"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on consideration amounts paid till handing over possession"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "possession to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for delayed possession as per directions issued in common order dated 29th September 2020. Complainants sought recovery warrants.",
+            "source_page": 13
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192641",
+        "complainant_names": [
+          "Rajkiran Vijay Chavan"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on consideration amounts paid till handing over possession"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "possession to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for delayed possession as per directions issued in common order dated 29th September 2020. Complainants sought recovery warrants.",
+            "source_page": 13
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192723",
+        "complainant_names": [
+          "Manasi hanumant mahadeshwar"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on consideration amounts paid till handing over possession"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "possession to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for delayed possession as per directions issued in common order dated 29th September 2020. Complainants sought recovery warrants.",
+            "source_page": 13
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192766",
+        "complainant_names": [
+          "SUPRIYA KASHIRAM WADEKAR"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on consideration amounts paid till handing over possession"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "possession to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for delayed possession as per directions issued in common order dated 29th September 2020. Complainants sought recovery warrants.",
+            "source_page": 13
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192887",
+        "complainant_names": [
+          "Anil Atmaram Mirashi",
+          "Anita Anil Mirashi"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on consideration amounts paid till handing over possession"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "possession to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for delayed possession as per directions issued in common order dated 29th September 2020. Complainants sought recovery warrants.",
+            "source_page": 13
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193269",
+        "complainant_names": [
+          "rutuja ulhas sindhe"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on consideration amounts paid till handing over possession"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "possession to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for delayed possession as per directions issued in common order dated 29th September 2020. Complainants sought recovery warrants.",
+            "source_page": 13
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193355",
+        "complainant_names": [
+          "Brijesh Shukla"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on consideration amounts paid till handing over possession"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "possession to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for delayed possession as per directions issued in common order dated 29th September 2020. Complainants sought recovery warrants.",
+            "source_page": 13
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193360",
+        "complainant_names": [
+          "Brijesh Shukla"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on consideration amounts paid till handing over possession"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "possession to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for delayed possession as per directions issued in common order dated 29th September 2020. Complainants sought recovery warrants.",
+            "source_page": 13
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193361",
+        "complainant_names": [
+          "Apurva Devendra Singham"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on consideration amounts paid till handing over possession"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "possession to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for delayed possession as per directions issued in common order dated 29th September 2020. Complainants sought recovery warrants.",
+            "source_page": 13
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193378",
+        "complainant_names": [
+          "SANGAM SHRIRANG GAIKWAD"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on consideration amounts paid till handing over possession"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "possession to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for delayed possession as per directions issued in common order dated 29th September 2020. Complainants sought recovery warrants.",
+            "source_page": 13
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193648",
+        "complainant_names": [
+          "PANKAJ MANOHAR DHARGALKAR"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on consideration amounts paid till handing over possession"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "possession to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for delayed possession as per directions issued in common order dated 29th September 2020. Complainants sought recovery warrants.",
+            "source_page": 13
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193822",
+        "complainant_names": [
+          "Ramesh R Bansode"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. on consideration amounts paid till handing over possession"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "possession to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for delayed possession as per directions issued in common order dated 29th September 2020. Complainants sought recovery warrants.",
+            "source_page": 13
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay Rs. 20,000 to each complainant as per directions issued in common order dated 29th September 2020.",
+            "source_page": 13
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 13
+  },
+  "supplementary_proceedings": [
+    {
+      "proceeding_type": "execution_application",
+      "date": "2023-03-01",
+      "complaint_no": "CC006000000192476",
+      "outcome": "allowed",
+      "reasoning": "Recovery warrant issued under Section 40(1) of RERA for its execution based on the non-compliance order dated 2nd August 2022. The warrant is specifically detailed for CC006000000192476.",
+      "source_page": 1
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "The document contains a recovery warrant (March 1, 2023) and the underlying non-compliance order (August 2, 2022). The non-compliance order is treated as the primary order as it disposes of the non-compliance applications. The recovery warrant is treated as a supplementary execution proceeding. Specific calculated interest amount is only available for complaint CC006000000192476 in the warrant details; for other complaints, the interest value is null as only the rate was mentioned in the common order, not specific calculated amounts. The fixed cost of Rs. 20,000/- is applied to all 29 complaints as per the common order's directive."
+}

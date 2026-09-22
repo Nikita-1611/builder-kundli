@@ -1,0 +1,103 @@
+{
+  "order_id": "028a222d29b27325e141b51cfaed0ec767a56f41411a1225435ffb560cc3e420",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 2,
+  "coram": {
+    "name": "Mahesh Pathak",
+    "designation": "Member - I/MahaRERA"
+  },
+  "respondents": [
+    {
+      "name": "Nirmal Lifestyle Ltd.",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Turquoise",
+    "project_reg_no": "P51800003188",
+    "location": "Mulund (West), Mumbai",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2022-09-16",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000012119",
+        "complainant_names": [
+          "Sadia Ishaque Daruesh",
+          "Abeer Syed"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "days_from_order",
+              "date": null,
+              "days": 90,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "The respondent has partially complied with the consent terms by paying Rs. 27,00,000 out of Rs. 1,50,00,000 and has not submitted any justified reasons for non-compliance, hence directed to refund the balance amount.",
+            "source_page": 5
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": {
+      "amount": {
+        "value": 5000,
+        "type": "penalty",
+        "recipient": "government",
+        "interest_rate_description": null
+      },
+      "reason": "Default in refunding the balance amount within the stipulated period of 3 months under section 63 of the RERA.",
+      "deadline": {
+        "type": "days_from_order",
+        "date": null,
+        "days": 90,
+        "event": null,
+        "from_date": null,
+        "options": null,
+        "installments": null
+      },
+      "source_page": 5
+    },
+    "source_page": 5
+  },
+  "supplementary_proceedings": [
+    {
+      "proceeding_type": "other",
+      "date": "2018-05-14",
+      "complaint_no": "CC006000000012119",
+      "outcome": "allowed",
+      "reasoning": "Disposed of in view of the consent terms filed by both parties.",
+      "source_page": 1
+    },
+    {
+      "proceeding_type": "review",
+      "date": "2018-08-16",
+      "complaint_no": "CC006000000012119",
+      "outcome": "allowed",
+      "reasoning": "Correction order to delete the word 'withdrawn' in paras 2(d) and 4 as the complaint was disposed of based on consent terms.",
+      "source_page": 2
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "The PDF contains multiple proceedings over time: an initial disposal based on consent terms (14-05-2018), a correction order (16-08-2018), and a final non-execution application order (16-09-2022). The primary_order reflects the latest non-execution order dated 16-09-2022. The exact balance refund value is not explicitly stated numerically as a separate figure, only the total Rs. 1,50,00,000 and paid amount Rs. 27,00,000 are mentioned."
+}

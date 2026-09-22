@@ -1,0 +1,288 @@
+{
+  "order_id": "ef2b44f7-686d-4ffe-96cb-12d523074f31",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 11,
+  "coram": {
+    "name": "Ajoy Mehta",
+    "designation": "Chairperson, MahaRERA"
+  },
+  "respondents": [
+    { "name": "Sumer Radius Realty Pvt. Ltd.", "role": "promoter" },
+    { "name": "Sumer Buildcorp Pvt. Ltd.", "role": "co-promoter" },
+    { "name": "Radius Estate Projects Pvt. Ltd.", "role": "co-promoter" }
+  ],
+  "project": {
+    "project_name": "Avenue 54",
+    "project_reg_no": "P51800007149",
+    "location": "Plot Nos. 401, 402, 415-438, Swami Vivekanand Road, Santacruz West / Andheri, Mumbai",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "Project proposed completion 31.12.2022, revised proposed completion 30.12.2024. Construction stalled at plinth level only; no work for past 4 years due to pending litigation and financial-institution disputes; respondents facing criminal fraud/cheating actions."
+    }
+  },
+  "primary_order": {
+    "order_date": "2023-01-05",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000192247",
+        "complainant_names": ["Gunveen Sahni"],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "Interest from 01.01.2021 as prescribed under RERA; rate not restated in the Final Order paragraph itself"
+            },
+            "deadline": {
+              "type": "earlier_of",
+              "date": null, "days": null, "event": null, "from_date": null,
+              "options": [
+                { "type": "ongoing_until_event", "date": null, "days": null, "event": "OC being received for the said Project", "from_date": null, "options": null, "installments": null },
+                { "type": "fixed_date", "date": "2024-12-30", "days": null, "event": null, "from_date": null, "options": null, "installments": null }
+              ],
+              "installments": { "count": 3, "frequency": "monthly", "note": "Total accrued refund + interest payable in 3 equal monthly instalments once the earlier-of trigger is reached; if OC delayed beyond 30.12.2024, further interest accrues and is payable every month on the 5th until possession with OC. Subject to deduction of COVID moratorium period per MahaRERA Orders 13/14/21." }
+            },
+            "validity_window": null,
+            "reasoning": "Complainant booked 2 flats (805, 806) under a term sheet dated 22.12.2017 with possession promised 31.12.2020; that date passed without possession or an agreement for sale. Respondent had already refunded ~Rs. 1.99 crore but remained in default on the balance. Complainant purchased two flats with combined amounts paid of Rs. 4,48,00,000 and Rs. 25,97,000 respectively — order does not total these, so a single value is not recorded here.",
+            "source_page": 19
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193809",
+        "complainant_names": ["Kamolika Peres"],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": { "value": 24105000, "type": "refund_principal", "recipient": "buyer", "interest_rate_description": "Interest from 01.04.2020 as prescribed under RERA; rate not restated in the Final Order paragraph itself" },
+            "deadline": {
+              "type": "earlier_of", "date": null, "days": null, "event": null, "from_date": null,
+              "options": [
+                { "type": "ongoing_until_event", "date": null, "days": null, "event": "OC being received for the said Project", "from_date": null, "options": null, "installments": null },
+                { "type": "fixed_date", "date": "2024-12-30", "days": null, "event": null, "from_date": null, "options": null, "installments": null }
+              ],
+              "installments": { "count": 3, "frequency": "monthly", "note": "Same instalment/moratorium terms as Sr. No. 1." }
+            },
+            "validity_window": null,
+            "reasoning": "Allotment letter dated 05.11.2019 named no possession date, but respondent's own emails gave 1st quarter of 2020; that date passed. Complainant separately alleged defective title (promoter's development rights via an unregistered agreement) but relief was granted on the delay ground alone.",
+            "source_page": 19
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000195874",
+        "complainant_names": ["Mohan Baldev Dodeja", "Anita Mohan Dodeja"],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": { "value": 6350410, "type": "refund_principal", "recipient": "buyer", "interest_rate_description": "Interest from 01.02.2020 as prescribed under RERA; rate not restated in the Final Order paragraph itself" },
+            "deadline": {
+              "type": "earlier_of", "date": null, "days": null, "event": null, "from_date": null,
+              "options": [
+                { "type": "ongoing_until_event", "date": null, "days": null, "event": "OC being received for the said Project", "from_date": null, "options": null, "installments": null },
+                { "type": "fixed_date", "date": "2024-12-30", "days": null, "event": null, "from_date": null, "options": null, "installments": null }
+              ],
+              "installments": { "count": 3, "frequency": "monthly", "note": "Same instalment/moratorium terms as Sr. No. 1." }
+            },
+            "validity_window": null,
+            "reasoning": "Booked under a subvention scheme in 2017 (5% upfront, rest on fit-out possession) with possession promised December 2019; bank (Respondent No.4, not a party here) disbursed the balance loan to the promoter disproportionate to actual progress. Only the refund of Rs. 63,50,410 paid to Respondent No.1 is captured here; a further Rs. 6,18,81,990 the order directs be refunded to the financing bank is excluded as it is not an amount owed to the buyer.",
+            "source_page": 19
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000196158",
+        "complainant_names": ["Mohammed Aslam Bhati"],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": true,
+            "amount": null,
+            "deadline": { "type": "days_from_order", "date": null, "days": 60, "event": null, "from_date": null, "options": null, "installments": null },
+            "validity_window": null,
+            "reasoning": "Complainant wants to stay in the project, not exit. No agreement for sale executed despite respondent accepting >10% of consideration (Section 13 violation). No document showed a specific possession date, so the Authority used the RERA-registered completion date (30.12.2024) — that date had not yet arrived, so this counts as premature.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Possession date used (RERA completion date 30.12.2024) had not yet arrived at the time of this order; Section 18 delay-interest relief held premature.",
+            "source_page": 18
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000196162",
+        "complainant_names": ["Nadim Mohammed Iqbal Bhati"],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": true,
+            "amount": null,
+            "deadline": { "type": "days_from_order", "date": null, "days": 60, "event": null, "from_date": null, "options": null, "installments": null },
+            "validity_window": null,
+            "reasoning": "Same basis as CC006000000196158 (Sr. No. 4) — wants to stay in the project; no possession date document uploaded, RERA completion date (30.12.2024) used and not yet arrived.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Same basis as CC006000000196158 (Sr. No. 4) — premature, RERA completion date not yet arrived.",
+            "source_page": 18
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000197375",
+        "complainant_names": ["Avinash Gandhi", "Saanika Gandhi"],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": { "value": 17500000, "type": "refund_principal", "recipient": "buyer", "interest_rate_description": "Interest from 01.04.2019 as prescribed under RERA; rate not restated in the Final Order paragraph itself" },
+            "deadline": {
+              "type": "earlier_of", "date": null, "days": null, "event": null, "from_date": null,
+              "options": [
+                { "type": "ongoing_until_event", "date": null, "days": null, "event": "OC being received for the said Project", "from_date": null, "options": null, "installments": null },
+                { "type": "fixed_date", "date": "2024-12-30", "days": null, "event": null, "from_date": null, "options": null, "installments": null }
+              ],
+              "installments": { "count": 3, "frequency": "monthly", "note": "Same instalment/moratorium terms as Sr. No. 1." }
+            },
+            "validity_window": null,
+            "reasoning": "Provisional booking 30.07.2016, possession promised March 2019 per complaint; promoter agreed to a refund in 2019 but never paid it. No agreement for sale ever executed despite >22% of consideration collected; complainant also cited a bank default letter showing the promoter dislodged from the project.",
+            "source_page": 19
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000197610",
+        "complainant_names": ["Rahul Desai"],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": { "value": 98140483, "type": "refund_principal", "recipient": "buyer", "interest_rate_description": "Interest from 01.01.2020 as prescribed under RERA; rate not restated in the Final Order paragraph itself" },
+            "deadline": {
+              "type": "earlier_of", "date": null, "days": null, "event": null, "from_date": null,
+              "options": [
+                { "type": "ongoing_until_event", "date": null, "days": null, "event": "OC being received for the said Project", "from_date": null, "options": null, "installments": null },
+                { "type": "fixed_date", "date": "2024-12-30", "days": null, "event": null, "from_date": null, "options": null, "installments": null }
+              ],
+              "installments": { "count": 3, "frequency": "monthly", "note": "Same instalment/moratorium terms as Sr. No. 1." }
+            },
+            "validity_window": null,
+            "reasoning": "Booked under a subvention scheme (5% buyer / 95% bank) on 20.03.2017, possession promised December 2019 per complaint; bank allegedly disbursed most of the loan to the promoter in collusion despite no progress, and complainant now faces bank recovery action. No agreement for sale executed despite >10% collected.",
+            "source_page": 19
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000197812",
+        "complainant_names": ["Brijesh Sujan"],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": { "value": 25000000, "type": "refund_principal", "recipient": "buyer", "interest_rate_description": "Interest from 01.04.2019 as prescribed under RERA; rate not restated in the Final Order paragraph itself" },
+            "deadline": {
+              "type": "earlier_of", "date": null, "days": null, "event": null, "from_date": null,
+              "options": [
+                { "type": "ongoing_until_event", "date": null, "days": null, "event": "OC being received for the said Project", "from_date": null, "options": null, "installments": null },
+                { "type": "fixed_date", "date": "2024-12-30", "days": null, "event": null, "from_date": null, "options": null, "installments": null }
+              ],
+              "installments": { "count": 3, "frequency": "monthly", "note": "Same instalment/moratorium terms as Sr. No. 1." }
+            },
+            "validity_window": null,
+            "reasoning": "Provisional allotment 30.07.2016, possession promised March 2019 per complaint; ~24% of consideration paid, no agreement for sale executed, refund first sought in 2021.",
+            "source_page": 19
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000198438",
+        "complainant_names": ["Oswald Alfonso", "Sunita Alfonso"],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Booking application form dated 25.08.2018 states possession by 31.12.2023 — that date had not yet arrived as of this order, so the complaint (and its refund/interest/compensation claims) is dismissed as premature.",
+            "source_page": 19
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000210258",
+        "complainant_names": ["Kamal Nandlal Rawtani"],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": { "value": 117055555, "type": "refund_principal", "recipient": "buyer", "interest_rate_description": "Interest from 01.09.2019 as prescribed under RERA; rate not restated in the Final Order paragraph itself" },
+            "deadline": {
+              "type": "earlier_of", "date": null, "days": null, "event": null, "from_date": null,
+              "options": [
+                { "type": "ongoing_until_event", "date": null, "days": null, "event": "OC being received for the said Project", "from_date": null, "options": null, "installments": null },
+                { "type": "fixed_date", "date": "2024-12-30", "days": null, "event": null, "from_date": null, "options": null, "installments": null }
+              ],
+              "installments": { "count": 3, "frequency": "monthly", "note": "Same instalment/moratorium terms as Sr. No. 1." }
+            },
+            "validity_window": null,
+            "reasoning": "MOU dated 30.01.2016 for 3 flats (Rs. 62.1 crore total), possession due 30.08.2019 (3 years 4 months + 3 months grace) per the MOU; that date passed with no delivery. Authority held the MOU validly rescinded.",
+            "source_page": 19
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000220945",
+        "complainant_names": ["Ajit Madanchand Dugar"],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": true,
+            "amount": null,
+            "deadline": { "type": "days_from_order", "date": null, "days": 60, "event": null, "from_date": null, "options": null, "installments": null },
+            "validity_window": null,
+            "reasoning": "Complainant does not intend to withdraw and wants the project completed. Booking form dated 21.09.2016 states possession by 31.12.2023 — not yet arrived as of this order, so treated the same as Sr. Nos. 4 & 5.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Possession date (31.12.2023 per booking form) had not yet arrived; Section 18 delay-interest relief held premature.",
+            "source_page": 18
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": {
+      "amount": { "value": 100000, "type": "penalty", "recipient": "government", "interest_rate_description": null },
+      "reason": "Respondents accepted more than 10% of consideration from each complainant without executing agreements for sale, in violation of Section 13; penalty imposed under Section 63.",
+      "deadline": null,
+      "source_page": 19
+    },
+    "source_page": 19
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "None of the 3 respondents appeared at any hearing; all matters proceeded ex-parte and no written submissions were filed despite time being given. The Final Order paragraph directing refund+interest for Sr. Nos. 1-3, 6-8 & 10 does not restate an interest rate -- interest_rate_description on those reliefs is inferred as 'as prescribed under RERA' rather than a specific figure, since the order text itself doesn't repeat one at that point (unlike the Modi order, which names MCLR+2% explicitly). Sr. No. 1's combined two-flat payment amount was left as amount.value: null rather than summed, since the order does not total it either."
+}

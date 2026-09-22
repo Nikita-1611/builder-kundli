@@ -1,0 +1,22 @@
+.mh-map {
+  width: 100%;
+  height: auto;
+}
+
+.mh-map__district {
+  cursor: pointer;
+  transition: filter 0.1s ease;
+}
+
+.mh-map__district:hover,
+.mh-map__district:focus-visible {
+  filter: brightness(0.92);
+  outline: none;
+}
+
+.mh-map__label {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  text-anchor: middle;
+  pointer-events: none;
+}

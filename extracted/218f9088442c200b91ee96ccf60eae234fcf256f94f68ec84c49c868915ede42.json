@@ -1,0 +1,54 @@
+{
+  "order_id": "218f9088442c200b91ee96ccf60eae234fcf256f94f68ec84c49c868915ede42",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Dr. Vijay Satbir Singh",
+    "designation": "Member - 1"
+  },
+  "respondents": [
+    {
+      "name": "Nirmal Lifestyle Limited",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": null,
+    "project_reg_no": null,
+    "location": null,
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2019-03-29",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000057898",
+        "complainant_names": [
+          "Yogesh Kulkarni"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The complainant submitted an application for withdrawal at the hearing, which was allowed, disposing of the complaint as withdrawn with liberty to file afresh at an appropriate time.",
+            "source_page": 1
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "The complaint was disposed of as withdrawn upon the applicant's request."
+}

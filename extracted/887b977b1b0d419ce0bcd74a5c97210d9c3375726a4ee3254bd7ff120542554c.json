@@ -1,0 +1,107 @@
+{
+  "order_id": "887b977b1b0d419ce0bcd74a5c97210d9c3375726a4ee3254bd7ff120542554c",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Shri B.D. Kapadnis",
+    "designation": "Hon'ble Member II"
+  },
+  "respondents": [
+    {
+      "name": "M/s. Nirmal Lifestyles (Kalyan) Pvt. Ltd.",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Lifestyle City Kalyan-Amazon A",
+    "project_reg_no": "P51700003542",
+    "location": "Kalyan",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "Project not completed by revised completion date, implying OC not received."
+    }
+  },
+  "primary_order": {
+    "order_date": "2019-12-27",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000100258",
+        "complainant_names": [
+          "David Moses",
+          "Alex Hillel Moses"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 4322306,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.4% per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "refund",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to hand over possession by agreed date (December 2017 plus 12 months grace period). Complainants opted to withdraw from the project. Refund of consideration, stamp duty, and registration fee with interest granted. Interest is from the dates of payments.",
+            "source_page": 12
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants granted Rs. 20,000/- towards the cost of the complaint.",
+            "source_page": 12
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 10
+  },
+  "supplementary_proceedings": [
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2021-09-21",
+      "complaint_no": "CC006000000100258",
+      "outcome": "allowed",
+      "reasoning": "Complainant filed a non-compliance application as respondent failed to comply with the final order. The respondent did not object to the issuance of a warrant. MahaRERA directed to issue a recovery warrant under Section 40(1) of RERA.",
+      "source_page": 8
+    },
+    {
+      "proceeding_type": "execution_application",
+      "date": "2021-11-17",
+      "complaint_no": "CC006000000100258",
+      "outcome": "pending",
+      "reasoning": "MahaRERA issued a recovery warrant to the Collector, Thane, for execution of the ordered refund amount and costs, along with interest. The Collector is requested to execute the warrant at the earliest and inform MahaRERA upon realization of the amount.",
+      "source_page": 1
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "The refund interest accrues 'from the dates of payments', which refers to multiple dates itemized in Exh. A, not a single 'from_date'. Mr. Rajeev Jain is mentioned as an 'Authorized Signatory' for M/s. Nirmal Lifestyles (Kalyan) Pvt. Ltd. and is not listed as a separate co-promoter for liability purposes within this order."
+}

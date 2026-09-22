@@ -1,0 +1,418 @@
+{
+  "order_id": "d537bb62fdc5f3021de7570f2199ccb16788abbed2c5347ca9841bcc04152333",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 16,
+  "coram": {
+    "name": "B.D. Kapadnis",
+    "designation": "Member II"
+  },
+  "respondents": [
+    {
+      "name": "JVPD Properties Private Limited",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Bhagtani Serenity (Serenity- Bldg 1)",
+    "project_reg_no": "P51800011181",
+    "location": "Village Tirandaz, Taluka Kurla / Powai, Mumbai Suburban - 400076",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "Project abandoned; approvals and permissions for construction not granted."
+    }
+  },
+  "primary_order": {
+    "order_date": "2020-02-18",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000192524",
+        "complainant_names": [
+          "Ashish Kejriwal"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 1586400,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "till they are refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents showed inability to complete construction, failed to construct and complete the project due to abandonment. Sections 12 and 18 of RERA are retroactive, and complainants are allottees entitled to refund with interest.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "till they are refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to Rs. 10,000/- towards the cost of their complaints.",
+            "source_page": 18
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192547",
+        "complainant_names": [
+          "Darshana Tolani"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 2761782,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "till they are refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents showed inability to complete construction, failed to construct and complete the project due to abandonment. Sections 12 and 18 of RERA are retroactive, and complainants are allottees entitled to refund with interest.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "till they are refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to Rs. 10,000/- towards the cost of their complaints.",
+            "source_page": 18
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192571",
+        "complainant_names": [
+          "Gaurang Naik"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 1409962,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "till they are refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents showed inability to complete construction, failed to construct and complete the project due to abandonment. Sections 12 and 18 of RERA are retroactive, and complainants are allottees entitled to refund with interest.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "till they are refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to Rs. 10,000/- towards the cost of their complaints.",
+            "source_page": 18
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192572",
+        "complainant_names": [
+          "Janak Dalal"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 1409962,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "till they are refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents showed inability to complete construction, failed to construct and complete the project due to abandonment. Sections 12 and 18 of RERA are retroactive, and complainants are allottees entitled to refund with interest.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "till they are refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to Rs. 10,000/- towards the cost of their complaints.",
+            "source_page": 18
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192574",
+        "complainant_names": [
+          "Lovneesh Bansal"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 1564597,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "till they are refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents showed inability to complete construction, failed to construct and complete the project due to abandonment. Sections 12 and 18 of RERA are retroactive, and complainants are allottees entitled to refund with interest.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "till they are refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to Rs. 10,000/- towards the cost of their complaints.",
+            "source_page": 18
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192577",
+        "complainant_names": [
+          "Sameer Pandya"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 1586400,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "till they are refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents showed inability to complete construction, failed to construct and complete the project due to abandonment. Sections 12 and 18 of RERA are retroactive, and complainants are allottees entitled to refund with interest.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "till they are refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to Rs. 10,000/- towards the cost of their complaints.",
+            "source_page": 18
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192579",
+        "complainant_names": [
+          "Samir Trivedi"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 1409962,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "till they are refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents showed inability to complete construction, failed to construct and complete the project due to abandonment. Sections 12 and 18 of RERA are retroactive, and complainants are allottees entitled to refund with interest.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "till they are refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to Rs. 10,000/- towards the cost of their complaints.",
+            "source_page": 18
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 15
+  },
+  "supplementary_proceedings": [
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2023-07-04",
+      "complaint_no": "CC006000000192577",
+      "outcome": "allowed",
+      "reasoning": "16 non-compliance applications filed as respondent failed to comply with the 18th Feb 2020 orders (refunding principal, interest at 10.5% p.a., and Rs. 20,000 cost for each complainant, as stated in this order). Respondent did not appear. Recovery warrants directed to be issued under Section 40(1) of RERA against booked flats and other properties. This order disposes of all 16 non-compliance applications.",
+      "source_page": 12
+    },
+    {
+      "proceeding_type": "execution_application",
+      "date": "2023-07-18",
+      "complaint_no": "CC006000000192577",
+      "outcome": "allowed",
+      "reasoning": "Recovery warrant issued under Section 40(1) of RERA in Complaint No. CC006000000192577 for execution of the order dated 18th February 2020. Respondent is to refund principal amount of Rs. 15,86,400/- along with 10.25% p.a. interest and a cost of Rs. 10,000/-. The warrant is for execution against attachable assets of the defaulter, including project property and other movable/immovable properties.",
+      "source_page": 1
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The PDF contains a final order (18th February 2020), a non-compliance application order (4th July 2023), and a recovery warrant (18th July 2023). The non-compliance order (4th July 2023) states the original order directed a cost of Rs. 20,000/-, but the original final order (18th February 2020) explicitly states Rs. 10,000/- for cost, which is also confirmed by the recovery warrant (18th July 2023). For `primary_order`, the actual value from the 2020 order (10,000) is used for cost. For `supplementary_proceedings` reasoning, what each order *states* regarding the previous order's cost is used. The complaint numbers for the primary order's specific complainants were mapped from the non-compliance application listings and the specific complaint number mentioned in the recovery warrant. The `complainant_count` is 16 as stated in the non-compliance application, even though the primary order table only details 7."
+}

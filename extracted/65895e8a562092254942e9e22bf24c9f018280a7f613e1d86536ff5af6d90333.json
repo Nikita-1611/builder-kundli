@@ -1,0 +1,76 @@
+{
+  "order_id": "65895e8a562092254942e9e22bf24c9f018280a7f613e1d86536ff5af6d90333",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Dr. Vasant Prabhu",
+    "designation": "Secretary"
+  },
+  "respondents": [
+    {
+      "name": "Nirmal Developers",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Olympia",
+    "project_reg_no": "P51800012383",
+    "location": "Mulund West, Dist. Mumbai - 400080",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "Project is still under implementation; other apartments and land should not be attached to allow project completion."
+    }
+  },
+  "primary_order": {
+    "order_date": "2023-04-26",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000057259",
+        "complainant_names": [
+          "Ms. Swati Patil"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 3618233.97,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "12% p.a. calculated till 18/04/2023 with further interest until full refund."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "amount recovered",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to comply with the previous order to refund the amount with 12% interest in six equal installments. This warrant is issued for the recovery of the ordered amount as arrears of land revenue.",
+            "source_page": 5
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 5
+  },
+  "supplementary_proceedings": [
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2022-06-13",
+      "complaint_no": "CC006000000057259",
+      "outcome": "allowed",
+      "reasoning": "Complainant appeared in person; respondent did not appear. Hearing concluded, application transferred to Secretary for issuance of recovery warrant.",
+      "source_page": 8
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "This document is a recovery warrant (dated 26th April 2023) issued for the execution of a prior 'Final Order dated 19th July 2019'. The 'Primary Order' section in the JSON describes the directive of this recovery warrant. The original order's payment schedule (installments) is mentioned as the basis for the respondent's non-compliance, but the recovery warrant itself does not set new installments for the recovery process, instead directing recovery 'at the earliest'."
+}

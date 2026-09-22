@@ -1,0 +1,45 @@
+{
+  "builder_id": "karrm-infrastructure-pvt-ltd",
+  "builder_name": "Karrm Infrastructure Pvt.Ltd",
+  "name_variants": [
+    "Karrm Infrastructure Pvt.Ltd"
+  ],
+  "score": 3.0,
+  "raw_points": 195.0,
+  "project_count": 4,
+  "warrant_count": 11,
+  "warrant_points": 195.0,
+  "warrants_recent_count": 2,
+  "warrants_recent_points": 60.0,
+  "warrants_older_count": 9,
+  "warrants_older_points": 135.0,
+  "order_count": 0,
+  "relief_count": 0,
+  "order_points": 0.0,
+  "total_buyers": 0,
+  "buyers_won": 0,
+  "warranted_buyers": 0,
+  "buyers_won_no_warrant": 0,
+  "adverse_no_warrant_relief_count": 0,
+  "categories": [],
+  "projects": [
+    {
+      "project_no": "P51700003215",
+      "warrant_count": 7
+    },
+    {
+      "project_no": "P51700008284",
+      "warrant_count": 2
+    },
+    {
+      "project_no": "P51700009304",
+      "warrant_count": 1
+    },
+    {
+      "project_no": "P51700010325",
+      "warrant_count": 1
+    }
+  ],
+  "orders": [],
+  "last_built": "2026-09-22"
+}

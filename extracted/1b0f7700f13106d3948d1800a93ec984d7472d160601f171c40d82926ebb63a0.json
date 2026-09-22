@@ -1,0 +1,91 @@
+{
+  "order_id": "1b0f7700f13106d3948d1800a93ec984d7472d160601f171c40d82926ebb63a0",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 2,
+  "coram": {
+    "name": "Shri B.D. Kapadnis",
+    "designation": "Member-II"
+  },
+  "respondents": [
+    {
+      "name": "Nirmal Lifestyle Limited",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Nirmal Lifestyle - Blu Diamond - One Edition",
+    "project_reg_no": "P51800006693",
+    "location": "Kurla",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "Not yet received, order directs respondent to handover possession with occupancy certificate not later than December 2021."
+    }
+  },
+  "primary_order": {
+    "order_date": "2020-12-17",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000120965",
+        "complainant_names": [
+          "Vivek V. Shinde",
+          "Yojana V. Shinde"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "penalty",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. (2% above SBI's highest MCLR which is currently 7% p.a.)"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondent failed to mention the date of possession in the agreement for sale in violation of section 13(2) of RERA and MOFA. Complainants are entitled to simple interest for delayed possession from 05.09.2006 till handing over possession.",
+            "source_page": 4
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to Rs. 20,000/- towards the cost of the complaint.",
+            "source_page": 4
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "fixed_date",
+              "date": "2021-12-31",
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent is liable to handover possession of the flat along with all agreed amenities and completion/occupancy certificate at the earliest but not later than December 2021.",
+            "source_page": 4
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 4
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "Principal value of consideration paid is mentioned in narrative as Rs. 28,17,900/- but left null in amount object since the order itself grants interest at 9% p.a. on the amount paid without restating the absolute principal figure inside the specific order directives."
+}

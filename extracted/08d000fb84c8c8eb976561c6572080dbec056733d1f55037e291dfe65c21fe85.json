@@ -1,0 +1,62 @@
+{
+  "order_id": "08d000fb84c8c8eb976561c6572080dbec056733d1f55037e291dfe65c21fe85",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Gautam Chatterjee",
+    "designation": "Chairperson"
+  },
+  "respondents": [
+    {
+      "name": "Shiv Shakti Builders And Developers",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Tower 28",
+    "project_reg_no": "P51800009511",
+    "location": "Malad, Mumbai",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2018-04-05",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000022891",
+        "complainant_names": [
+          "Ratnesh Oza"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "days_from_order",
+              "date": null,
+              "days": 30,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainant expressed willingness to continue in the project and requested execution of the agreement for sale at the originally agreed consideration price after being informed that relief under section 18 cannot be granted without a registered agreement.",
+            "source_page": 2
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 2
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "Complaint number has a typo in OCR on page 1 (CC005000000022891) but matches CC006000000022891 from the header."
+}

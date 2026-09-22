@@ -1,0 +1,121 @@
+{
+  "order_id": "e4e3691e5be183ac50857f616159f2e91e16e50b688d60485518ab532daa5b45",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Shri. Mahesh Pathak",
+    "designation": "Member - I/MahaRERA"
+  },
+  "respondents": [
+    {
+      "name": "Mr. N.K. Bhupesh Babu",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "ENKAY GARDEN - ZENIA",
+    "project_reg_no": "P52000005271",
+    "location": "Vavanje, Taluka Panvel, Dist. Raigarh",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "Project is incomplete and OC has not been received, even after the revised completion date of 31-07-2023."
+    }
+  },
+  "primary_order": {
+    "order_date": "2025-09-22",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000078785/APPL/RM/1",
+        "complainant_names": [
+          "Venkatkrishna Vaishnav"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "possession_and_completion",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainant obtained fitout possession in October 2022 without OC during the pendency of the complaint, thus the issue of possession no longer survives.",
+            "source_page": 3
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "penalty",
+              "recipient": "buyer",
+              "interest_rate_description": "Marginal Cost Lending Rate (MCLR) of SBI plus 2% as prescribed under the provisions of section 18 of the RERA and the Rules made thereunder."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "date of obtaining possession of the said flat to the complainant in October, 2022",
+              "from_date": "2012-12-09",
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Promoter failed to hand over possession by the agreed date (08-06-2012) plus a 6-month MOFA extension (08-12-2012). Complainant continued in the project, thus is entitled to interest for delay from 09-12-2012 until October 2022. The Covid-19 moratorium period will be applied.",
+            "source_page": 7
+          },
+          {
+            "relief_type": "compensation",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainant is willing to continue in the project and has sought interest for delay. As per Section 18(1) of RERA and Supreme Court rulings, only interest for delay is granted, not additional compensation, when the allottee does not withdraw from the project.",
+            "source_page": 7
+          },
+          {
+            "relief_type": "structural_defect_rectification",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainant sought direction for demolition of an illegal water tank and completion of pending works; however, the final order primarily addresses interest for delay and compensation, without specific directives for these items. The project is still incomplete and lacks OC.",
+            "source_page": 4
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": {
+      "amount": {
+        "value": null,
+        "type": "penalty",
+        "recipient": "government",
+        "interest_rate_description": null
+      },
+      "reason": "Respondent promoter failed to seek an extension for the project validity, which lapsed on 31-07-2023. Failure to seek extension within the stipulated time will make the respondent liable for penalty under section 63 of RERA.",
+      "deadline": {
+        "type": "days_from_order",
+        "date": null,
+        "days": 30,
+        "event": null,
+        "from_date": null,
+        "options": null,
+        "installments": null
+      },
+      "source_page": 10
+    },
+    "source_page": 9
+  },
+  "supplementary_proceedings": [
+    {
+      "proceeding_type": "appeal",
+      "date": "2024-12-06",
+      "complaint_no": "AT006000000052660",
+      "outcome": "allowed",
+      "reasoning": "Complainant appealed the previous MahaRERA order dated 23-12-2019, which had directed amicable settlement. The Hon'ble Appellate Tribunal remanded the matter back to MahaRERA for fresh adjudication on merits.",
+      "source_page": 2
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "The 'from_date' for delay interest (2012-12-09) is derived from the agreed possession date (08-06-2012) plus a 6-month MOFA extension (ending 08-12-2012), with interest accruing from the next day. The specific prayers for demolition of the water tank and completion of pending works were not explicitly granted or denied in the 'FINAL ORDER' section, only the interest for delay was granted and compensation rejected. An order-level penalty for not seeking project extension is conditional, with the amount not specified in the order, only the relevant RERA section."
+}

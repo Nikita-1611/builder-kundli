@@ -1,0 +1,89 @@
+{
+  "order_id": "b60fa712d75d447205277bae696d45cb3cbf5bea0d895a74864b60407fc793f7",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 3,
+  "coram": {
+    "name": "Shri. Manoj Saunik",
+    "designation": "Chairperson, MahaRERA"
+  },
+  "respondents": [
+    {
+      "name": "M/S NIRMAL LIFESTYLE (KALYAN) PRIVATE LIMITED",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "NIRMAL LIFESTYLE (KALYAN)",
+    "project_reg_no": "P51700006766",
+    "location": "KALYAN",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2025-01-29",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000194205 (SR.NO.20)",
+        "complainant_names": [
+          "SEEMA DAVE"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "NCLT proceedings are pending, rendering the complaints unadjudicable. The complaint is disposed of as not maintainable without addressing the merits. Liberty is granted to restore with original seniority by filing a restoration application.",
+            "source_page": 1
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000194222 (SR.NO.21)",
+        "complainant_names": [
+          "P K DAVE",
+          "MANJU DAVE"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "NCLT proceedings are pending, rendering the complaints unadjudicable. The complaint is disposed of as not maintainable without addressing the merits. Liberty is granted to restore with original seniority by filing a restoration application.",
+            "source_page": 1
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000195195 (SR.NO.22)",
+        "complainant_names": [
+          "HT MEDIA LIMITED"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "NCLT proceedings are pending, rendering the complaints unadjudicable. The complaint is disposed of as not maintainable without addressing the merits. Liberty is granted to restore with original seniority by filing a restoration application.",
+            "source_page": 1
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "Project name and location inferred from the respondent's name. OC status not mentioned in the order, hence assumed as not received."
+}

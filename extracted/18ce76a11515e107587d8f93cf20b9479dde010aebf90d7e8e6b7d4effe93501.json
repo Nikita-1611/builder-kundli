@@ -1,0 +1,69 @@
+{
+  "order_id": "18ce76a11515e107587d8f93cf20b9479dde010aebf90d7e8e6b7d4effe93501",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 2,
+  "coram": {
+    "name": "Dr. Vijay Satbir Singh",
+    "designation": "Member 1"
+  },
+  "respondents": [
+    {
+      "name": "M/s. Nirmal Lifestyle Limited",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Turquoise",
+    "project_reg_no": "P51800003188",
+    "location": "Mulund (West), Mumbai",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2018-05-14",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000012119",
+        "complainant_names": [
+          "Mrs. Sadia Ishque Daruesh",
+          "Ms. Abeer Syed"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Both parties settled the matter amicably and filed consent terms, leading to disposal of the complaint.",
+            "source_page": 1
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [
+    {
+      "proceeding_type": "review",
+      "date": "2018-08-16",
+      "complaint_no": "CC006000000012119",
+      "outcome": "allowed",
+      "reasoning": "Application for review/correction under section 39 of RERA Act, 2016 to delete the word 'withdrawn' which was mentioned inadvertently in para 2(d) and 4, and replace it with proper wording reflecting disposal based on consent terms.",
+      "source_page": 2
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "The document is a correction order dated 16th August 2018 amending a previous final order dated 14th May 2018, based on a review application under Section 39."
+}

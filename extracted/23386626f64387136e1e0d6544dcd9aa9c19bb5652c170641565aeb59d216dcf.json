@@ -1,0 +1,182 @@
+{
+  "order_id": "23386626f64387136e1e0d6544dcd9aa9c19bb5652c170641565aeb59d216dcf",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 5,
+  "coram": {
+    "name": "Shri. Mahesh Pathak",
+    "designation": "Hon\u2019ble Member \u2013 I/MahaRERA"
+  },
+  "respondents": [
+    {
+      "name": "Sankalp Siddhi Developers Pvt Ltd",
+      "role": "promoter"
+    },
+    {
+      "name": "Sahyog Homes Limited",
+      "role": "co-promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Lamor",
+    "project_reg_no": "P51800007725",
+    "location": "Oshiwara, Mumbai",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "Project incomplete, OC not obtained."
+    }
+  },
+  "primary_order": {
+    "order_date": "2023-11-24",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000193577",
+        "complainant_names": [
+          "Kedar Rath"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "SBI's Highest Marginal Cost Lending Rate (MCLR) plus 2%"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "obtaining OC for this project",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "The respondent failed to hand over possession by the agreed date. Complainant is entitled to refund under section 18 of RERA along with interest, payable after obtaining OC.",
+            "source_page": 23
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000196087",
+        "complainant_names": [
+          "Ms. Prachi Hemant Sanghai",
+          "Mr. Hemant Sanghai"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "SBI's Highest Marginal Cost Lending Rate (MCLR) plus 2%"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "obtaining OC for this project",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "The respondent failed to hand over possession by the agreed date. Complainant is entitled to refund under section 18 of RERA along with interest, payable after obtaining OC.",
+            "source_page": 23
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000220984",
+        "complainant_names": [
+          "Suresh Ramchand Madhyan"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "SBI's Highest Marginal Cost Lending Rate (MCLR) plus 2%"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "obtaining OC for this project",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Even in the absence of an agreed date in the allotment letter, the project completion date lapsed without possession. Complainant is entitled to refund under section 18 of RERA.",
+            "source_page": 23
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000375074",
+        "complainant_names": [
+          "Ms Prachi Hemant Sanghai"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "SBI's Highest Marginal Cost Lending Rate (MCLR) plus 2%"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "obtaining OC for this project",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "The respondent failed to hand over possession by the agreed date. Complainant is entitled to refund under section 18 of RERA along with interest, payable after obtaining OC.",
+            "source_page": 23
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000375082",
+        "complainant_names": [
+          "Hemant Prakash Sanghai"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "SBI's Highest Marginal Cost Lending Rate (MCLR) plus 2%"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "obtaining OC for this project",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "The respondent failed to hand over possession by the agreed date. Complainant is entitled to refund under section 18 of RERA along with interest, payable after obtaining OC.",
+            "source_page": 23
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 23
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "Five complaints clubbed together, all allowed for refund under Section 18 with interest at SBI MCLR + 2%. Specific monetary refund values were not settled as exact figures in the final operative order text, so values are left null."
+}

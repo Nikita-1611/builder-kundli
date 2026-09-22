@@ -1,0 +1,53 @@
+{
+  "order_id": "66cf8ddb592286d86e9bcd7318687c50120cf4702c5f4b7c977ae4f23e01c6e4",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Dr. Vijay Satbir Singh",
+    "designation": "Member 1"
+  },
+  "respondents": [
+    {
+      "name": "M/s Nirmal Lifestyle (Kalyan) Private Limited",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": null,
+    "project_reg_no": "P51700006711",
+    "location": "Kalyan Dist Thane",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2018-03-01",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000012443",
+        "complainant_names": [
+          "Bhalchandra Ganesh Chindarkar"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The complainant sought interest for delayed possession of flat No. 103 in 'Cypress' building. However, both parties settled the matter amicably and filed consent terms, leading to the disposal of the complaint without an order for delay interest from the Authority.",
+            "source_page": 1
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high"
+}

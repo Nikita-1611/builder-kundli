@@ -1,0 +1,854 @@
+{
+  "order_id": "1302c5dd9655de7a24a5e01932b1ddeae06fafddccf4542553f0c2e8bc52802e",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 27,
+  "coram": {
+    "name": "B.D. Kapadnis",
+    "designation": "Member II"
+  },
+  "respondents": [
+    {
+      "name": "JVPD Properties Pvt. Ltd.",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Bhagtani Serenity",
+    "project_reg_no": "P51800011181",
+    "location": "Village Tirandaz, Taluka Kurla, Mumbai",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "Project abandoned / construction not completed."
+    }
+  },
+  "primary_order": {
+    "order_date": "2020-02-18",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000141027",
+        "complainant_names": [
+          "Mr Ankur Garg",
+          "Ms Sweta Garg"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 2180354,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed, entitling complainants to refund with interest under Section 18 of RERA.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to litigation cost.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192381",
+        "complainant_names": [
+          "Mr Apurva Vinod Pandya",
+          "Mrs Madhuri Apurva Pandya"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed, entitling complainants to refund with interest under Section 18 of RERA.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to litigation cost.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192384",
+        "complainant_names": [
+          "Chhagani Devi Nahata",
+          "Vijay Raj Nahata"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 687345,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed, entitling complainants to refund with interest under Section 18 of RERA.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to litigation cost.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192385",
+        "complainant_names": [
+          "Rohit Vijay Nahata",
+          "Buladevi Nahata"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 2087573,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed, entitling complainants to refund with interest under Section 18 of RERA.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to litigation cost.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192388",
+        "complainant_names": [
+          "Parshuram G Raturi",
+          "Rajni Raturi"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed, entitling complainants to refund with interest under Section 18 of RERA.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to litigation cost.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192393",
+        "complainant_names": [
+          "Udit M Sharma",
+          "Ritu U Sharma"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 4142672,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed, entitling complainants to refund with interest under Section 18 of RERA.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to litigation cost.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192408",
+        "complainant_names": [
+          "Sayed Hifazat Ali"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 4329780,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed, entitling complainants to refund with interest under Section 18 of RERA.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to litigation cost.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192433",
+        "complainant_names": [
+          "Branson D'Souza",
+          "Neelam D'Souza"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 5773040,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed, entitling complainants to refund with interest under Section 18 of RERA.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to litigation cost.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192434",
+        "complainant_names": [
+          "Rupesh Keshav Patole",
+          "Darshana Rupesh Patole"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 2198942,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed, entitling complainants to refund with interest under Section 18 of RERA.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to litigation cost.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192437",
+        "complainant_names": [
+          "Imran Shah",
+          "Sakina Mustaq Ahmed Shaikh"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 3348750,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed, entitling complainants to refund with interest under Section 18 of RERA.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to litigation cost.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192438",
+        "complainant_names": [
+          "Mrityunjay R Dubey"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed, entitling complainants to refund with interest under Section 18 of RERA.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to litigation cost.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192440",
+        "complainant_names": [
+          "Fathulla Eftekar"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 2318751,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed, entitling complainants to refund with interest under Section 18 of RERA.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to litigation cost.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192466",
+        "complainant_names": [
+          "Nivas Mahadev Patil",
+          "Pramila Nivas Patil"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 2373261,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed, entitling complainants to refund with interest under Section 18 of RERA.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to litigation cost.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192467",
+        "complainant_names": [
+          "Rajendra Nikam"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 2017987,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed, entitling complainants to refund with interest under Section 18 of RERA.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to litigation cost.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192472",
+        "complainant_names": [
+          "Puja Dattaprasad Sadwelkar",
+          "Dattaprasad Sadwelkar"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed, entitling complainants to refund with interest under Section 18 of RERA.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to litigation cost.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192474",
+        "complainant_names": [
+          "Pankaj Arora",
+          "Vishal Arora"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed, entitling complainants to refund with interest under Section 18 of RERA.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to litigation cost.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192479",
+        "complainant_names": [
+          "Kinnari Gupta",
+          "Rakhi Gupta"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 2700000,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed, entitling complainants to refund with interest under Section 18 of RERA.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to litigation cost.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192480",
+        "complainant_names": [
+          "Amit Khandelwal",
+          "Mamta Khandelwal"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 2653200,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed, entitling complainants to refund with interest under Section 18 of RERA.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to litigation cost.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192481",
+        "complainant_names": [
+          "Nimu J Mehta",
+          "Manish Mehta"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 1200000,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed, entitling complainants to refund with interest under Section 18 of RERA.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to litigation cost.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192482",
+        "complainant_names": [
+          "Alpa Jay Shah"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed, entitling complainants to refund with interest under Section 18 of RERA.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to litigation cost.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192493",
+        "complainant_names": [
+          "Vikas Radhe Shyam Singh"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 2070000,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed, entitling complainants to refund with interest under Section 18 of RERA.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to litigation cost.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192546",
+        "complainant_names": [
+          "Mrs Vaibhavi Mhatre Marwah",
+          "Mr Nitin H Marwah"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 4566890,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum simple interest"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed, entitling complainants to refund with interest under Section 18 of RERA.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to litigation cost.",
+            "source_page": 8
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 4
+  },
+  "supplementary_proceedings": [
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2020-10-14",
+      "complaint_no": "CC006000000192412",
+      "outcome": "allowed",
+      "reasoning": "Complainants filed non-compliance/recovery applications. Respondent's excuse regarding police freezing their bank accounts was rejected since they had other sources to satisfy claims. Issue recovery warrant under section 40(1) of RERA.",
+      "source_page": 10
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Multiple complaints clubbed together in the final order. For complainants who booked multiple flats with separate amounts listed separately (e.g. Apurva Vinod Pandya, Parshuram G Raturi, Mrityunjay R Dubey, Puja Dattaprasad Sadwelkar, Pankaj Arora, Alpa Jay Shah), the principal value is left null rather than guessing the combined sum since the order specifies amounts per flat rather than a single sum total for those entries."
+}

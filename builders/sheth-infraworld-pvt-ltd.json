@@ -1,0 +1,33 @@
+{
+  "builder_id": "sheth-infraworld-pvt-ltd",
+  "builder_name": "Sheth Infraworld Pvt.Ltd",
+  "name_variants": [
+    "Sheth Infraworld Pvt.Ltd"
+  ],
+  "score": 5.3,
+  "raw_points": 450.0,
+  "project_count": 1,
+  "warrant_count": 15,
+  "warrant_points": 450.0,
+  "warrants_recent_count": 15,
+  "warrants_recent_points": 450.0,
+  "warrants_older_count": 0,
+  "warrants_older_points": 0,
+  "order_count": 0,
+  "relief_count": 0,
+  "order_points": 0.0,
+  "total_buyers": 0,
+  "buyers_won": 0,
+  "warranted_buyers": 0,
+  "buyers_won_no_warrant": 0,
+  "adverse_no_warrant_relief_count": 0,
+  "categories": [],
+  "projects": [
+    {
+      "project_no": "P51800000882",
+      "warrant_count": 15
+    }
+  ],
+  "orders": [],
+  "last_built": "2026-09-22"
+}

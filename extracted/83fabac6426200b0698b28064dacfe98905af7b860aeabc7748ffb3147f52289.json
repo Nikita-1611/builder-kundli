@@ -1,0 +1,928 @@
+{
+  "order_id": "83fabac6426200b0698b28064dacfe98905af7b860aeabc7748ffb3147f52289",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 22,
+  "coram": {
+    "name": "Shri B.D. Kapadnis",
+    "designation": "Hon'ble Member & Adjudicating Officer"
+  },
+  "respondents": [
+    {
+      "name": "JVPD Properties Pvt.Ltd.",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Bhagtani Serenity",
+    "project_reg_no": "P51800011181",
+    "location": "Village Tirandaz, Taluka Kurla, Mumbai",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "Project construction incomplete; respondents declared inability to proceed with project and failed to obtain clearances."
+    }
+  },
+  "primary_order": {
+    "order_date": "2018-04-23",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000000794",
+        "complainant_names": [
+          "Surinder Singh",
+          "Ambika Singh"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.05 % per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "refunded",
+              "from_date": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction and declared inability to proceed, contravening Section 12 of RERA by making false statements. Allottees are entitled to refund with interest.",
+            "source_page": 9
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Costs awarded for the complaint.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000001460",
+        "complainant_names": [
+          "Seema Saini"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.05 % per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "refunded",
+              "from_date": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction and declared inability to proceed, contravening Section 12 of RERA by making false statements. Allottees are entitled to refund with interest.",
+            "source_page": 9
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Costs awarded for the complaint.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000001502",
+        "complainant_names": [
+          "Saroj Taneja"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.05 % per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "refunded",
+              "from_date": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction and declared inability to proceed, contravening Section 12 of RERA by making false statements. Allottees are entitled to refund with interest.",
+            "source_page": 9
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Costs awarded for the complaint.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000001523",
+        "complainant_names": [
+          "Abdul Razak"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.05 % per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "refunded",
+              "from_date": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction and declared inability to proceed, contravening Section 12 of RERA by making false statements. Allottees are entitled to refund with interest.",
+            "source_page": 9
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Costs awarded for the complaint.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000001567",
+        "complainant_names": [
+          "Syed Moehboob",
+          "Syed Tipoo"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.05 % per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "refunded",
+              "from_date": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction and declared inability to proceed, contravening Section 12 of RERA by making false statements. Allottees are entitled to refund with interest.",
+            "source_page": 9
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Costs awarded for the complaint.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000001574",
+        "complainant_names": [
+          "Abhijit Balkrishna Rane"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.05 % per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "refunded",
+              "from_date": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction and declared inability to proceed, contravening Section 12 of RERA by making false statements. Allottees are entitled to refund with interest.",
+            "source_page": 9
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Costs awarded for the complaint.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000001578",
+        "complainant_names": [
+          "Ismail Baban Kazi"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.05 % per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "refunded",
+              "from_date": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction and declared inability to proceed, contravening Section 12 of RERA by making false statements. Allottees are entitled to refund with interest.",
+            "source_page": 9
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Costs awarded for the complaint.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000001583",
+        "complainant_names": [
+          "Premanand Shetty"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.05 % per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "refunded",
+              "from_date": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction and declared inability to proceed, contravening Section 12 of RERA by making false statements. Allottees are entitled to refund with interest.",
+            "source_page": 9
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Costs awarded for the complaint.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000001587",
+        "complainant_names": [
+          "Kameshwar Sabat"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.05 % per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "refunded",
+              "from_date": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction and declared inability to proceed, contravening Section 12 of RERA by making false statements. Allottees are entitled to refund with interest.",
+            "source_page": 9
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Costs awarded for the complaint.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000001595",
+        "complainant_names": [
+          "Suresh R. Patel"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.05 % per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "refunded",
+              "from_date": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction and declared inability to proceed, contravening Section 12 of RERA by making false statements. Allottees are entitled to refund with interest.",
+            "source_page": 9
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Costs awarded for the complaint.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000001605",
+        "complainant_names": [
+          "Krishna Ojha"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.05 % per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "refunded",
+              "from_date": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction and declared inability to proceed, contravening Section 12 of RERA by making false statements. Allottees are entitled to refund with interest.",
+            "source_page": 9
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Costs awarded for the complaint.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000001607",
+        "complainant_names": [
+          "Vinay Gupta"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.05 % per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "refunded",
+              "from_date": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction and declared inability to proceed, contravening Section 12 of RERA by making false statements. Allottees are entitled to refund with interest.",
+            "source_page": 9
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Costs awarded for the complaint.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000001610",
+        "complainant_names": [
+          "Vipul Saxena"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.05 % per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "refunded",
+              "from_date": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction and declared inability to proceed, contravening Section 12 of RERA by making false statements. Allottees are entitled to refund with interest.",
+            "source_page": 9
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Costs awarded for the complaint.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000001615",
+        "complainant_names": [
+          "Bhagwani Devi Gupta"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.05 % per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "refunded",
+              "from_date": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction and declared inability to proceed, contravening Section 12 of RERA by making false statements. Allottees are entitled to refund with interest.",
+            "source_page": 9
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Costs awarded for the complaint.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000001617",
+        "complainant_names": [
+          "Manoj Vijayan"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.05 % per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "refunded",
+              "from_date": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction and declared inability to proceed, contravening Section 12 of RERA by making false statements. Allottees are entitled to refund with interest.",
+            "source_page": 9
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Costs awarded for the complaint.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000001619",
+        "complainant_names": [
+          "Ramprasad Lalman Gupta"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.05 % per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "refunded",
+              "from_date": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction and declared inability to proceed, contravening Section 12 of RERA by making false statements. Allottees are entitled to refund with interest.",
+            "source_page": 9
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Costs awarded for the complaint.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000001622",
+        "complainant_names": [
+          "Jayessh Ruparel"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.05 % per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "refunded",
+              "from_date": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction and declared inability to proceed, contravening Section 12 of RERA by making false statements. Allottees are entitled to refund with interest.",
+            "source_page": 9
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Costs awarded for the complaint.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000001625",
+        "complainant_names": [
+          "Cheraq Ruparel"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.05 % per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "refunded",
+              "from_date": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction and declared inability to proceed, contravening Section 12 of RERA by making false statements. Allottees are entitled to refund with interest.",
+            "source_page": 9
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Costs awarded for the complaint.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000001629",
+        "complainant_names": [
+          "Vishal Singhania"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.05 % per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "refunded",
+              "from_date": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction and declared inability to proceed, contravening Section 12 of RERA by making false statements. Allottees are entitled to refund with interest.",
+            "source_page": 9
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Costs awarded for the complaint.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000001631",
+        "complainant_names": [
+          "Kanwarlal Daga"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.05 % per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "refunded",
+              "from_date": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction and declared inability to proceed, contravening Section 12 of RERA by making false statements. Allottees are entitled to refund with interest.",
+            "source_page": 9
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Costs awarded for the complaint.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000001638",
+        "complainant_names": [
+          "Vijayadevi Daga"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.05 % per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "refunded",
+              "from_date": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction and declared inability to proceed, contravening Section 12 of RERA by making false statements. Allottees are entitled to refund with interest.",
+            "source_page": 9
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Costs awarded for the complaint.",
+            "source_page": 9
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000001651",
+        "complainant_names": [
+          "Ritesh Ravi Sahu"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 4876157.0,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.05 % per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "refunded",
+              "from_date": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction and declared inability to proceed, contravening Section 12 of RERA by making false statements. Allottees are entitled to refund with interest. Specific amount is derived from the payment sheet Exh. 'A'.",
+            "source_page": 9
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Costs awarded for the complaint.",
+            "source_page": 9
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 5
+  },
+  "supplementary_proceedings": [
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2019-03-18",
+      "complaint_no": "CC006000000001651",
+      "outcome": "dismissed_want_of_prosecution",
+      "reasoning": "The application for non-compliance of the order was disposed off as none were present when the matter was called repeatedly.",
+      "source_page": 11
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Refund principal amounts for all complaints except CC006000000001651 are null as their respective 'Exh. A' payment sheets were not provided in this document. The 'from_date' for interest accrual is 'from the dates of payment' which vary per payment, thus left as null in the deadline object, but described in the reasoning."
+}

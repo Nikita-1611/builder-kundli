@@ -1,0 +1,118 @@
+{
+  "order_id": "15ce445ce9fbe7592796694aaeea0af5f72d97fe92860c64f8b904f46b30e26c",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 2,
+  "coram": {
+    "name": "B. D. Kapadnis",
+    "designation": "Member-II"
+  },
+  "respondents": [
+    {
+      "name": "M/s. Nirmal Developers",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Olympia",
+    "project_reg_no": "P51800011870",
+    "location": "Kapal Nagari, Mulund (W)",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2020-09-02",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000089971",
+        "complainant_names": [
+          "Mr. Prasanna Iyengar"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "9% from receipts of those payments till they are refunded"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to return the balance amount despite their promise, hence complainants are entitled to refund with interest.",
+            "source_page": 14
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to litigation costs towards their complaints.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000171766",
+        "complainant_names": [
+          "Mr. Kunal Anand Date"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "9% from receipts of those payments till they are refunded"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to return the balance amount despite their promise, hence complainants are entitled to refund with interest.",
+            "source_page": 14
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to litigation costs towards their complaints.",
+            "source_page": 15
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 14
+  },
+  "supplementary_proceedings": [
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2021-11-12",
+      "complaint_no": "CC006000000171766",
+      "outcome": "allowed",
+      "reasoning": "Respondent failed to comply with the final order to refund the amount with interest, leading to the issuance of a recovery warrant under Section 40(1) of RERA.",
+      "source_page": 10
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "The PDF contains both the original final order dated 02.09.2020 and subsequent non-compliance/recovery proceedings up to May 2023. Principal amounts for refunds are left null as individual payment values vary and are explicitly listed in a table rather than a single settled lump sum."
+}

@@ -1,0 +1,59 @@
+{
+  "order_id": "1ae6c4ab06990849587014061c7136efdc1e9509e7a9a8c1e7b3fff3404fd03f",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Dr. Vijay Satbir Singh",
+    "designation": "Member 1"
+  },
+  "respondents": [
+    {
+      "name": "M/s Nirmal Lifestyle Limited & Others",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Turquoise",
+    "project_reg_no": "P51800003188",
+    "location": "Mulund (W), Mumbai",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2018-01-23",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000001521",
+        "complainant_names": [
+          "Mr. Kishore Shrichand Hingwani"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "penalty",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Both parties settled the matter amicably and filed consent terms on record.",
+            "source_page": 1
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "The matter was settled amicably between the parties based on consent terms. Specific monetary values for interest were not detailed in the final order text."
+}

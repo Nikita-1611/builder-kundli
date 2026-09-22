@@ -1,0 +1,58 @@
+{
+  "order_id": "454eb534f1ed9b04eecef363aeb04994adc46445294681ae39139eaa10263ccb",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Dr. Vijay Satbir Singh",
+    "designation": "Hon'ble Member - 1/MahaRERA"
+  },
+  "respondents": [
+    {
+      "name": "M/S Nirmal Lifestyle Kalyan Pvt Ltd",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Nirmal Lifestyle Kalyan",
+    "project_reg_no": "P51700003544",
+    "location": null,
+    "oc_status": {
+      "received": true,
+      "date": "2019-08-01",
+      "issuing_authority": "KDMC",
+      "note": "Occupancy certificate obtained in August 2019. Complainant stated basic amenities (KDMC water connection) not provided, and only 10 out of 240 flats occupied in the building. MahaRERA noted possession has been offered but complainant refused due to amenities."
+    }
+  },
+  "primary_order": {
+    "order_date": "2020-10-16",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000001419",
+        "complainant_names": [
+          "Mr. Ajay Sankhyan"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": false,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The complainant sought enforcement of consent terms for monthly interest due to non-adherence by the respondent. MahaRERA observed that OC was obtained in August 2019, and possession offered. While the complainant is entitled to seek interest till OC date, the non-execution application was disposed of, meaning continued enforcement of monthly interest beyond OC date was not granted through this application. Grievances regarding amenities were directed to be filed as a fresh complaint.",
+            "source_page": 3
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 3
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high"
+}

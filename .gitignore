@@ -1,0 +1,9 @@
+.env
+node_modules/
+dist/
+raw_html/
+/orders/
+builder_risk.db
+scored/
+collect_orders_log*.txt
+project-context.md

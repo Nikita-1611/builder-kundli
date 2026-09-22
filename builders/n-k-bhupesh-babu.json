@@ -1,0 +1,54 @@
+{
+  "builder_id": "n-k-bhupesh-babu",
+  "builder_name": "N.K.Bhupesh Babu",
+  "name_variants": [
+    "N. K. Bhupeshbabu",
+    "N.K.Bhupesh Babu"
+  ],
+  "score": 5.8,
+  "raw_points": 450.0,
+  "project_count": 6,
+  "warrant_count": 30,
+  "warrant_points": 450.0,
+  "warrants_recent_count": 0,
+  "warrants_recent_points": 0,
+  "warrants_older_count": 30,
+  "warrants_older_points": 450.0,
+  "order_count": 0,
+  "relief_count": 0,
+  "order_points": 0.0,
+  "total_buyers": 0,
+  "buyers_won": 0,
+  "warranted_buyers": 0,
+  "buyers_won_no_warrant": 0,
+  "adverse_no_warrant_relief_count": 0,
+  "categories": [],
+  "projects": [
+    {
+      "project_no": "P52000005585",
+      "warrant_count": 10
+    },
+    {
+      "project_no": "P52000006667",
+      "warrant_count": 6
+    },
+    {
+      "project_no": "P52000009049",
+      "warrant_count": 5
+    },
+    {
+      "project_no": "P52000009573",
+      "warrant_count": 1
+    },
+    {
+      "project_no": "P52000010054",
+      "warrant_count": 4
+    },
+    {
+      "project_no": "P52000012218",
+      "warrant_count": 4
+    }
+  ],
+  "orders": [],
+  "last_built": "2026-09-22"
+}

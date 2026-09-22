@@ -1,0 +1,24 @@
+/*
+  Brand design tokens for the marketing/landing surface (and, going
+  forward, the report page -- see ConcernScale). Kept separate from
+  variables.css, which is the older grayscale token set the report and
+  search screens still use, so introducing these doesn't restyle them.
+*/
+:root {
+  --brand-green: #0f5245;
+  --brand-green-dark: #0e3d34;
+  --brand-mint: #e3eee9;
+  --brand-bg: #fafaf8;
+  --brand-text: #1a1a1a;
+  --brand-text-secondary: #454545;
+  --brand-border: #dedcd6;
+
+  --concern-clean: #5e9e7e;
+  --concern-minor: #d9b24a;
+  --concern-some: #e39a55;
+  --concern-significant: #c8553d;
+
+  --font-heading: "Newsreader", Georgia, serif;
+  --font-body: "IBM Plex Sans", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", monospace;
+}

@@ -1,0 +1,298 @@
+{
+  "order_id": "1ed9b935a98b165c24df63723c0a52610d612811033130fcef410bb618503b04",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 7,
+  "coram": {
+    "name": "B.D. Kapadnis",
+    "designation": "Member II"
+  },
+  "respondents": [
+    {
+      "name": "JVPD Properties Pvt. Ltd.",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Bhagtani Serenity",
+    "project_reg_no": "P51800011181",
+    "location": "Village Tirandaz, Taluka Kurla",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2020-02-13",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000192524",
+        "complainant_names": [
+          "Ashish Kejriwal"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 1586400,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "2% above the SBI's highest MCLR which is currently 8.25%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction within the stipulated period, entitling the complainant to refund under Section 18 of RERA.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost awarded towards the cost of the complaint.",
+            "source_page": 18
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192547",
+        "complainant_names": [
+          "Darshana Tolani"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 2701752,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "2% above the SBI's highest MCLR which is currently 8.25%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction within the stipulated period, entitling the complainant to refund under Section 18 of RERA.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost awarded towards the cost of the complaint.",
+            "source_page": 18
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192571",
+        "complainant_names": [
+          "Gaurang Naik"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 1409952,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "2% above the SBI's highest MCLR which is currently 8.25%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction within the stipulated period, entitling the complainant to refund under Section 18 of RERA.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost awarded towards the cost of the complaint.",
+            "source_page": 18
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192572",
+        "complainant_names": [
+          "Janak Dalal"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 1409952,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "2% above the SBI's highest MCLR which is currently 8.25%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction within the stipulated period, entitling the complainant to refund under Section 18 of RERA.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost awarded towards the cost of the complaint.",
+            "source_page": 18
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192574",
+        "complainant_names": [
+          "Lovneesh Bansal"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 2043977,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "2% above the SBI's highest MCLR which is currently 8.25%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction within the stipulated period, entitling the complainant to refund under Section 18 of RERA.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost awarded towards the cost of the complaint.",
+            "source_page": 18
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192577",
+        "complainant_names": [
+          "Sameer Pandya"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 970400,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "2% above the SBI's highest MCLR which is currently 8.25%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction within the stipulated period, entitling the complainant to refund under Section 18 of RERA.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost awarded towards the cost of the complaint.",
+            "source_page": 18
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192579",
+        "complainant_names": [
+          "Samir Trivedi"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "2% above the SBI's highest MCLR which is currently 8.25%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete construction within the stipulated period, entitling the complainant to refund under Section 18 of RERA.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost awarded towards the cost of the complaint.",
+            "source_page": 18
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 15
+  },
+  "supplementary_proceedings": [
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2023-07-04",
+      "complaint_no": "CC006000000192524",
+      "outcome": "allowed",
+      "reasoning": "Respondent failed to comply with the final order to refund amounts with interest; recovery warrant issued under section 40(1) of RERA.",
+      "source_page": 12
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "The PDF contains an initial cover letter and recovery warrant details dated 18 July 2023 for complaint CC006000000192524, followed by a non-execution order dated 4 July 2023 disposing of 16 applications, which in turn includes the original final order dated 13 February 2020 disposing of multiple clubbed complaints. Samir Trivedi's principal amount is unreadable/missing in the table on page 15, so it was set to null."
+}

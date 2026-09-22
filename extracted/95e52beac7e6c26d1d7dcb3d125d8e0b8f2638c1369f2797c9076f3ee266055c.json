@@ -1,0 +1,300 @@
+{
+  "order_id": "95e52beac7e6c26d1d7dcb3d125d8e0b8f2638c1369f2797c9076f3ee266055c",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 8,
+  "coram": {
+    "name": "Shri B.D. Kapadnis",
+    "designation": "Hon'ble Member & Adjudicating Officer"
+  },
+  "respondents": [
+    {
+      "name": "Dilpesh Bhagtani",
+      "role": "promoter"
+    },
+    {
+      "name": "JVPD Properties Pvt.Ltd.",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Bhagtani Serenity",
+    "project_reg_no": "P51800011181",
+    "location": "Village Tirandaz, Taluka Kurla, Mumbai, C.T.S. No. 63A/5 and 64D \"S\" ward",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "Respondents showed inability to complete construction and give possession by letter dated 24th July 2017."
+    }
+  },
+  "primary_order": {
+    "order_date": "2018-10-10",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000056077",
+        "complainant_names": [
+          "Amit Jain",
+          "Pooja Jain"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 1431765,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.55% per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "refunded",
+              "from_date": null,
+              "options": null,
+              "days": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents made false statements, failed to complete the project, and declared inability to proceed, contravening Section 12/18 of RERA. Complainants wish to withdraw.",
+            "source_page": 7
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Costs awarded towards the complaint.",
+            "source_page": 7
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000055738",
+        "complainant_names": [
+          "Hitesh Porwal",
+          "Prerana Porwal"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 3263250,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.55% per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "refunded",
+              "from_date": null,
+              "options": null,
+              "days": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents made false statements, failed to complete the project, and declared inability to proceed, contravening Section 12/18 of RERA. Complainants wish to withdraw.",
+            "source_page": 7
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Costs awarded towards the complaint.",
+            "source_page": 7
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000055902",
+        "complainant_names": [
+          "Mr. Bhaskar Ranjan Dutt",
+          "Mrs. Liza Dutt"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 7623750,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.55% per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "refunded",
+              "from_date": null,
+              "options": null,
+              "days": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents made false statements, failed to complete the project, and declared inability to proceed, contravening Section 12/18 of RERA. Complainants wish to withdraw.",
+            "source_page": 7
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Costs awarded towards the complaint.",
+            "source_page": 7
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000055940",
+        "complainant_names": [
+          "Swarna Panigrahi"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 3065690,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.55% per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "refunded",
+              "from_date": null,
+              "options": null,
+              "days": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents made false statements, failed to complete the project, and declared inability to proceed, contravening Section 12/18 of RERA. Complainants wish to withdraw.",
+            "source_page": 7
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Costs awarded towards the complaint.",
+            "source_page": 7
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000055939",
+        "complainant_names": [
+          "Debashis Das"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 3065690,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.55% per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "refunded",
+              "from_date": null,
+              "options": null,
+              "days": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents made false statements, failed to complete the project, and declared inability to proceed, contravening Section 12/18 of RERA. Complainants wish to withdraw.",
+            "source_page": 7
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Costs awarded towards the complaint.",
+            "source_page": 7
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 3
+  },
+  "supplementary_proceedings": [
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2020-11-02",
+      "complaint_no": "CC006000000056077",
+      "outcome": "allowed",
+      "reasoning": "Complainants filed applications reporting non-compliance of final orders. Respondents claim bank accounts are frozen due to EOW investigation, but they had opportunity to satisfy claims earlier and have other sources. Recovery warrant issued under Section 40(1) of RERA.",
+      "source_page": 9
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2020-11-02",
+      "complaint_no": "CC006000000056183",
+      "outcome": "allowed",
+      "reasoning": "Complainants filed applications reporting non-compliance of final orders. Respondents claim bank accounts are frozen due to EOW investigation, but they had opportunity to satisfy claims earlier and have other sources. Recovery warrant issued under Section 40(1) of RERA.",
+      "source_page": 9
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2020-11-02",
+      "complaint_no": "CC006000000056374",
+      "outcome": "allowed",
+      "reasoning": "Complainants filed applications reporting non-compliance of final orders. Respondents claim bank accounts are frozen due to EOW investigation, but they had opportunity to satisfy claims earlier and have other sources. Recovery warrant issued under Section 40(1) of RERA.",
+      "source_page": 9
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2020-11-02",
+      "complaint_no": "CC006000000056407",
+      "outcome": "allowed",
+      "reasoning": "Complainants filed applications reporting non-compliance of final orders. Respondents claim bank accounts are frozen due to EOW investigation, but they had opportunity to satisfy claims earlier and have other sources. Recovery warrant issued under Section 40(1) of RERA.",
+      "source_page": 9
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2020-11-02",
+      "complaint_no": "CC006000000056602",
+      "outcome": "allowed",
+      "reasoning": "Complainants filed applications reporting non-compliance of final orders. Respondents claim bank accounts are frozen due to EOW investigation, but they had opportunity to satisfy claims earlier and have other sources. Recovery warrant issued under Section 40(1) of RERA.",
+      "source_page": 9
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Project location detail combined from pages 3 and 7. The recovery order on page 9 is a single order addressing multiple complaints listed on page 8; each complaint is given its own supplementary_proceeding entry as per schema interpretation."
+}

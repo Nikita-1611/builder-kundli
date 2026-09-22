@@ -1,0 +1,63 @@
+{
+  "order_id": "13175f0c53f6f911196ce968689d977395371b8295e6218b3f313232ee33006b",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Dr. Vijay Satbir Singh",
+    "designation": "Member 1"
+  },
+  "respondents": [
+    {
+      "name": "M/s Nirmal Lifestyle (Kalyan) Private Limited",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Thames",
+    "project_reg_no": "P51700003616",
+    "location": "Kalyan, Dist Thane",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2018-02-02",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000012313",
+        "complainant_names": [
+          "Mr. Fazal M. Y. Shaikh"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "No agreement for sale was executed between the complainant and the respondent, hence there is no violation of Section 18 of the Real Estate (Regulation and Development) Act, 2016. However, the respondent submitted a written undertaking to refund the entire booking amount within six months from the date of the order.",
+            "source_page": 2
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "As no agreement has been executed, the complainant is not entitled to claim any interest.",
+            "source_page": 2
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 2
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "The complaint stands disposed of based on the respondent's written undertaking to refund the booking amount. No monetary values for the refund are explicitly granted as enforceable statutory relief under Section 18 due to the absence of a registered agreement."
+}

@@ -1,0 +1,111 @@
+{
+  "order_id": "886ed3ecb1f5988a62f0ddf8b3cdcb149120652cb0913267c2497204394d6c9a",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Shri B.D. Kapadnis",
+    "designation": "Hon'ble Member & Adjudicating Officer"
+  },
+  "respondents": [
+    {
+      "name": "Mr. Dipesh/Mukesh Bhagtani",
+      "role": "promoter"
+    },
+    {
+      "name": "JVPD Properties Pvt Ltd",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Bhagtani Serenity",
+    "project_reg_no": "P51800011181",
+    "location": "Village Tirandaz, Taluka Kurla, Mumbai",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "Respondents have not obtained necessary permissions/sanctions for completion of the project."
+    }
+  },
+  "primary_order": {
+    "order_date": "2018-04-23",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000000381",
+        "complainant_names": [
+          "Rahim Rajabali Mardhani"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.05% per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "The project is frustrated, and respondents showed an inability to complete the construction and give possession as agreed. The complainant is entitled to a refund of the amount with interest from the dates of payment.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainant is entitled to costs of the complaint.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "complainant claims are satisfied",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "To secure the refund and cost amount, a charge is placed on the respondents' project property.",
+            "source_page": 8
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 8
+  },
+  "supplementary_proceedings": [
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2020-11-02",
+      "complaint_no": "CC006000000000381",
+      "outcome": "allowed",
+      "reasoning": "Respondents claimed inability to comply with the final order due to frozen bank accounts by the Economic Offence Wing. The Authority dismissed this reason, stating respondents had prior opportunities and other sources to comply, and issued a recovery warrant under Section 40(1) of RERA.",
+      "source_page": 1
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "The primary order refers to 'payment sheet marked Exh. 'A'' for the refund amount. Summing the figures in Exh. 'A' (Page 9), the total principal amount paid by the complainant is Rs. 2,130,097. The interest rate is stated as 10.05% per annum. The document contains both a Final Order from 2018 and a subsequent Order on Recovery Application from 2020, which have been captured separately."
+}

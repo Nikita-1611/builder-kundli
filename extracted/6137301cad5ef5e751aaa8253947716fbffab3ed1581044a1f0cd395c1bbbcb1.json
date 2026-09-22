@@ -1,0 +1,54 @@
+{
+  "order_id": "6137301cad5ef5e751aaa8253947716fbffab3ed1581044a1f0cd395c1bbbcb1",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Dr. Vijay Satbir Singh",
+    "designation": "Member-1/MahaRERA"
+  },
+  "respondents": [
+    {
+      "name": "Nirmal Lifestyle (Kalyan) Private Limited",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Cypress",
+    "project_reg_no": "P51700006383",
+    "location": "Kalyan, Dist. Thane",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2018-03-01",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000012379",
+        "complainant_names": [
+          "Mr.Amol Goje"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The parties amicably settled the matter and filed consent terms on record, leading to the disposal of the complaint without a specific direction from the Authority.",
+            "source_page": 1
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "The complaint for delayed possession interest was disposed of based on an amicable settlement between the parties and the filing of consent terms, rather than a direct order or direction issued by the Authority for the requested relief."
+}

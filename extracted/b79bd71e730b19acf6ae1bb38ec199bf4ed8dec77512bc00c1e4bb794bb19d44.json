@@ -1,0 +1,193 @@
+{
+  "order_id": "b79bd71e730b19acf6ae1bb38ec199bf4ed8dec77512bc00c1e4bb794bb19d44",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 3,
+  "coram": {
+    "name": "B.D. Kapadnis",
+    "designation": "Member II"
+  },
+  "respondents": [
+    {
+      "name": "JVPD Properties Pvt. Ltd.",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Bhagtani Serenity",
+    "project_reg_no": "P51800011181",
+    "location": "Village Tirandaz, Taluka Kurla",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "Project abandoned, construction incomplete."
+    }
+  },
+  "primary_order": {
+    "order_date": "2020-02-18",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000192570",
+        "complainant_names": [
+          "Surendra Ramesh Sharma"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 6100000,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project due to its abandonment, making them liable to refund the amount with interest under Section 18 of RERA. Amount to be refunded is Rs. 64,00,000 less Rs. 3,00,000 already refunded.",
+            "source_page": 4
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to Rs. 10,000 towards the cost of their complaints.",
+            "source_page": 5
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192487",
+        "complainant_names": [
+          "Varinder Kaur Anand"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 1982421,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project due to its abandonment, making them liable to refund the amount with interest under Section 18 of RERA.",
+            "source_page": 4
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to Rs. 10,000 towards the cost of their complaints.",
+            "source_page": 5
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000090041",
+        "complainant_names": [
+          "Pranshant Dutta"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 2906728,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project due to its abandonment, making them liable to refund the amount with interest under Section 18 of RERA.",
+            "source_page": 4
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to Rs. 10,000 towards the cost of their complaints.",
+            "source_page": 5
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 2
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "The refund amount for Surendra Ramesh Sharma was calculated as 64,00,000 - 3,00,000 based on the text in the table. The 10.25% interest rate is explicitly stated and derived from the mentioned 2% above SBI's highest MCLR (8.25%)."
+}

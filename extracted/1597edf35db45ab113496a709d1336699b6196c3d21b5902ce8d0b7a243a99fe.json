@@ -1,0 +1,64 @@
+{
+  "order_id": "1597edf35db45ab113496a709d1336699b6196c3d21b5902ce8d0b7a243a99fe",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 2,
+  "coram": {
+    "name": "B.D. Kapadnis",
+    "designation": "Hon'ble Member & Adjudicating Officer"
+  },
+  "respondents": [
+    {
+      "name": "M/s Vidhi Realtors",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Gaurav Discovery",
+    "project_reg_no": "P51800007949",
+    "location": "Borivali, Mumbai",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2019-01-17",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000056795",
+        "complainant_names": [
+          "Mrs. Vibhuti Sanjaykumar Gupta",
+          "Mr. Sanjaykumar Pawan Gupta"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Both parties settled their dispute amicably and filed consent terms marked Exh. 'A', leading to the withdrawal and disposal of the complaint.",
+            "source_page": 13
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 13
+  },
+  "supplementary_proceedings": [
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2022-06-26",
+      "complaint_no": "CC006000000056795",
+      "outcome": "allowed",
+      "reasoning": "Respondent failed to comply with the previous order based on consent terms. The complainants sought issuance of warrants under Section 40(1) of RERA, which was allowed by the Authority.",
+      "source_page": 12
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "The primary order dated 17th January 2019 disposed of the complaint as withdrawn based on consent terms. A subsequent non-compliance proceeding dated 26th June 2022 and a recovery warrant issued on 15th June 2023 are also present in the PDF and captured under supplementary proceedings."
+}

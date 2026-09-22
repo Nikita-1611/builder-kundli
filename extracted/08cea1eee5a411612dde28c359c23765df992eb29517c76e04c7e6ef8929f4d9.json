@@ -1,0 +1,62 @@
+{
+  "order_id": "08cea1eee5a411612dde28c359c23765df992eb29517c76e04c7e6ef8929f4d9",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "B.D. Kapadnis",
+    "designation": "Member II"
+  },
+  "respondents": [
+    {
+      "name": "M/s. Nirmal Developers",
+      "role": "promoter"
+    },
+    {
+      "name": "Dharmesh Sadarmal Jain",
+      "role": "promoter"
+    },
+    {
+      "name": "Nirmal Lifestyle (Mulund) Private Limited",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "OLYMPIA C D",
+    "project_reg_no": "P51800012383",
+    "location": "Mulund",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2020-03-13",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000141147",
+        "complainant_names": [
+          "Mr. Gautham Aravindan"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The parties have settled the dispute as per the signed settlement terms produced by the complainant, and the complaint stands disposed off as settled.",
+            "source_page": 1
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "Complaint disposed off as settled based on terms signed by the parties."
+}

@@ -1,0 +1,2574 @@
+{
+  "order_id": "0890aa63e95a2f66f93510d73564a6a91c173a56481aaa78a388403db068a7b1",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 29,
+  "coram": {
+    "name": "Shri B.D. Kapadnis",
+    "designation": "Member-II"
+  },
+  "respondents": [
+    {
+      "name": "M/s. Om Sai Group",
+      "role": "promoter"
+    },
+    {
+      "name": "M/s. Om Sai Infra",
+      "role": "promoter"
+    },
+    {
+      "name": "Mahesh Patel",
+      "role": "promoter"
+    },
+    {
+      "name": "Suresh Patel",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Sai Kanishk Phase II",
+    "project_reg_no": "P51700012436",
+    "location": "Diva, Thane",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "Construction is still incomplete, and possession has not been handed over. Project is delayed as per the order."
+    }
+  },
+  "primary_order": {
+    "order_date": "2020-09-23",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000192519",
+        "complainant_names": [
+          "Mrs. Kusumadevi Sureshchandra Gupta"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192410",
+        "complainant_names": [
+          "Mr. Kanhaiya Chouhan"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192397",
+        "complainant_names": [
+          "Mr. Jaisingh Dharmraj"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192398",
+        "complainant_names": [
+          "Ms. Vandana Vasant Gaikwad"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192413",
+        "complainant_names": [
+          "Mr. Darshan Laxman Bamane"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192415",
+        "complainant_names": [
+          "Ms. Nisha Ravindra Dalvi"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192476",
+        "complainant_names": [
+          "Mr. Deepak Newaskar",
+          "Vaishali Newaskar"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192641",
+        "complainant_names": [
+          "Mr. Rajkiran Vijay Chavan"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193269",
+        "complainant_names": [
+          "Ms. Rutuja Ulhas Shinde"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192411",
+        "complainant_names": [
+          "Mr. Sanket Urkande"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193648",
+        "complainant_names": [
+          "Mr. Pankaj Manohar Dhargalkar"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192392",
+        "complainant_names": [
+          "Mr. Santosh Bapu Gurav"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192417",
+        "complainant_names": [
+          "Mr. Anant S Nagaonkar"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192424",
+        "complainant_names": [
+          "Mr. Abdul Wadood Khan"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192443",
+        "complainant_names": [
+          "Mr. Omkar Dasharath Chavan"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192486",
+        "complainant_names": [
+          "Mr. Sunil Shivaji Thorat"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192723",
+        "complainant_names": [
+          "Mrs. Manasi Hanumant Mahadeshwar"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193355",
+        "complainant_names": [
+          "Mr. Brijesh Shukla"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193361",
+        "complainant_names": [
+          "Mr. Apurva Devendra Singham"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193360",
+        "complainant_names": [
+          "Mr. Brijesh Shukla"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193378",
+        "complainant_names": [
+          "Mr. Sangam Shrirang Gaikwad"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192399",
+        "complainant_names": [
+          "Ms. Seeta Pankaj Singh"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192404",
+        "complainant_names": [
+          "Mr. Mubeen Abdul Hamid Wadkar"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192483",
+        "complainant_names": [
+          "Mr. Sachin Laxman Pawar"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192517",
+        "complainant_names": [
+          "Mr. Vedang Pradeep Mahajan"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192766",
+        "complainant_names": [
+          "Mrs. Supriya Kashiram Wadekar"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192887",
+        "complainant_names": [
+          "Mr. Anil Atmaram Mirashi",
+          "Mrs Anita Anil Mirashi"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193822",
+        "complainant_names": [
+          "Mr. Ramesh R Bansode"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192326",
+        "complainant_names": [
+          "Mrs. Aditi Alankar Thakur"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats with all agreed amenities and with occupation certificate or completion certificate as the case may be",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to handover possession on agreed dates; project incomplete. Financial mismanagement and wrong choice of financer are not valid reasons for delay. Section 18 of RERA mandates interest for delayed possession.",
+            "source_page": 10
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainants incurred costs due to the complaint process.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "handing over the possession of the flats",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents stopped paying interest under subvention scheme, affecting civil scores; directed to pay pre-EMIs till possession.",
+            "source_page": 11
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "ongoing_until_event",
+              "event": "completion of the project at the earliest",
+              "date": null,
+              "days": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Project is delayed, respondents directed to complete it expeditiously.",
+            "source_page": 11
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 4
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "The 'from_date' for the 9% p.a. delay interest is dynamically based on 'dates of their payments' for each amount paid, which is not a single fixed date and thus left null in the schema. The pre-EMIs interest rate is not explicitly stated in the order, only the obligation to pay pre-EMIs till possession or compensate those who paid due to default."
+}

@@ -1,0 +1,89 @@
+{
+  "order_id": "d57f78701bea80ae0aa2364cedae4a277f04feca5f37904c27a58e14533236ae",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Dr. Vijay Satbir Singh",
+    "designation": "Member-1, MahaRERA"
+  },
+  "respondents": [
+    {
+      "name": "Mr. N.K. Bhupeshbabu, Prop. M/s. Enkay Castle",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Enkay Garden-Zenia",
+    "project_reg_no": "P52000005271",
+    "location": "Vavanje, Panvel, Dist. Raigarh",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2019-12-23",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000078785",
+        "complainant_names": [
+          "Mr. Venkatkrishna Vaishnav"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Parties directed to settle amicably; specific monetary relief not granted by this order, complainant at liberty to approach again if settlement fails.",
+            "source_page": 1
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Parties directed to settle amicably; specific monetary relief not granted by this order, complainant at liberty to approach again if settlement fails.",
+            "source_page": 1
+          },
+          {
+            "relief_type": "compensation",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Parties directed to settle amicably; specific monetary relief not granted by this order, complainant at liberty to approach again if settlement fails.",
+            "source_page": 1
+          },
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": null,
+            "deadline": {
+              "type": "days_from_order",
+              "date": null,
+              "days": 15,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "MahaRERA directed parties to settle amicably and file consent terms on record within 15 days. Complainant at liberty to approach again in case of default/non-compliance by respondent.",
+            "source_page": 1
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "The order directs parties to settle amicably and file consent terms within 15 days, disposing of the complaint with liberty to the complainant to approach again if settlement fails. Specific monetary reliefs (refund, interest, compensation) were sought but not granted by this order; rather, the process for settlement of these issues was directed."
+}

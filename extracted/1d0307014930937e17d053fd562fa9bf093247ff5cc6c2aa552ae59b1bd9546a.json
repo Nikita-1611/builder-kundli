@@ -1,0 +1,642 @@
+{
+  "order_id": "1d0307014930937e17d053fd562fa9bf093247ff5cc6c2aa552ae59b1bd9546a",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 19,
+  "coram": {
+    "name": "Dr. Vijay Satbir Singh",
+    "designation": "Member - 1/MahaRERA"
+  },
+  "respondents": [
+    {
+      "name": "M/s. Sahyog Homes Ltd",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Verona",
+    "project_reg_no": "P51800003040",
+    "location": "Oshiwara, Jogeshwari(West), Mumbai-400102",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "Project BBJ Roma was unregistered and had no sanctioned plan/commencement certificate; current project Verona is registered."
+    }
+  },
+  "primary_order": {
+    "order_date": "2019-12-05",
+    "complaints": [
+      {
+        "complaint_no": "CC00600000057431",
+        "complainant_names": [
+          "Viloo Keki Italia"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The booked project BBJ Roma is not registered and has no sanctioned plan. The promoter is directed to treat complainants as allottees in BBJ Roma or any other name in future as per sanctioned layout, or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2% from the date of payment"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to seek refund of their money along with interest as offered by the respondent.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC00600000057844",
+        "complainant_names": [
+          "Manav Aggarwal",
+          "Shirin Aggarwal"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The booked project BBJ Roma is not registered and has no sanctioned plan. The promoter is directed to treat complainants as allottees in BBJ Roma or any other name in future as per sanctioned layout, or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2% from the date of payment"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to seek refund of their money along with interest as offered by the respondent.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC00600000057804",
+        "complainant_names": [
+          "Manav Aggarwal",
+          "Shirin Aggarwal"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The booked project BBJ Roma is not registered and has no sanctioned plan. The promoter is directed to treat complainants as allottees in BBJ Roma or any other name in future as per sanctioned layout, or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2% from the date of payment"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to seek refund of their money along with interest as offered by the respondent.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC00600000057760",
+        "complainant_names": [
+          "Shirin Agarwal",
+          "Shagun Udhas"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The booked project BBJ Roma is not registered and has no sanctioned plan. The promoter is directed to treat complainants as allottees in BBJ Roma or any other name in future as per sanctioned layout, or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2% from the date of payment"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to seek refund of their money along with interest as offered by the respondent.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC00600000057767",
+        "complainant_names": [
+          "Zeenat Z Mantri",
+          "Zaheed N mantra"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The booked project BBJ Roma is not registered and has no sanctioned plan. The promoter is directed to treat complainants as allottees in BBJ Roma or any other name in future as per sanctioned layout, or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2% from the date of payment"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to seek refund of their money along with interest as offered by the respondent.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC00600000057761",
+        "complainant_names": [
+          "Eshan Aggarwal"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The booked project BBJ Roma is not registered and has no sanctioned plan. The promoter is directed to treat complainants as allottees in BBJ Roma or any other name in future as per sanctioned layout, or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2% from the date of payment"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to seek refund of their money along with interest as offered by the respondent.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC00600000057849",
+        "complainant_names": [
+          "Shashi Udhas",
+          "Pradeep Udhas"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The booked project BBJ Roma is not registered and has no sanctioned plan. The promoter is directed to treat complainants as allottees in BBJ Roma or any other name in future as per sanctioned layout, or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2% from the date of payment"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to seek refund of their money along with interest as offered by the respondent.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC00600000057843",
+        "complainant_names": [
+          "Pradeep Udhas",
+          "Shashi Udhas"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The booked project BBJ Roma is not registered and has no sanctioned plan. The promoter is directed to treat complainants as allottees in BBJ Roma or any other name in future as per sanctioned layout, or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2% from the date of payment"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to seek refund of their money along with interest as offered by the respondent.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC00600000057848",
+        "complainant_names": [
+          "Shashi Udhas",
+          "Pradeep Udhas"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The booked project BBJ Roma is not registered and has no sanctioned plan. The promoter is directed to treat complainants as allottees in BBJ Roma or any other name in future as per sanctioned layout, or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2% from the date of payment"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to seek refund of their money along with interest as offered by the respondent.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC00600000058137",
+        "complainant_names": [
+          "Husein K Kuwajerwala",
+          "Tina Kumar Darire"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The booked project BBJ Roma is not registered and has no sanctioned plan. The promoter is directed to treat complainants as allottees in BBJ Roma or any other name in future as per sanctioned layout, or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2% from the date of payment"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to seek refund of their money along with interest as offered by the respondent.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC00600000058139",
+        "complainant_names": [
+          "Tina Kumar Darire",
+          "Husein K Kuwajerwala"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The booked project BBJ Roma is not registered and has no sanctioned plan. The promoter is directed to treat complainants as allottees in BBJ Roma or any other name in future as per sanctioned layout, or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2% from the date of payment"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to seek refund of their money along with interest as offered by the respondent.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC00600000068141",
+        "complainant_names": [
+          "Sonam Kapoor",
+          "Sunita Kapoor"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The booked project BBJ Roma is not registered and has no sanctioned plan. The promoter is directed to treat complainants as allottees in BBJ Roma or any other name in future as per sanctioned layout, or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2% from the date of payment"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to seek refund of their money along with interest as offered by the respondent.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC00600000068143",
+        "complainant_names": [
+          "Rhea Kapoor",
+          "Sunita Kapoor"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The booked project BBJ Roma is not registered and has no sanctioned plan. The promoter is directed to treat complainants as allottees in BBJ Roma or any other name in future as per sanctioned layout, or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2% from the date of payment"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to seek refund of their money along with interest as offered by the respondent.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC00600000058131",
+        "complainant_names": [
+          "Qaeed Kuwajerwala"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The booked project BBJ Roma is not registered and has no sanctioned plan. The promoter is directed to treat complainants as allottees in BBJ Roma or any other name in future as per sanctioned layout, or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2% from the date of payment"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to seek refund of their money along with interest as offered by the respondent.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC00600000058134",
+        "complainant_names": [
+          "Hina Karim Mantri",
+          "Karimi Nuruddin Mantri"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The booked project BBJ Roma is not registered and has no sanctioned plan. The promoter is directed to treat complainants as allottees in BBJ Roma or any other name in future as per sanctioned layout, or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2% from the date of payment"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to seek refund of their money along with interest as offered by the respondent.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC00600000058140",
+        "complainant_names": [
+          "Karimi Nuruddin Mantri",
+          "Hina karim Mantri"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The booked project BBJ Roma is not registered and has no sanctioned plan. The promoter is directed to treat complainants as allottees in BBJ Roma or any other name in future as per sanctioned layout, or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2% from the date of payment"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to seek refund of their money along with interest as offered by the respondent.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC00600000068144",
+        "complainant_names": [
+          "Nafisa Gulamabbas Kapasi",
+          "Gulamabbas Kapasi"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The booked project BBJ Roma is not registered and has no sanctioned plan. The promoter is directed to treat complainants as allottees in BBJ Roma or any other name in future as per sanctioned layout, or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2% from the date of payment"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to seek refund of their money along with interest as offered by the respondent.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC00600000058136",
+        "complainant_names": [
+          "Nazira Hasnain Lala",
+          "Hasnain Akbar Ali Lala"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The booked project BBJ Roma is not registered and has no sanctioned plan. The promoter is directed to treat complainants as allottees in BBJ Roma or any other name in future as per sanctioned layout, or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2% from the date of payment"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to seek refund of their money along with interest as offered by the respondent.",
+            "source_page": 8
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC00600000058142",
+        "complainant_names": [
+          "Zeenat Z Mantri",
+          "Zaheed N mantra"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "agreement_for_sale_execution",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The booked project BBJ Roma is not registered and has no sanctioned plan. The promoter is directed to treat complainants as allottees in BBJ Roma or any other name in future as per sanctioned layout, or seek refund.",
+            "source_page": 8
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR of SBI plus 2% from the date of payment"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to seek refund of their money along with interest as offered by the respondent.",
+            "source_page": 8
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 9
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "19 clubbed complaints were disposed of together in this order. The complainants sought execution of agreement for sale and interest/compensation under Section 18 for project 'BBJ Roma'. Since 'BBJ Roma' was unregistered and lacked sanctioned plans/CC, execution could not be ordered for the registered project 'Verona', but the authority directed the promoter to treat them as allottees in BBJ Roma or future registered projects as per layout, or alternatively give them a refund with interest at SBI MCLR + 2% as offered by the respondent. Individual principal amounts were not quantified in the order, hence null values."
+}

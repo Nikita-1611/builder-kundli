@@ -1,0 +1,33 @@
+{
+  "builder_id": "hagwood-commercial-developer-pvt-ltd",
+  "builder_name": "Hagwood Commercial Developer Pvt Ltd.",
+  "name_variants": [
+    "Hagwood Commercial Developer Pvt Ltd."
+  ],
+  "score": 2.2,
+  "raw_points": 150.0,
+  "project_count": 1,
+  "warrant_count": 10,
+  "warrant_points": 150.0,
+  "warrants_recent_count": 0,
+  "warrants_recent_points": 0,
+  "warrants_older_count": 10,
+  "warrants_older_points": 150.0,
+  "order_count": 0,
+  "relief_count": 0,
+  "order_points": 0.0,
+  "total_buyers": 0,
+  "buyers_won": 0,
+  "warranted_buyers": 0,
+  "buyers_won_no_warrant": 0,
+  "adverse_no_warrant_relief_count": 0,
+  "categories": [],
+  "projects": [
+    {
+      "project_no": "P50500004915",
+      "warrant_count": 10
+    }
+  ],
+  "orders": [],
+  "last_built": "2026-09-22"
+}

@@ -1,0 +1,71 @@
+{
+  "order_id": "1fc3d7cb17a4596495645334165c76a22f62bfeb2fa47e985242cc7cea492eb2",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 1,
+  "coram": {
+    "name": "B.D. Kapadnis",
+    "designation": "Member-II"
+  },
+  "respondents": [
+    {
+      "name": "Om Sai Infra & Om Sai Group",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": null,
+    "project_reg_no": "P51700006847",
+    "location": null,
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2021-02-08",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000193520",
+        "complainant_names": [
+          "A.K. Enterprises"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The parties have settled their dispute and uploaded common consent terms.",
+            "source_page": 1
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193532",
+        "complainant_names": [
+          "A.K. Enterprises"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The parties have settled their dispute and uploaded common consent terms.",
+            "source_page": 1
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "Two complaints clubbed together based on common consent terms settling the dispute."
+}

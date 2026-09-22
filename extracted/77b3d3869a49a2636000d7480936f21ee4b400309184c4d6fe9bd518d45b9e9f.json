@@ -1,0 +1,687 @@
+{
+  "order_id": "77b3d3869a49a2636000d7480936f21ee4b400309184c4d6fe9bd518d45b9e9f",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 16,
+  "coram": {
+    "name": "Dr. Vasant Prabhu",
+    "designation": "Secretary, MahaRERA"
+  },
+  "respondents": [
+    {
+      "name": "JVPD Properties Private Limited",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Serenity- Bldg 1",
+    "project_reg_no": "P51800011181",
+    "location": "Plot Bearing No / CTS no / Survey Number/Final Plot no. CTS 63 A5 AND 64 D at Powai, Mumbai Suburban \u2013 400076.",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "Other apartments are still not booked, and land on which the project is being implemented, apartments already booked with other allottees, should not be attached so that the project can be completed, implying OC is not fully received for the entire project."
+    }
+  },
+  "primary_order": {
+    "order_date": "2020-02-18",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000054784",
+        "complainant_names": [
+          "Anil Kumar Jaiswal"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.5% p.a."
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to complete construction and give possession as agreed, making them liable for refund with interest under Section 18 of RERA.",
+            "source_page": 16
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded as part of the primary order due to respondent's non-compliance.",
+            "source_page": 12
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000054802",
+        "complainant_names": [
+          "Ravikant Gour"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.5% p.a."
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to complete construction and give possession as agreed, making them liable for refund with interest under Section 18 of RERA.",
+            "source_page": 16
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded as part of the primary order due to respondent's non-compliance.",
+            "source_page": 12
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000110798",
+        "complainant_names": [
+          "Ashesh Garg",
+          "Manu Garg"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.5% p.a."
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to complete construction and give possession as agreed, making them liable for refund with interest under Section 18 of RERA.",
+            "source_page": 16
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded as part of the primary order due to respondent's non-compliance.",
+            "source_page": 12
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000141027",
+        "complainant_names": [
+          "Ankur Garg"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.5% p.a."
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to complete construction and give possession as agreed, making them liable for refund with interest under Section 18 of RERA.",
+            "source_page": 16
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded as part of the primary order due to respondent's non-compliance.",
+            "source_page": 12
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000141028",
+        "complainant_names": [
+          "Praveen Kumar Garg"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.5% p.a."
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to complete construction and give possession as agreed, making them liable for refund with interest under Section 18 of RERA.",
+            "source_page": 16
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded as part of the primary order due to respondent's non-compliance.",
+            "source_page": 12
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192524",
+        "complainant_names": [
+          "Ashish Kejriwal"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.5% p.a."
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to complete construction and give possession as agreed, making them liable for refund with interest under Section 18 of RERA.",
+            "source_page": 16
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded as part of the primary order due to respondent's non-compliance.",
+            "source_page": 12
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192547",
+        "complainant_names": [
+          "Darshana Tolani"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.5% p.a."
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to complete construction and give possession as agreed, making them liable for refund with interest under Section 18 of RERA.",
+            "source_page": 16
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded as part of the primary order due to respondent's non-compliance.",
+            "source_page": 12
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192571",
+        "complainant_names": [
+          "Gaurang Naik"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.5% p.a."
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to complete construction and give possession as agreed, making them liable for refund with interest under Section 18 of RERA.",
+            "source_page": 16
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded as part of the primary order due to respondent's non-compliance.",
+            "source_page": 12
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192572",
+        "complainant_names": [
+          "Janak Dalal"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 1409962,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.5% p.a."
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to complete construction and give possession as agreed, making them liable for refund with interest under Section 18 of RERA.",
+            "source_page": 16
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded as part of the primary order due to respondent's non-compliance.",
+            "source_page": 12
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192574",
+        "complainant_names": [
+          "Lovneesh Bansal"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.5% p.a."
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to complete construction and give possession as agreed, making them liable for refund with interest under Section 18 of RERA.",
+            "source_page": 16
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded as part of the primary order due to respondent's non-compliance.",
+            "source_page": 12
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192577",
+        "complainant_names": [
+          "Sameer Pandya"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.5% p.a."
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to complete construction and give possession as agreed, making them liable for refund with interest under Section 18 of RERA.",
+            "source_page": 16
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded as part of the primary order due to respondent's non-compliance.",
+            "source_page": 12
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192579",
+        "complainant_names": [
+          "Samir Trivedi"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.5% p.a."
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to complete construction and give possession as agreed, making them liable for refund with interest under Section 18 of RERA.",
+            "source_page": 16
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded as part of the primary order due to respondent's non-compliance.",
+            "source_page": 12
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192665",
+        "complainant_names": [
+          "Sumit Mahesh Gupta"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.5% p.a."
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to complete construction and give possession as agreed, making them liable for refund with interest under Section 18 of RERA.",
+            "source_page": 16
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded as part of the primary order due to respondent's non-compliance.",
+            "source_page": 12
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192669",
+        "complainant_names": [
+          "Sanjay Mahadik"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.5% p.a."
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to complete construction and give possession as agreed, making them liable for refund with interest under Section 18 of RERA.",
+            "source_page": 16
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded as part of the primary order due to respondent's non-compliance.",
+            "source_page": 12
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192671",
+        "complainant_names": [
+          "Durga D Mishra"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.5% p.a."
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to complete construction and give possession as agreed, making them liable for refund with interest under Section 18 of RERA.",
+            "source_page": 16
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded as part of the primary order due to respondent's non-compliance.",
+            "source_page": 12
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192827",
+        "complainant_names": [
+          "Suman Vinayak Ghuge"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.5% p.a."
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to complete construction and give possession as agreed, making them liable for refund with interest under Section 18 of RERA.",
+            "source_page": 16
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded as part of the primary order due to respondent's non-compliance.",
+            "source_page": 12
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 15
+  },
+  "supplementary_proceedings": [
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2023-07-04",
+      "complaint_no": "CC006000000192572",
+      "outcome": "allowed",
+      "reasoning": "The respondent failed to comply with the orders issued by MahaRERA, failing to refund the amounts with interest and pay costs. The respondent also did not appear for the hearing. Therefore, individual recovery warrants were directed to be issued against the respondent for all 16 applications.",
+      "source_page": 12
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The 'FINAL ORDER' section (pages 15-18) has very degraded OCR, making the table of amounts (page 15) unreadable for most complainants. The refund principal values for complainants other than Janak Dalal are thus null. The interest rate (10.5% p.a.) and cost (Rs. 20,000 per complainant) for the primary order are inferred from the summary provided in the later non-compliance application (page 12), which refers to the original MahaRERA orders. The deadlines for the primary order reliefs are not explicitly stated, so they are set to 'none'. The non-compliance application is for 16 clubbed complaints, with Janak Dalal's details being the primary focus of the recovery warrant."
+}

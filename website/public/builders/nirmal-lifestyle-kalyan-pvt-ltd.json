@@ -1,0 +1,954 @@
+{
+  "builder_id": "nirmal-lifestyle-kalyan-pvt-ltd",
+  "builder_name": "Nirmal Lifestyle Kalyan Pvt Ltd",
+  "name_variants": [
+    "M/S NIRMAL LIFESTYLE (KALYAN) PRIVATE LIMITED",
+    "M/S Nirmal Lifestyle Kalyan Pvt Ltd",
+    "M/s Nirmal Lifestyle (Kalyan) Private Limited",
+    "M/s. Nirmal Lifestyle (Kalyan) Private Limited",
+    "M/s. Nirmal Lifestyle (Kalyan) Pvt Ltd",
+    "M/s. Nirmal Lifestyle (Kalyan) Pvt Ltd.",
+    "M/s. Nirmal Lifestyle (Kalyan) Pvt. Ltd.",
+    "M/s. Nirmal Lifestyle Kalyan Pvt Ltd",
+    "NIRMAL LIFESTYLE (KALYAN)PVT. LTD",
+    "NIRMAL LIFESTYLE KALYAN PVT LTD",
+    "Nirmal Lifestyle (Kalyan) Private Limited",
+    "Nirmal Lifestyle (Kalyan) Pvt Ltd",
+    "Nirmal Lifestyle (Kalyan) Pvt. Ltd.",
+    "Nirmal Lifestyle Kalyan Pvt Ltd"
+  ],
+  "score": 7.9,
+  "raw_points": 760.0,
+  "project_count": 18,
+  "warrant_count": 43,
+  "warrant_points": 645.0,
+  "warrants_recent_count": 0,
+  "warrants_recent_points": 0,
+  "warrants_older_count": 43,
+  "warrants_older_points": 645.0,
+  "order_count": 21,
+  "relief_count": 34,
+  "order_points": 115.0,
+  "total_buyers": 28,
+  "buyers_won": 19,
+  "warranted_buyers": 0,
+  "buyers_won_no_warrant": 19,
+  "adverse_no_warrant_relief_count": 23,
+  "categories": [
+    {
+      "id": "late-possession",
+      "label": "Flat handed over late",
+      "buyers": 19,
+      "buyers_won": 16,
+      "warranted_buyers": 0,
+      "project_count": 12
+    },
+    {
+      "id": "other",
+      "label": "Other",
+      "buyers": 8,
+      "buyers_won": 2,
+      "warranted_buyers": 0,
+      "project_count": 5
+    },
+    {
+      "id": "refund",
+      "label": "Money not returned",
+      "buyers": 5,
+      "buyers_won": 4,
+      "warranted_buyers": 0,
+      "project_count": 4
+    }
+  ],
+  "projects": [
+    {
+      "project_no": "P51700002924",
+      "warrant_count": 3
+    },
+    {
+      "project_no": "P51700003274",
+      "warrant_count": 4
+    },
+    {
+      "project_no": "P51700003461",
+      "warrant_count": 1
+    },
+    {
+      "project_no": "P51700003537",
+      "warrant_count": 2
+    },
+    {
+      "project_no": "P51700003541",
+      "warrant_count": 1
+    },
+    {
+      "project_no": "P51700003542",
+      "warrant_count": 5
+    },
+    {
+      "project_no": "P51700003545",
+      "warrant_count": 2
+    },
+    {
+      "project_no": "P51700003554",
+      "warrant_count": 5
+    },
+    {
+      "project_no": "P51700003616",
+      "warrant_count": 2
+    },
+    {
+      "project_no": "P51700003628",
+      "warrant_count": 3
+    },
+    {
+      "project_no": "P51700005234",
+      "warrant_count": 3
+    },
+    {
+      "project_no": "P51700005451",
+      "warrant_count": 1
+    },
+    {
+      "project_no": "P51700005583",
+      "warrant_count": 1
+    },
+    {
+      "project_no": "P51700006342",
+      "warrant_count": 1
+    },
+    {
+      "project_no": "P51700006379",
+      "warrant_count": 1
+    },
+    {
+      "project_no": "P51700006383",
+      "warrant_count": 4
+    },
+    {
+      "project_no": "P51700006711",
+      "warrant_count": 3
+    },
+    {
+      "project_no": "P51700006766",
+      "warrant_count": 1
+    }
+  ],
+  "orders": [
+    {
+      "order_id": "018be9c54012b580b114065a3eeed3a9ec4a94eca3529cb04b6f6e9c74f0e774",
+      "order_date": "2022-10-11",
+      "project_name": "Nirmal Lifestyle Kalyan",
+      "project_reg_no": "P51700003554",
+      "order_total_points": 0.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000194941",
+          "complainant_names": [
+            "VISHAL SURESH WAYAL",
+            "SONI VISHAL WAYAL"
+          ],
+          "relief_type": "other",
+          "granted": false,
+          "amount": null,
+          "reasoning": "The complainant was absent for the hearing. The respondent informed the Authority that the matter has been settled through conciliation and the conciliation is on record. The complaint is thus disposed.",
+          "has_warrant": false,
+          "signal": null,
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        }
+      ]
+    },
+    {
+      "order_id": "01a75ef2c4def39d59c3c0742c0a02c8fc10c811db09097da49dc7b25e45cb11",
+      "order_date": "2018-02-01",
+      "project_name": "Platano C",
+      "project_reg_no": "P51700006766",
+      "order_total_points": 5.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000000829",
+          "complainant_names": [
+            "Mr. Suryaprakash Sharma"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": null,
+          "reasoning": "The complainant sought directions for the respondent to pay interest for delayed possession. Both parties settled the matter amicably and filed consent terms on record, which were taken on record. The complaint stands disposed of due to this settlement.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "07167298285a8f32b002b0db1b0f738ea387571f9454a7d88a816a3b2b3ad8e0",
+      "order_date": "2019-12-18",
+      "project_name": "Nirmal Lifestyle (Kalyan) - Multiple Projects",
+      "project_reg_no": null,
+      "order_total_points": 40.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000079223",
+          "complainant_names": [
+            "Mr. Rajesh Kharatmol"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "other",
+            "recipient": "buyer",
+            "interest_rate_description": "Rule-18 of Maharashtra Real Estate (Regulation and Development) Rules, 2017"
+          },
+          "reasoning": "Respondent committed to pay delayed possession interest from 1st May 2017 per consent terms and MahaRERA directions.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055524",
+          "complainant_names": [
+            "Mr. Gul Rochlani"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "other",
+            "recipient": "buyer",
+            "interest_rate_description": "Rule-18 of Maharashtra Real Estate (Regulation and Development) Rules, 2017"
+          },
+          "reasoning": "Respondent committed to pay delayed possession interest from 1st May 2017 per consent terms and MahaRERA directions.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000054574",
+          "complainant_names": [
+            "Mrs. Radharani Srivastav"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "other",
+            "recipient": "buyer",
+            "interest_rate_description": "Rule-18 of Maharashtra Real Estate (Regulation and Development) Rules, 2017"
+          },
+          "reasoning": "Respondent committed to pay delayed possession interest from 1st May 2017 per consent terms and MahaRERA directions.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000054644",
+          "complainant_names": [
+            "Mr. Kamlesh R. Yadav"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "other",
+            "recipient": "buyer",
+            "interest_rate_description": "Rule-18 of Maharashtra Real Estate (Regulation and Development) Rules, 2017"
+          },
+          "reasoning": "Respondent committed to pay delayed possession interest from 1st May 2017 per consent terms and MahaRERA directions.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000000412",
+          "complainant_names": [
+            "Mrs. Geeta Jadhav"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "other",
+            "recipient": "buyer",
+            "interest_rate_description": "Rule-18 of Maharashtra Real Estate (Regulation and Development) Rules, 2017"
+          },
+          "reasoning": "Respondent committed to pay delayed possession interest from 1st May 2017 per consent terms and MahaRERA directions.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000023331",
+          "complainant_names": [
+            "Mr. Kailas Sorte"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "other",
+            "recipient": "buyer",
+            "interest_rate_description": "Rule-18 of Maharashtra Real Estate (Regulation and Development) Rules, 2017"
+          },
+          "reasoning": "Respondent committed to pay delayed possession interest from 1st May 2017 per consent terms and MahaRERA directions.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000057748",
+          "complainant_names": [
+            "Mr. Vishnu Tailor"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "other",
+            "recipient": "buyer",
+            "interest_rate_description": "Rule-18 of Maharashtra Real Estate (Regulation and Development) Rules, 2017"
+          },
+          "reasoning": "Respondent committed to pay delayed possession interest from 1st May 2017 per consent terms and MahaRERA directions.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000056241",
+          "complainant_names": [
+            "Mrs. Madhuri Arvind Jalan"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "other",
+            "recipient": "buyer",
+            "interest_rate_description": "Rule-18 of Maharashtra Real Estate (Regulation and Development) Rules, 2017"
+          },
+          "reasoning": "Respondent committed to pay delayed possession interest from 1st May 2017 per consent terms and MahaRERA directions.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "0872e60e4268518041e71f7ef7a931a59b971ac096d0cdf7e7a13ed29e393f91",
+      "order_date": "2018-02-01",
+      "project_name": "Nirmal Lifestyle (Kalyan)",
+      "project_reg_no": "P51700006766",
+      "order_total_points": 5.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000000829",
+          "complainant_names": [
+            "Mr. Suryaprakash Sharma"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "compensation",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Original complaint disposed of by consent terms, where respondent agreed to pay interest for delayed possession from 1-05-2017 till actual date of possession.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "09133243631d14c042493b9784900a22332b8da06b2f91c72187e0c0ad55e3ce",
+      "order_date": "2021-02-26",
+      "project_name": "Lifestyle City Kalyan-Platano B",
+      "project_reg_no": "P51700003540",
+      "order_total_points": 10.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000192232",
+          "complainant_names": [
+            "Vaishali Himanshu Khot",
+            "Himanshu Khot"
+          ],
+          "relief_type": "refund_of_consideration",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "refund_principal",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "The respondent was directed to refund the amount paid by the complainant (excluding taxes).",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000192232",
+          "complainant_names": [
+            "Vaishali Himanshu Khot",
+            "Himanshu Khot"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "other",
+            "recipient": "buyer",
+            "interest_rate_description": "applicable interest"
+          },
+          "reasoning": "The respondent was directed to refund the amount paid by the complainant along with applicable interest.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "091940c60b2d6edc2da437e1e430e71697c90e542df24f1cbc96774726c8a37d",
+      "order_date": "2020-03-05",
+      "project_name": "Lifestyle City Kalyan-Glory B",
+      "project_reg_no": "P51700003537",
+      "order_total_points": 10.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000100203",
+          "complainant_names": [
+            "Sunil Vishwas Bhalekar"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": 2647066.0,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "10.15% per annum (simple interest at 2% above SBI's highest MCLR of 8.15%)"
+          },
+          "reasoning": "The respondents failed to hand over possession by the agreed date (June 2016 plus 6 months grace period, i.e., 31.12.2016). Section 18 of RERA entitles the allottee to continue in the project and claim interest from the date of default till possession.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000100203",
+          "complainant_names": [
+            "Sunil Vishwas Bhalekar"
+          ],
+          "relief_type": "cost",
+          "granted": true,
+          "amount": {
+            "value": 20000.0,
+            "type": "cost",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Complainants are entitled to the cost of the complaint.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "0b13a1164d63ad39d5f313d199a56d9c6593d185f29aea9ecf3de8b8d189922e",
+      "order_date": "2018-01-09",
+      "project_name": null,
+      "project_reg_no": "P51700003543",
+      "order_total_points": 5.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000000097",
+          "complainant_names": [
+            "Parthabi Mohapatra"
+          ],
+          "relief_type": "refund_of_consideration",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "refund_principal",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "The parties have settled the matter amicably and filed consent terms on record.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "12ddc83a04bcef11f02c8f7cd8fc349e6825472feaff70983ca6ca047f616b95",
+      "order_date": "2020-08-07",
+      "project_name": "Lifestyle City Kalyan - Thames (Thames A)",
+      "project_reg_no": "P51700003616",
+      "order_total_points": 10.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000056948",
+          "complainant_names": [
+            "Mr. Piyush Ashok kumar Raval"
+          ],
+          "relief_type": "refund_of_consideration",
+          "granted": true,
+          "amount": {
+            "value": 902784,
+            "type": "refund_principal",
+            "recipient": "buyer",
+            "interest_rate_description": "9% p.a. from 15.10.2016 till their refund"
+          },
+          "reasoning": "Complainant booked flat no. 1602 in 2013, paid Rs. 9,02,784/- and cancelled on 15.10.2016 due to lack of progress. Respondents failed to refund and issued bounced cheques, continuing the transaction and making the claim within limitation under Section 7 of RERA.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000056948",
+          "complainant_names": [
+            "Mr. Piyush Ashok kumar Raval"
+          ],
+          "relief_type": "cost",
+          "granted": true,
+          "amount": {
+            "value": 20000,
+            "type": "cost",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Awarded towards the cost of the complaint.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "13175f0c53f6f911196ce968689d977395371b8295e6218b3f313232ee33006b",
+      "order_date": "2018-02-02",
+      "project_name": "Thames",
+      "project_reg_no": "P51700003616",
+      "order_total_points": 0.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000012313",
+          "complainant_names": [
+            "Mr. Fazal M. Y. Shaikh"
+          ],
+          "relief_type": "refund_of_consideration",
+          "granted": false,
+          "amount": null,
+          "reasoning": "No agreement for sale was executed between the complainant and the respondent, hence there is no violation of Section 18 of the Real Estate (Regulation and Development) Act, 2016. However, the respondent submitted a written undertaking to refund the entire booking amount within six months from the date of the order.",
+          "has_warrant": false,
+          "signal": null,
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000012313",
+          "complainant_names": [
+            "Mr. Fazal M. Y. Shaikh"
+          ],
+          "relief_type": "delay_interest",
+          "granted": false,
+          "amount": null,
+          "reasoning": "As no agreement has been executed, the complainant is not entitled to claim any interest.",
+          "has_warrant": false,
+          "signal": null,
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        }
+      ]
+    },
+    {
+      "order_id": "16f72a58ba2d41b326b923a791c46da49b0787c2c11eebfe348b4adda6ba669f",
+      "order_date": "2018-01-09",
+      "project_name": null,
+      "project_reg_no": "P51700003543",
+      "order_total_points": 5.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000001472",
+          "complainant_names": [
+            "Mr. Prakash Malkhede"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": null,
+          "reasoning": "The parties settled the matter amicably and filed consent terms on record.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "1b7193af6ac31569b34dd56a69dc9705a9e00c199ede52682ec39f07ccea744c",
+      "order_date": "2019-07-22",
+      "project_name": "Platano D",
+      "project_reg_no": "P51700005451",
+      "order_total_points": 5.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000078906",
+          "complainant_names": [
+            "Jessy Joy"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "Marginal Cost Lending Rate (MCLR) plus 2%"
+          },
+          "reasoning": "There is admitted delay on the part of the respondent in handing over possession of the flat beyond the agreed date of 31-12-2016 with 6 months grace period (30-06-2017).",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "1b98d2be7fda9ac7b7bf3c324b05d87752c64fb6550cab1a50f71bd19a7af306",
+      "order_date": "2021-02-08",
+      "project_name": null,
+      "project_reg_no": "P51700006766",
+      "order_total_points": 0.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000192378",
+          "complainant_names": [
+            "Vijay Shankar Sawant"
+          ],
+          "relief_type": "other",
+          "granted": false,
+          "amount": null,
+          "reasoning": "The complainant remained absent despite notice for hearings on 20.01.2021 and today, hence the complaint is dismissed for default.",
+          "has_warrant": false,
+          "signal": null,
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        }
+      ]
+    },
+    {
+      "order_id": "1d0cc2da39500a957775eac29948ce52c54e6f53aceb620563f28226504b9b93",
+      "order_date": "2018-03-01",
+      "project_name": null,
+      "project_reg_no": "P51700005583",
+      "order_total_points": 5.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC00600000056346",
+          "complainant_names": [
+            "Jagdish Mishra"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Original complaint was disposed of by way of filing consent terms where respondent agreed to pay interest for delayed possession under section 18.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "1ee4837a5be345f43adb1a613fc8da31d1f857caf632da57f1243f5a8996841e",
+      "order_date": "2018-05-07",
+      "project_name": "Platano-F",
+      "project_reg_no": "P51700003538",
+      "order_total_points": 5.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000023509",
+          "complainant_names": [
+            "Mr. Dinanath Sawant"
+          ],
+          "relief_type": "refund_of_consideration",
+          "granted": true,
+          "amount": {
+            "value": 1430057,
+            "type": "refund_principal",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Both parties arrived at an amicable settlement and filed notarized consent terms.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "200e86c98088bd4ebc99057031d9c156aa3622ee15a97e3ae892dd98d663e982",
+      "order_date": "2019-08-06",
+      "project_name": "Spirit A",
+      "project_reg_no": "P51700005234",
+      "order_total_points": 5.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000057879",
+          "complainant_names": [
+            "Rakesh Kumar",
+            "Mamta Sharma"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "As provided under section-18 of the RERA Act, 2016"
+          },
+          "reasoning": "Respondent is ready and willing to pay interest for delayed possession in instalments as agreed by both parties.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "424db256077e1b129658d74b5cf63d3abfcf1ebce6f398ac3bd11baf8c1982d9",
+      "order_date": "2023-01-23",
+      "project_name": "Nirmal Lifestyle Kalyan",
+      "project_reg_no": "P51700003540",
+      "order_total_points": 0.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000012518",
+          "complainant_names": [
+            "KUNAL KARVIR"
+          ],
+          "relief_type": "other",
+          "granted": false,
+          "amount": null,
+          "reasoning": "Complaint dismissed due to complainant's absence in two consequent hearings, indicating lack of prosecution.",
+          "has_warrant": false,
+          "signal": null,
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        }
+      ]
+    },
+    {
+      "order_id": "454eb534f1ed9b04eecef363aeb04994adc46445294681ae39139eaa10263ccb",
+      "order_date": "2020-10-16",
+      "project_name": "Nirmal Lifestyle Kalyan",
+      "project_reg_no": "P51700003544",
+      "order_total_points": 0.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000001419",
+          "complainant_names": [
+            "Mr. Ajay Sankhyan"
+          ],
+          "relief_type": "delay_interest",
+          "granted": false,
+          "amount": {
+            "value": null,
+            "type": "compensation",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "The complainant sought enforcement of consent terms for monthly interest due to non-adherence by the respondent. MahaRERA observed that OC was obtained in August 2019, and possession offered. While the complainant is entitled to seek interest till OC date, the non-execution application was disposed of, meaning continued enforcement of monthly interest beyond OC date was not granted through this application. Grievances regarding amenities were directed to be filed as a fresh complaint.",
+          "has_warrant": false,
+          "signal": null,
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        }
+      ]
+    },
+    {
+      "order_id": "6137301cad5ef5e751aaa8253947716fbffab3ed1581044a1f0cd395c1bbbcb1",
+      "order_date": "2018-03-01",
+      "project_name": "Cypress",
+      "project_reg_no": "P51700006383",
+      "order_total_points": 0.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000012379",
+          "complainant_names": [
+            "Mr.Amol Goje"
+          ],
+          "relief_type": "delay_interest",
+          "granted": false,
+          "amount": null,
+          "reasoning": "The parties amicably settled the matter and filed consent terms on record, leading to the disposal of the complaint without a specific direction from the Authority.",
+          "has_warrant": false,
+          "signal": null,
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        }
+      ]
+    },
+    {
+      "order_id": "66cf8ddb592286d86e9bcd7318687c50120cf4702c5f4b7c977ae4f23e01c6e4",
+      "order_date": "2018-03-01",
+      "project_name": null,
+      "project_reg_no": "P51700006711",
+      "order_total_points": 0.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000012443",
+          "complainant_names": [
+            "Bhalchandra Ganesh Chindarkar"
+          ],
+          "relief_type": "delay_interest",
+          "granted": false,
+          "amount": null,
+          "reasoning": "The complainant sought interest for delayed possession of flat No. 103 in 'Cypress' building. However, both parties settled the matter amicably and filed consent terms, leading to the disposal of the complaint without an order for delay interest from the Authority.",
+          "has_warrant": false,
+          "signal": null,
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        }
+      ]
+    },
+    {
+      "order_id": "a35494eb371656d5a5bd31b35f8d80c9a655d46c941d73265d86a72c3fd0fbb0",
+      "order_date": "2018-04-17",
+      "project_name": "Victory-B",
+      "project_reg_no": "P51700003544",
+      "order_total_points": 5.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000001419",
+          "complainant_names": [
+            "Mr. Ajay Sankhyan"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "compensation",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Parties reached an amicable settlement where the respondent agreed to pay interest for delayed possession. The interest commences from 1st May 2017, to be paid on a monthly basis on the 10th day, until the actual date of possession or 31st July 2018, whichever is earlier. It was further clarified that if possession is beyond 31st July 2018, interest payment continues till the actual date of possession.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "b60fa712d75d447205277bae696d45cb3cbf5bea0d895a74864b60407fc793f7",
+      "order_date": "2025-01-29",
+      "project_name": "NIRMAL LIFESTYLE (KALYAN)",
+      "project_reg_no": "P51700006766",
+      "order_total_points": 0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000194205 (SR.NO.20)",
+          "complainant_names": [
+            "SEEMA DAVE"
+          ],
+          "relief_type": "other",
+          "granted": false,
+          "amount": null,
+          "reasoning": "NCLT proceedings are pending, rendering the complaints unadjudicable. The complaint is disposed of as not maintainable without addressing the merits. Liberty is granted to restore with original seniority by filing a restoration application.",
+          "has_warrant": false,
+          "signal": null,
+          "base_points": 0,
+          "age_halved": false,
+          "final_points": 0
+        },
+        {
+          "complaint_no": "CC006000000194222 (SR.NO.21)",
+          "complainant_names": [
+            "P K DAVE",
+            "MANJU DAVE"
+          ],
+          "relief_type": "other",
+          "granted": false,
+          "amount": null,
+          "reasoning": "NCLT proceedings are pending, rendering the complaints unadjudicable. The complaint is disposed of as not maintainable without addressing the merits. Liberty is granted to restore with original seniority by filing a restoration application.",
+          "has_warrant": false,
+          "signal": null,
+          "base_points": 0,
+          "age_halved": false,
+          "final_points": 0
+        },
+        {
+          "complaint_no": "CC006000000195195 (SR.NO.22)",
+          "complainant_names": [
+            "HT MEDIA LIMITED"
+          ],
+          "relief_type": "other",
+          "granted": false,
+          "amount": null,
+          "reasoning": "NCLT proceedings are pending, rendering the complaints unadjudicable. The complaint is disposed of as not maintainable without addressing the merits. Liberty is granted to restore with original seniority by filing a restoration application.",
+          "has_warrant": false,
+          "signal": null,
+          "base_points": 0,
+          "age_halved": false,
+          "final_points": 0
+        }
+      ]
+    }
+  ],
+  "last_built": "2026-09-22"
+}

@@ -1,0 +1,55 @@
+{
+  "order_id": "14ebb78b5db247b87c5fc73d58bc306803850934144a28120f958ab521c71c30",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 2,
+  "coram": {
+    "name": "B.D. Kapadnis",
+    "designation": "Member & Adjudicating Officer"
+  },
+  "respondents": [
+    {
+      "name": "Monarch & Qureshi Builders",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Gaurav Legend",
+    "project_reg_no": "P51800010967",
+    "location": null,
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2019-02-12",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000056807",
+        "complainant_names": [
+          "Amartya Ray",
+          "Rupanjana Ray"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Parties amicably settled the matter out of court and filed consent terms marked Exh. A, and the complainants withdrew the complaint.",
+            "source_page": 1
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "The matter was settled out of court via consent terms (Exh. A) and withdrawn by the complainants."
+}

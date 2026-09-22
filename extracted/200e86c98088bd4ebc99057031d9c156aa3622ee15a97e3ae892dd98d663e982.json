@@ -1,0 +1,72 @@
+{
+  "order_id": "200e86c98088bd4ebc99057031d9c156aa3622ee15a97e3ae892dd98d663e982",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 2,
+  "coram": {
+    "name": "Dr. Vijay Satbir Singh",
+    "designation": "Member - 1"
+  },
+  "respondents": [
+    {
+      "name": "M/s. Nirmal Lifestyle (Kalyan) Pvt Ltd.",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Spirit A",
+    "project_reg_no": "P51700005234",
+    "location": "Kalyan, Dist Thane",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2019-08-06",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000057879",
+        "complainant_names": [
+          "Rakesh Kumar",
+          "Mamta Sharma"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "penalty",
+              "recipient": "buyer",
+              "interest_rate_description": "As provided under section-18 of the RERA Act, 2016"
+            },
+            "deadline": {
+              "type": "earlier_of",
+              "date": null,
+              "days": null,
+              "event": "actual date of possession",
+              "from_date": "2017-05-01",
+              "options": null,
+              "installments": {
+                "count": 0,
+                "frequency": "one_time",
+                "note": "Paid in instalments as agreed by both the parties"
+              }
+            },
+            "validity_window": null,
+            "reasoning": "Respondent is ready and willing to pay interest for delayed possession in instalments as agreed by both parties.",
+            "source_page": 2
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 2
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "The complaint is disposed of based on settlement between parties where the respondent agreed to pay delay interest from 01-05-2017 till actual possession in instalments."
+}

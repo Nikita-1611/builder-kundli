@@ -1,0 +1,54 @@
+{
+  "order_id": "393148036d2502f20fde88af7d37da2fd0a0a23877b87b2193cc68266ec8a6d5",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Gautam Chatterjee",
+    "designation": "Chairperson, MahaRERA"
+  },
+  "respondents": [
+    {
+      "name": "Nirmal Developer",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": null,
+    "project_reg_no": "P51800011870",
+    "location": null,
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2018-05-15",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000001965",
+        "complainant_names": [
+          "Avinash Thakare"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainant failed to submit his declaration regarding serving of the copies of the complaint and documents to the Respondent and the Authority within 45 days of filing of the Complaint, despite reminders. Consequently, the complaint is dismissed for want of prosecution.",
+            "source_page": 1
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "Project name and location were not explicitly mentioned in the document. The complaint was dismissed for want of prosecution, therefore no specific relief (e.g., refund, delay interest) was discussed or granted on merits."
+}

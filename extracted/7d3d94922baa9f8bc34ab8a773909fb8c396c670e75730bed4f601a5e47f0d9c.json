@@ -1,0 +1,76 @@
+{
+  "order_id": "7d3d94922baa9f8bc34ab8a773909fb8c396c670e75730bed4f601a5e47f0d9c",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Dr. Vijay Satbir Singh",
+    "designation": "Member 1"
+  },
+  "respondents": [
+    {
+      "name": "M/s. Nirmal Developers",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Olympia A & B",
+    "project_reg_no": "P51800011870",
+    "location": "Mulund (West)",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "Respondent has not started construction on site."
+    }
+  },
+  "primary_order": {
+    "order_date": "2018-11-12",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000055712",
+        "complainant_names": [
+          "Mr. Avinash Thakare"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "days_from_order",
+              "date": null,
+              "days": 90,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent submitted an undertaking to refund the remaining amount, and MahaRERA noted that nothing further survives in the complaint given this willingness.",
+            "source_page": 3
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "There is no registered agreement for sale between parties that prescribes a date of possession, thus no violation of Section 18 of the RERA Act, and the complainant is not entitled to relief under Section 18.",
+            "source_page": 3
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "The exact numeric value for the 'remaining amount' to be refunded is not explicitly stated in the directive, so `amount.value` for refund of consideration is set to null. The order mentions previous payments/outstanding amounts that are inconsistent (Rs. 15 Lakhs paid, Rs. 12 Lakhs received back, but also Rs. 13.74 Lakhs outstanding)."
+}

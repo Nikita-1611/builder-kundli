@@ -1,0 +1,88 @@
+{
+  "order_id": "00e96c4c5a6baedaea9e3cf6a490f169500c45252482217acc18f4684dba0e9e",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 3,
+  "coram": {
+    "name": "Shri B.D. Kapadnis",
+    "designation": "Hon'ble Member & Adjudicating Officer"
+  },
+  "respondents": [
+    {
+      "name": "Vidhi Realtors",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Gaurav Discovery",
+    "project_reg_no": "P51800007949",
+    "location": "Plot Bearing No / CTS no / Survey Number/Final Plot no. 2841 pt at Borivali - 400097",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2018-02-12",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000000522",
+        "complainant_names": [
+          "Anshumaan Sainya Bhosle"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 2159293.0,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "fixed_date",
+              "date": "2018-06-29",
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": {
+                "count": 5,
+                "frequency": "one_time",
+                "note": "Payments were agreed to be made in 5 installments on specific dates: 28th Feb 2018, 31st March 2018, 30th April 2018, 31st May 2018, and 29th June 2018."
+              }
+            },
+            "validity_window": null,
+            "reasoning": "Parties settled amicably through consent terms for refund of consideration including interest/compensation and other charges, in 5 installments by a fixed date, leading to withdrawal of the complaint.",
+            "source_page": 14
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 12
+  },
+  "supplementary_proceedings": [
+    {
+      "proceeding_type": "execution_application",
+      "date": "2020-01-06",
+      "complaint_no": "CC006000000000522",
+      "outcome": "allowed",
+      "reasoning": "The complainant filed an execution petition as the respondents failed to comply with the primary order. Respondents sought adjournments but the complainant's claim was not satisfied, leading to the issuance of a warrant.",
+      "source_page": 18
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2022-07-19",
+      "complaint_no": "CC006000000000522",
+      "outcome": "allowed",
+      "reasoning": "The respondent failed to comply with the orders and refund the complainants' amounts as per the consent terms. The respondent also failed to appear for hearings. The application for non-compliance was disposed of by directing the issuance of individual recovery warrants.",
+      "source_page": 8
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "The document contains a primary order (12th Feb 2018) based on consent terms, followed by two separate supplementary proceedings (6th Jan 2020 and 19th July 2022) for non-compliance and recovery. The primary order's settlement amount of Rs. 21,59,293/- is taken as the stated 'SETTLEMENT AMOUNT' in the consent terms, which includes principal, interest, and other charges. The amount of Rs. 18,39,833.50 mentioned in later recovery warrant documents is a re-calculated figure with interest up to 19/07/2022 and is not used for the primary order's specified amount. The primary order refers to Complaint No. CC006000000000522, but the document as a whole (specifically page 8) addresses multiple clubbed complaints."
+}

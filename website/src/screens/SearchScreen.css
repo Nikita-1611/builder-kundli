@@ -1,0 +1,101 @@
+.search-screen {
+  margin-top: var(--space-xl);
+}
+
+.search-screen__title {
+  font-size: var(--font-size-xl);
+  font-weight: var(--font-weight-bold);
+  margin: 0 0 var(--space-sm);
+}
+
+.search-screen__subtitle {
+  margin: 0 0 var(--space-lg);
+}
+
+.search-screen__form {
+  display: flex;
+  gap: var(--space-sm);
+}
+
+.search-screen__input {
+  flex: 1;
+  min-width: 0;
+  padding: var(--space-md);
+  border: var(--border-width) solid var(--color-border);
+  border-radius: var(--radius-md);
+  background: var(--color-surface);
+}
+
+.search-screen__submit {
+  padding: 0 var(--space-lg);
+  border: none;
+  border-radius: var(--radius-md);
+  background: var(--color-accent);
+  color: var(--color-accent-contrast);
+  font-weight: var(--font-weight-medium);
+  cursor: pointer;
+}
+
+.search-screen__suggestions {
+  list-style: none;
+  margin: var(--space-sm) 0 0;
+  padding: 0;
+  border: var(--border-width) solid var(--color-border);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  background: var(--color-surface);
+}
+
+.search-screen__suggestion {
+  display: block;
+  width: 100%;
+  text-align: left;
+  padding: var(--space-md);
+  border: none;
+  border-bottom: var(--border-width) solid var(--color-border);
+  background: none;
+  cursor: pointer;
+}
+
+.search-screen__suggestion:last-child {
+  border-bottom: none;
+}
+
+.search-screen__suggestion:hover,
+.search-screen__suggestion:focus-visible {
+  background: var(--color-neutral-bg);
+}
+
+.search-screen__chips-block {
+  margin-top: var(--space-lg);
+}
+
+.search-screen__chips-label {
+  margin: 0 0 var(--space-sm);
+  font-size: var(--font-size-sm);
+}
+
+.search-screen__chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-sm);
+}
+
+.chip {
+  padding: var(--space-sm) var(--space-md);
+  border: var(--border-width) solid var(--color-border);
+  border-radius: var(--radius-pill);
+  background: var(--color-surface);
+  font-size: var(--font-size-sm);
+  cursor: pointer;
+}
+
+.chip:hover,
+.chip:focus-visible {
+  background: var(--color-neutral-bg);
+}
+
+.search-screen__scope-note {
+  margin-top: var(--space-xl);
+  font-size: var(--font-size-sm);
+}

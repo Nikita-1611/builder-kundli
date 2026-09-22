@@ -1,0 +1,63 @@
+{
+  "order_id": "0b82c71752f3accbb6faa2b07c00379093c980b7fc9eaa0d19a59adabcdc0a19",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Dr. Vijay Satbir Singh",
+    "designation": "Member - 1"
+  },
+  "respondents": [
+    {
+      "name": "M/s Nirmal Lifestyle Ltd",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Ace and Matchpoint",
+    "project_reg_no": "P51800007641",
+    "location": "Mulund (W), Mumbai",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2019-08-06",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000058064",
+        "complainant_names": [
+          "Mr. Narendra Parmanand Lilaney"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "possession_and_completion",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The project is being transferred to another developer (M/s. Shapoorji Pallonji), so the claim cannot be decided at this stage. Appropriate decision will be taken on merits after completion of transfer proceedings.",
+            "source_page": 2
+          },
+          {
+            "relief_type": "delay_interest",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Since the project is being transferred to another developer, the claim for interest cannot be decided at this stage and will be considered after transfer proceedings.",
+            "source_page": 2
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 2
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "The complaint stands disposed of as the project is undergoing transfer to another developer (M/s. Shapoorji Pallonji), and MahaRERA noted that claims cannot be decided at this stage."
+}

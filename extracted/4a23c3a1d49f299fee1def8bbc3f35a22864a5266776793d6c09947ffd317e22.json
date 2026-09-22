@@ -1,0 +1,414 @@
+{
+  "order_id": "4a23c3a1d49f299fee1def8bbc3f35a22864a5266776793d6c09947ffd317e22",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 16,
+  "coram": {
+    "name": "B.D. Kapadnis",
+    "designation": "Member II"
+  },
+  "respondents": [
+    {
+      "name": "JVPD Properties Private Limited",
+      "role": "promoter"
+    },
+    {
+      "name": "DIIPESH LAKSHMAN BHAGTANI",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Bhagtani Serenity",
+    "project_reg_no": "P51800011181",
+    "location": "Village Tirandaz, Taluka Kurla, Mumbai",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "Project completion stalled due to lack of clearances and abandonment by respondent."
+    }
+  },
+  "primary_order": {
+    "order_date": "2020-02-18",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000192524",
+        "complainant_names": [
+          "Ashish Kejriwal"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 1586400,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum from the date/s of their payment till they are refunded"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "date they are refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed due to abandonment and inability to obtain clearances; complainants are allottees and entitled to refund with interest.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "date they are refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed due to abandonment and inability to obtain clearances; complainants are allottees and entitled to refund with interest.",
+            "source_page": 18
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192547",
+        "complainant_names": [
+          "Darshana Tolani"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 2761782,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum from the date/s of their payment till they are refunded"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "date they are refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed due to abandonment and inability to obtain clearances; complainants are allottees and entitled to refund with interest.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "date they are refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed due to abandonment and inability to obtain clearances; complainants are allottees and entitled to refund with interest.",
+            "source_page": 18
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192571",
+        "complainant_names": [
+          "Gaurang Naik"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 1409962,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum from the date/s of their payment till they are refunded"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "date they are refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed due to abandonment and inability to obtain clearances; complainants are allottees and entitled to refund with interest.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "date they are refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed due to abandonment and inability to obtain clearances; complainants are allottees and entitled to refund with interest.",
+            "source_page": 18
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192572",
+        "complainant_names": [
+          "Janak Dalal"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 1409962,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum from the date/s of their payment till they are refunded"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "date they are refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed due to abandonment and inability to obtain clearances; complainants are allottees and entitled to refund with interest.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "date they are refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed due to abandonment and inability to obtain clearances; complainants are allottees and entitled to refund with interest.",
+            "source_page": 18
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192574",
+        "complainant_names": [
+          "Lovneesh Bansal"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 1564597,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum from the date/s of their payment till they are refunded"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "date they are refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed due to abandonment and inability to obtain clearances; complainants are allottees and entitled to refund with interest.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "date they are refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed due to abandonment and inability to obtain clearances; complainants are allottees and entitled to refund with interest.",
+            "source_page": 18
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192577",
+        "complainant_names": [
+          "Sameer Pandya"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 1586400,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum from the date/s of their payment till they are refunded"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "date they are refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed due to abandonment and inability to obtain clearances; complainants are allottees and entitled to refund with interest.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "date they are refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed due to abandonment and inability to obtain clearances; complainants are allottees and entitled to refund with interest.",
+            "source_page": 18
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192579",
+        "complainant_names": [
+          "Samir Trivedi"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 1409962,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% per annum from the date/s of their payment till they are refunded"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "date they are refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed due to abandonment and inability to obtain clearances; complainants are allottees and entitled to refund with interest.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "date they are refunded",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondents failed to complete the project as agreed due to abandonment and inability to obtain clearances; complainants are allottees and entitled to refund with interest.",
+            "source_page": 18
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 15
+  },
+  "supplementary_proceedings": [
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2023-07-04",
+      "complaint_no": "CC006000000192579",
+      "outcome": "allowed",
+      "reasoning": "The respondent failed to comply with the prior order. The Authority directed to issue individual recovery warrants under Section 40(1) of RERA against the respondent's booked flats in the project for the 16 non-compliance applications. The respondent did not appear for the hearing.",
+      "source_page": 12
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "The primary order, dated 18th Feb 2020, covered 7 clubbed complaints. A later non-compliance application (dated 4th July 2023) was filed covering 16 complaints (including the 7 from the primary order) and directed the issuance of recovery warrants. The coram for the primary order (B.D. Kapadnis) and the supplementary proceeding (Dr. Vasant Prabhu) differ. The total complainant count reflects the 16 complaints in the non-compliance application. The property address for the project mentions 'Powai, Mumbai Suburban - 400076' on page 3 and 7, while the primary order mentions 'Village Tirandaz, Taluka Kurla, Mumbai' on page 15 and 18. Both are included for location context."
+}

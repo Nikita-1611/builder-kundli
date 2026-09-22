@@ -1,0 +1,365 @@
+{
+  "builder_id": "vidhi-realtors",
+  "builder_name": "Vidhi Realtors",
+  "name_variants": [
+    "M/s Vidhi Realtors",
+    "VIDHI REALTORS",
+    "Vidhi Realtors",
+    "Vidhi Realtors.",
+    "Vidhi Relators"
+  ],
+  "score": 5.6,
+  "raw_points": 495.0,
+  "project_count": 1,
+  "warrant_count": 27,
+  "warrant_points": 450.0,
+  "warrants_recent_count": 3,
+  "warrants_recent_points": 90.0,
+  "warrants_older_count": 24,
+  "warrants_older_points": 360.0,
+  "order_count": 8,
+  "relief_count": 12,
+  "order_points": 45.0,
+  "total_buyers": 9,
+  "buyers_won": 8,
+  "warranted_buyers": 2,
+  "buyers_won_no_warrant": 6,
+  "adverse_no_warrant_relief_count": 9,
+  "categories": [
+    {
+      "id": "other",
+      "label": "Other",
+      "buyers": 5,
+      "buyers_won": 5,
+      "warranted_buyers": 0,
+      "project_count": 1
+    },
+    {
+      "id": "late-possession",
+      "label": "Flat handed over late",
+      "buyers": 4,
+      "buyers_won": 4,
+      "warranted_buyers": 0,
+      "project_count": 1
+    },
+    {
+      "id": "refund",
+      "label": "Money not returned",
+      "buyers": 3,
+      "buyers_won": 2,
+      "warranted_buyers": 2,
+      "project_count": 1
+    }
+  ],
+  "projects": [
+    {
+      "project_no": "P51800007949",
+      "warrant_count": 27
+    }
+  ],
+  "orders": [
+    {
+      "order_id": "0051555ab80becbc083b88b79040f7b894a4110d83cbd412f3b89c006a267078",
+      "order_date": "2019-01-17",
+      "project_name": "Gaurav Discovery",
+      "project_reg_no": "P51800007949",
+      "order_total_points": 10.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000056781",
+          "complainant_names": [
+            "MRS ANUJA GUPTA",
+            "MRS SEJAL A. PODAR"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "compensation",
+            "recipient": "buyer",
+            "interest_rate_description": "9% p.a."
+          },
+          "reasoning": "Complaint settled amicably via consent terms; however, non-compliance with these terms, which included delayed possession interest, led to subsequent enforcement actions.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000056781",
+          "complainant_names": [
+            "MRS ANUJA GUPTA",
+            "MRS SEJAL A. PODAR"
+          ],
+          "relief_type": "other",
+          "granted": true,
+          "amount": {
+            "value": 20000,
+            "type": "cost",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Awarded as part of consent terms recorded in the original order, confirmed in non-compliance proceeding.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "00e96c4c5a6baedaea9e3cf6a490f169500c45252482217acc18f4684dba0e9e",
+      "order_date": "2018-02-12",
+      "project_name": "Gaurav Discovery",
+      "project_reg_no": "P51800007949",
+      "order_total_points": 0.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000000522",
+          "complainant_names": [
+            "Anshumaan Sainya Bhosle"
+          ],
+          "relief_type": "refund_of_consideration",
+          "granted": true,
+          "amount": {
+            "value": 2159293.0,
+            "type": "compensation",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Parties settled amicably through consent terms for refund of consideration including interest/compensation and other charges, in 5 installments by a fixed date, leading to withdrawal of the complaint.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        }
+      ]
+    },
+    {
+      "order_id": "02e2c59011842dfe373b4a650e4ac33eae6791d31d2f20b4d21002e23989b76e",
+      "order_date": "2021-01-29",
+      "project_name": "Gaurav Discovery",
+      "project_reg_no": "P51800007949",
+      "order_total_points": 0.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000161278",
+          "complainant_names": [
+            "Kamala Rakesh Agarwal"
+          ],
+          "relief_type": "refund_of_consideration",
+          "granted": false,
+          "amount": null,
+          "reasoning": "The complaint for refund under Section 18 of RERA is not maintainable as it is premature. The agreed date of possession, December 2020, was extended for six months due to the Covid-19 pandemic (MahaRERA Order No. 14/2020 dated 18.05.2020). The complainant has liberty to file the complaint after the lapse of the extended date.",
+          "has_warrant": false,
+          "signal": null,
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        }
+      ]
+    },
+    {
+      "order_id": "06e4deb65421f8e9fb953d6f55419f13a7e7cbd96079a722cb62903f88488e62",
+      "order_date": "2019-02-05",
+      "project_name": "Gaurav Discovery",
+      "project_reg_no": "P51800007949",
+      "order_total_points": 0.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000057025",
+          "complainant_names": [
+            "ARUNA SUBRATO BANERJEE"
+          ],
+          "relief_type": "refund_of_consideration",
+          "granted": true,
+          "amount": {
+            "value": 656471,
+            "type": "refund_principal",
+            "recipient": "buyer",
+            "interest_rate_description": "9% pa. along with further applicable interest till full refund of the amount to the complainant"
+          },
+          "reasoning": "The parties settled their dispute amicably as per consent terms, which included a refund of the amount. The primary order disposed of the complaint as settled, granting the refund as per the terms.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        }
+      ]
+    },
+    {
+      "order_id": "1597edf35db45ab113496a709d1336699b6196c3d21b5902ce8d0b7a243a99fe",
+      "order_date": "2019-01-17",
+      "project_name": "Gaurav Discovery",
+      "project_reg_no": "P51800007949",
+      "order_total_points": 5.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000056795",
+          "complainant_names": [
+            "Mrs. Vibhuti Sanjaykumar Gupta",
+            "Mr. Sanjaykumar Pawan Gupta"
+          ],
+          "relief_type": "other",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Both parties settled their dispute amicably and filed consent terms marked Exh. 'A', leading to the withdrawal and disposal of the complaint.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "1cbeeb9c4e5686384595a6d7ca75f6d8b8f30a3040d3fe314ef136176dc4b89c",
+      "order_date": "2020-01-23",
+      "project_name": "Gaurav Discovery",
+      "project_reg_no": "P51800007949",
+      "order_total_points": 20.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000100576",
+          "complainant_names": [
+            "Bhavna Avinash Bodhare"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "2% above the SBI's highest MCLR which is currently 8.2%"
+          },
+          "reasoning": "The respondents agreed to hand over possession by the agreed date but failed to do so, making the complainant entitled to interest on investments for delayed possession.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000100576",
+          "complainant_names": [
+            "Bhavna Avinash Bodhare"
+          ],
+          "relief_type": "cost",
+          "granted": true,
+          "amount": {
+            "value": 20000.0,
+            "type": "cost",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Complainants are entitled to get Rs. 20,000/- towards the cost of the complaint.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000100526",
+          "complainant_names": [
+            "Santosh Kisan Churmure",
+            "Tanvi Santosh Churmure"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "penalty",
+            "recipient": "buyer",
+            "interest_rate_description": "2% above the SBI's highest MCLR which is currently 8.2%"
+          },
+          "reasoning": "The respondents agreed to hand over possession by the agreed date but failed to do so, making the complainants entitled to interest on investments for delayed possession.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000100526",
+          "complainant_names": [
+            "Santosh Kisan Churmure",
+            "Tanvi Santosh Churmure"
+          ],
+          "relief_type": "cost",
+          "granted": true,
+          "amount": {
+            "value": 20000.0,
+            "type": "cost",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Complainants are entitled to get Rs. 20,000/- towards the cost of the complaint.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "1f96ab63e913a192224b41391a8063af870a61d5da25657275a55ff1e868356d",
+      "order_date": "2019-12-27",
+      "project_name": null,
+      "project_reg_no": "P51800007949",
+      "order_total_points": 5.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000100488",
+          "complainant_names": [
+            "Meghana L Tolani"
+          ],
+          "relief_type": "delay_interest",
+          "granted": true,
+          "amount": {
+            "value": 4574191.0,
+            "type": "other",
+            "recipient": "buyer",
+            "interest_rate_description": "as prescribed under the provisions of Section 18 of the RERA"
+          },
+          "reasoning": "Respondent directed to pay interest for delayed possession under Section 18 of RERA.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "228e6b807c3f581fa056dbf7c903742ecc0b06eebb0a61777e2f93bd39f88e60",
+      "order_date": "2018-09-17",
+      "project_name": "Gaurav Discovery",
+      "project_reg_no": "P51800007949",
+      "order_total_points": 5.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC0060000000055354",
+          "complainant_names": [
+            "Ashok Gokal Gurnani"
+          ],
+          "relief_type": "other",
+          "granted": true,
+          "amount": null,
+          "reasoning": "The parties have settled their dispute with the help of a trained mediator and filed consent terms marked Exh. 'A'.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    }
+  ],
+  "last_built": "2026-09-22"
+}

@@ -1,0 +1,67 @@
+{
+  "builder_id": "shiv-shakti-builders-and-developers",
+  "builder_name": "Shiv Shakti Builders And Developers",
+  "name_variants": [
+    "Shiv Shakti Builders And Developers"
+  ],
+  "score": 4.0,
+  "raw_points": 305.0,
+  "project_count": 1,
+  "warrant_count": 10,
+  "warrant_points": 300.0,
+  "warrants_recent_count": 10,
+  "warrants_recent_points": 300.0,
+  "warrants_older_count": 0,
+  "warrants_older_points": 0,
+  "order_count": 1,
+  "relief_count": 1,
+  "order_points": 5.0,
+  "total_buyers": 1,
+  "buyers_won": 1,
+  "warranted_buyers": 0,
+  "buyers_won_no_warrant": 1,
+  "adverse_no_warrant_relief_count": 1,
+  "categories": [
+    {
+      "id": "paperwork",
+      "label": "Paperwork not done",
+      "buyers": 1,
+      "buyers_won": 1,
+      "warranted_buyers": 0,
+      "project_count": 1
+    }
+  ],
+  "projects": [
+    {
+      "project_no": "P51800009511",
+      "warrant_count": 10
+    }
+  ],
+  "orders": [
+    {
+      "order_id": "08d000fb84c8c8eb976561c6572080dbec056733d1f55037e291dfe65c21fe85",
+      "order_date": "2018-04-05",
+      "project_name": "Tower 28",
+      "project_reg_no": "P51800009511",
+      "order_total_points": 5.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000022891",
+          "complainant_names": [
+            "Ratnesh Oza"
+          ],
+          "relief_type": "agreement_for_sale_execution",
+          "granted": true,
+          "amount": null,
+          "reasoning": "Complainant expressed willingness to continue in the project and requested execution of the agreement for sale at the originally agreed consideration price after being informed that relief under section 18 cannot be granted without a registered agreement.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    }
+  ],
+  "last_built": "2026-09-22"
+}

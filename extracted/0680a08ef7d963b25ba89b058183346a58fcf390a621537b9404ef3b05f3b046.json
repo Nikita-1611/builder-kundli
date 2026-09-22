@@ -1,0 +1,229 @@
+{
+  "order_id": "0680a08ef7d963b25ba89b058183346a58fcf390a621537b9404ef3b05f3b046",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 8,
+  "coram": {
+    "name": "Dr. Vijay Satbir Singh",
+    "designation": "Member-1"
+  },
+  "respondents": [
+    {
+      "name": "Nirmal Lifestyle",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": null,
+    "project_reg_no": null,
+    "location": null,
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2019-07-24",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000023509",
+        "complainant_names": [
+          "Dinanath Sawant"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent informed MahaRERA that outstanding amounts have already been paid to all complainants or agreed to be paid within a stipulated time, leading to the disposal of the execution application.",
+            "source_page": 2
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000044075",
+        "complainant_names": [
+          "Janardan Prasad"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent informed MahaRERA that outstanding amounts have already been paid to all complainants or agreed to be paid within a stipulated time, leading to the disposal of the execution application.",
+            "source_page": 2
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000044238",
+        "complainant_names": [
+          "Manoj Gawali"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent informed MahaRERA that outstanding amounts have already been paid to all complainants or agreed to be paid within a stipulated time, leading to the disposal of the execution application.",
+            "source_page": 2
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000044230",
+        "complainant_names": [
+          "Rekha Musale"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent informed MahaRERA that outstanding amounts have already been paid to all complainants or agreed to be paid within a stipulated time, leading to the disposal of the execution application.",
+            "source_page": 2
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000023578",
+        "complainant_names": [
+          "Leah Lobo"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent informed MahaRERA that outstanding amounts have already been paid to all complainants or agreed to be paid within a stipulated time, leading to the disposal of the execution application.",
+            "source_page": 2
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000012346",
+        "complainant_names": [
+          "Disha Salian"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent informed MahaRERA that outstanding amounts have already been paid to all complainants or agreed to be paid within a stipulated time, leading to the disposal of the execution application.",
+            "source_page": 2
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000044083",
+        "complainant_names": [
+          "Yogesh Sonar"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent informed MahaRERA that outstanding amounts have already been paid to all complainants or agreed to be paid within a stipulated time, leading to the disposal of the execution application.",
+            "source_page": 2
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000022864",
+        "complainant_names": [
+          "Sunita Harindranath"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent informed MahaRERA that outstanding amounts have already been paid to all complainants or agreed to be paid within a stipulated time, leading to the disposal of the execution application.",
+            "source_page": 2
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 2
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "This order disposes of multiple execution applications. It states that the respondent has already paid or agreed to pay outstanding amounts. Specific project names, individual payment amounts, and original complaint relief types (e.g., delay interest, refund) are not detailed in this order, as it concerns the *disposition* of the execution applications based on prior settlements. MahaRERA registration numbers are provided per execution application, implying distinct projects, but the schema has a single 'project_reg_no' field at the top level, hence it is set to null."
+}

@@ -1,0 +1,838 @@
+{
+  "order_id": "1945ea1409c0a4f48e3167f435ab3bddd82f7ac48ea29ad2e8442ac9654a441d",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 12,
+  "coram": {
+    "name": "B.D. Kapadnis",
+    "designation": "Member-II"
+  },
+  "respondents": [
+    {
+      "name": "M/S SHADOW BUILDERS AND DEVELOPERS PVT LTD",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Apollo 2",
+    "project_reg_no": "P52000007231",
+    "location": "Kharghar, Dist. Raigad",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "No occupancy certificate has been obtained by the respondent."
+    }
+  },
+  "primary_order": {
+    "order_date": "2021-01-01",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000193147",
+        "complainant_names": [
+          "Mr Vishal Phalke",
+          "Mrs Anita Phalke"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "penalty",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "handing over possession of the flats with agreed amenities and with occupancy/completion certificate",
+              "from_date": "2018-03-01",
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to hand over possession by the agreed date and delayed completion.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Allottees are entitled to possession with occupancy certificate.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondent is directed to join the complainants as members in the existing society.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost awarded for each complaint.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193148",
+        "complainant_names": [
+          "Smita Laxman Survase",
+          "Laxman Shamrao Survase"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "penalty",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "handing over possession of the flats with agreed amenities and with occupancy/completion certificate",
+              "from_date": "2018-03-01",
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to hand over possession by the agreed date.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Allottees are entitled to possession with occupancy certificate.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondent is directed to join the complainants as members in the existing society.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost awarded for each complaint.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193149",
+        "complainant_names": [
+          "Ravindra Vishnu Mojar"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "penalty",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "handing over possession of the flats with agreed amenities and with occupancy/completion certificate",
+              "from_date": "2018-03-01",
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to hand over possession by the agreed date.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Allottees are entitled to possession with occupancy certificate.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondent is directed to join the complainants as members in the existing society.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost awarded for each complaint.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193150",
+        "complainant_names": [
+          "Sukhadev Virakar",
+          "Nanda Virakar"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "penalty",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "handing over possession of the flats with agreed amenities and with occupancy/completion certificate",
+              "from_date": "2018-03-01",
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to hand over possession by the agreed date.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Allottees are entitled to possession with occupancy certificate.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondent is directed to join the complainants as members in the existing society.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost awarded for each complaint.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193151",
+        "complainant_names": [
+          "Manasi Keni"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "penalty",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "handing over possession of the flats with agreed amenities and with occupancy/completion certificate",
+              "from_date": "2018-03-01",
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to hand over possession by the agreed date.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Allottees are entitled to possession with occupancy certificate.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondent is directed to join the complainants as members in the existing society.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost awarded for each complaint.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193152",
+        "complainant_names": [
+          "Mansing Deshmukh"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "penalty",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "handing over possession of the flats with agreed amenities and with occupancy/completion certificate",
+              "from_date": "2018-03-01",
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to hand over possession by the agreed date.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Allottees are entitled to possession with occupancy certificate.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondent is directed to join the complainants as members in the existing society.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost awarded for each complaint.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193153",
+        "complainant_names": [
+          "Rajiv Chand Rajan",
+          "Meena Rajiv Rajan"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "penalty",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "handing over possession of the flats with agreed amenities and with occupancy/completion certificate",
+              "from_date": "2018-03-01",
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to mention date of possession in agreement, but inferred date 01/03/2018 applies.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Allottees are entitled to possession with occupancy certificate.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondent is directed to join the complainants as members in the existing society.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost awarded for each complaint.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193154",
+        "complainant_names": [
+          "Shailesh Damodar Keni"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "penalty",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "handing over possession of the flats with agreed amenities and with occupancy/completion certificate",
+              "from_date": "2018-03-01",
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to hand over possession by the agreed date.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Allottees are entitled to possession with occupancy certificate.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondent is directed to join the complainants as members in the existing society.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost awarded for each complaint.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193155",
+        "complainant_names": [
+          "Kannan Krishnan Swami",
+          "Manashri Dihingia"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "penalty",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "handing over possession of the flats with agreed amenities and with occupancy/completion certificate",
+              "from_date": "2018-12-01",
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to hand over possession by agreed date.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Allottees are entitled to possession with occupancy certificate.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Parties are directed to reconcile accounts regarding alleged excess amount paid.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondent is directed to join the complainants as members in the existing society.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost awarded for each complaint.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193156",
+        "complainant_names": [
+          "Yogesh Nanabhau Ahire",
+          "Nanabhau Fula Ahire"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "penalty",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "handing over possession of the flats with agreed amenities and with occupancy/completion certificate",
+              "from_date": "2018-03-01",
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to hand over possession by agreed date.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Allottees are entitled to possession with occupancy certificate.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Parties are directed to reconcile accounts regarding alleged excess amount paid.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondent is directed to join the complainants as members in the existing society.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost awarded for each complaint.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193157",
+        "complainant_names": [
+          "Neeta Rajdoot Shinde"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "penalty",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "handing over possession of the flats with agreed amenities and with occupancy/completion certificate",
+              "from_date": "2018-03-01",
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to hand over possession by agreed date.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Allottees are entitled to possession with occupancy certificate.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Parties are directed to reconcile accounts regarding alleged excess amount paid.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "If respondent recovered excess money, it shall refund it with simple interest at 9% p.a.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondent is directed to join the complainants as members in the existing society.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost awarded for each complaint.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193158",
+        "complainant_names": [
+          "Shankar Ananda Phanse",
+          "Surekha Shankar Phanse"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "penalty",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "handing over possession of the flats with agreed amenities and with occupancy/completion certificate",
+              "from_date": "2018-03-01",
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to hand over possession by agreed date.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Allottees are entitled to possession with occupancy certificate.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Respondent is directed to join the complainants as members in the existing society.",
+            "source_page": 22
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Cost awarded for each complaint.",
+            "source_page": 22
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 16
+  },
+  "supplementary_proceedings": [
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2021-10-08",
+      "complaint_no": "CC006000000193151",
+      "outcome": "allowed",
+      "reasoning": "The respondent failed to comply with the final order dated 01/01/2021 and pay delayed interest, leading to a recovery warrant under Section 40(1) of RERA.",
+      "source_page": 12
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "The document contains a clubbed final order for 12 complaints dated 01/01/2021, followed by non-execution proceedings resulting in a recovery warrant under Section 40(1) for complaint CC006000000193151 dated 29/11/2021."
+}

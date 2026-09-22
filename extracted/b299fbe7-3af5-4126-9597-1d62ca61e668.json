@@ -1,0 +1,71 @@
+{
+  "order_id": "b299fbe7-3af5-4126-9597-1d62ca61e668",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Vijay Satbir Singh",
+    "designation": "Member - I, MahaRERA"
+  },
+  "respondents": [
+    { "name": "Taksha Spaces Pvt. Ltd.", "role": "promoter" }
+  ],
+  "project": {
+    "project_name": "Goverdhangiri CHS Ltd (Redevelopment) - Wing B",
+    "project_reg_no": "P51800002450",
+    "location": "Kandivli, Mumbai",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "Not received as of order date; possession still pending, respondent had extended its own completion date to 31-10-2021 with no progress on site."
+    }
+  },
+  "primary_order": {
+    "order_date": "2019-10-03",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000055701",
+        "complainant_names": ["Anita Modi"],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "Marginal Cost Lending Rate (MCLR) of SBI plus 2%, on the actual amount paid by the complainant"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "date of possession",
+              "from_date": "2018-01-15",
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent admittedly failed to hand over possession by the agreed date (31-12-2017). Respondent argued complainant was an investor securing a loan for her husband, not a genuine allottee, and offered refund of Rs. 56,50,000 or possession without interest; MahaRERA rejected this, holding all allottees are investors and the registered agreement for sale (total consideration Rs. 1,50,00,000) makes her an allottee entitled to interest under Section 18(1). Respondent's delay reasons (redevelopment society name deleted from property register, High Court arbitration restraining development rights) were not accepted as plausible justification.",
+            "source_page": 4
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 4
+  },
+  "supplementary_proceedings": [
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2022-06-20",
+      "complaint_no": "CC006000000055701",
+      "outcome": "dismissed_want_of_prosecution",
+      "reasoning": "Complainant filed this application alleging the 2019 order was not executed. Both parties were absent at the hearing despite prior notice; Authority inferred the complainant was not willing to contest the application and dismissed it for want of prosecution. Underlying delay-interest order therefore has no recorded confirmation of payment or further enforcement.",
+      "source_page": 6
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Pages 1-4 (the 2019 final order) have a heavily degraded OCR text layer with systematic character substitution (e.g. 'complainant' -> 'comploinont', 'MahaRERA' -> 'lvlahaRERA'); the underlying scanned image is legible and all facts here were read from the image, not the OCR layer. Pages 5-6 (the 2022 non-execution application) are a clean, born-digital PDF with no OCR issues. Amount actually paid by the complainant (the interest principal) is not stated as a single figure in the order — only the outstanding balance (Rs. 1,28,05,000) and total consideration (Rs. 1,50,00,000) are given -- left as null rather than inferring one."
+}

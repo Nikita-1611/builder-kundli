@@ -1,0 +1,1199 @@
+{
+  "order_id": "1c3b6e3ad11b01261eb84e86e2da1b7bde08b07ed2e7db935d1e1b19b4702b3a",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 29,
+  "coram": {
+    "name": "Dr. Vasant Prabhu",
+    "designation": "Secretary"
+  },
+  "respondents": [
+    {
+      "name": "Om Sai Infra & Om Sai Group",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "SAI KANISHK PHASE II",
+    "project_reg_no": "P51700012436",
+    "location": "Plot Bearing No / CTS no / Survey Number/Final Plot no. 5/5B, 5/9, at Thane - 400612",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2022-08-02",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000192326",
+        "complainant_names": [
+          "Aditi Alankar Thakur"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020. Complainants are entitled to seek issuance of recovery warrants.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192392",
+        "complainant_names": [
+          "SANTOSH BAPU GURAV"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192397",
+        "complainant_names": [
+          "Jaisingh Dharmraj"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192398",
+        "complainant_names": [
+          "Vandana Vasant Gaikwad"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192399",
+        "complainant_names": [
+          "Seeta Pankaj Singh"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192404",
+        "complainant_names": [
+          "MUBEEN ABDUL HAMID WADKAR"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192410",
+        "complainant_names": [
+          "kanhaiya chouhan"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192411",
+        "complainant_names": [
+          "Sanket Urkande"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192413",
+        "complainant_names": [
+          "DARSHAN LAXMAN BAMANE"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192415",
+        "complainant_names": [
+          "NISHA RAVINDRA DALVI"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192417",
+        "complainant_names": [
+          "Anant S Nagaonkar"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192424",
+        "complainant_names": [
+          "ABDUL WADOOD KHAN"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192443",
+        "complainant_names": [
+          "Omkar Dasharath Chavan"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192476",
+        "complainant_names": [
+          "Deepak Newaskar",
+          "Vaishali Newaskar"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192483",
+        "complainant_names": [
+          "SACHIN LAXMAN PAWAR"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192486",
+        "complainant_names": [
+          "SUNIL SHIVAJI THORAT"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192517",
+        "complainant_names": [
+          "Vedang Pradeep Mahajan"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192519",
+        "complainant_names": [
+          "Kusumadevi Sureshchandra Gupta"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192641",
+        "complainant_names": [
+          "Rajkiran Vijay Chavan"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192723",
+        "complainant_names": [
+          "Manasi hanumant mahadeshwar"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192766",
+        "complainant_names": [
+          "SUPRIYA KASHIRAM WADEKAR"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192887",
+        "complainant_names": [
+          "Anil Atmaram Mirashi",
+          "Anita Anil Mirashi"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193269",
+        "complainant_names": [
+          "rutuja ulhas sindhe"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193355",
+        "complainant_names": [
+          "Brijesh Shukla"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193360",
+        "complainant_names": [
+          "Brijesh Shukla"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193361",
+        "complainant_names": [
+          "Apurva Devendra Singham"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193378",
+        "complainant_names": [
+          "SANGAM SHRIRANG GAIKWAD"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193648",
+        "complainant_names": [
+          "PANKAJ MANOHAR DHARGALKAR"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000193822",
+        "complainant_names": [
+          "Ramesh R Bansode"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "9% per annum"
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to pay interest for the delay in handing over possession as per common order dated 29th September 2020.",
+            "source_page": 15
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none"
+            },
+            "validity_window": null,
+            "reasoning": "Cost of Rs. 20,000/- awarded as per the original order.",
+            "source_page": 15
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 14
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "The document contains a common non-compliance application disposing of 29 clubbed complaints, directing the issuance of recovery warrants under Section 40(1) of RERA along with rule 3 of Maharashtra Real Estate Rules, 2017. Since individual principal amounts are not listed in the final order text, amounts are left null where appropriate."
+}

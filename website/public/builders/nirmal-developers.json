@@ -1,0 +1,453 @@
+{
+  "builder_id": "nirmal-developers",
+  "builder_name": "Nirmal Developers",
+  "name_variants": [
+    "M/s Nirmal Developers",
+    "M/s. Nirmal Developers",
+    "NIRMAL DEVELOPERS",
+    "Nirmal Developers",
+    "Nirmal developers"
+  ],
+  "score": 5.8,
+  "raw_points": 490.0,
+  "project_count": 2,
+  "warrant_count": 28,
+  "warrant_points": 450.0,
+  "warrants_recent_count": 2,
+  "warrants_recent_points": 60.0,
+  "warrants_older_count": 26,
+  "warrants_older_points": 390.0,
+  "order_count": 9,
+  "relief_count": 16,
+  "order_points": 40.0,
+  "total_buyers": 10,
+  "buyers_won": 9,
+  "warranted_buyers": 3,
+  "buyers_won_no_warrant": 6,
+  "adverse_no_warrant_relief_count": 8,
+  "categories": [
+    {
+      "id": "refund",
+      "label": "Money not returned",
+      "buyers": 9,
+      "buyers_won": 8,
+      "warranted_buyers": 3,
+      "project_count": 2
+    },
+    {
+      "id": "other",
+      "label": "Other",
+      "buyers": 5,
+      "buyers_won": 5,
+      "warranted_buyers": 2,
+      "project_count": 2
+    },
+    {
+      "id": "late-possession",
+      "label": "Flat handed over late",
+      "buyers": 2,
+      "buyers_won": 0,
+      "warranted_buyers": 0,
+      "project_count": 2
+    }
+  ],
+  "projects": [
+    {
+      "project_no": "P51800011870",
+      "warrant_count": 11
+    },
+    {
+      "project_no": "P51800012383",
+      "warrant_count": 17
+    }
+  ],
+  "orders": [
+    {
+      "order_id": "08cea1eee5a411612dde28c359c23765df992eb29517c76e04c7e6ef8929f4d9",
+      "order_date": "2020-03-13",
+      "project_name": "OLYMPIA C D",
+      "project_reg_no": "P51800012383",
+      "order_total_points": 5.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000141147",
+          "complainant_names": [
+            "Mr. Gautham Aravindan"
+          ],
+          "relief_type": "other",
+          "granted": true,
+          "amount": null,
+          "reasoning": "The parties have settled the dispute as per the signed settlement terms produced by the complainant, and the complaint stands disposed off as settled.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "0deccda0712d5cbe1b61f52db58916037b5a84a1e6fc8007068e0967ff36d70a",
+      "order_date": "2019-12-27",
+      "project_name": "Olympia",
+      "project_reg_no": "P51800011870",
+      "order_total_points": 0.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000100542",
+          "complainant_names": [
+            "Debashish Prakash Karkera"
+          ],
+          "relief_type": "refund_of_consideration",
+          "granted": true,
+          "amount": {
+            "value": 2503192,
+            "type": "refund_principal",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "The complainant cancelled the booking, and the respondents failed to honor the balance settlement amount through bounced post-dated cheques, amounting to unfair practice.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000100542",
+          "complainant_names": [
+            "Debashish Prakash Karkera"
+          ],
+          "relief_type": "cost",
+          "granted": true,
+          "amount": {
+            "value": 20000,
+            "type": "cost",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Cost awarded towards the complaint.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        }
+      ]
+    },
+    {
+      "order_id": "10c864901b4739f593a5e6ef0ad965ff85b9a8187fe76a467552ad2592d8fb74",
+      "order_date": "2018-11-26",
+      "project_name": "Olympia C & D",
+      "project_reg_no": "P51800012383",
+      "order_total_points": 5.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC00600000023508",
+          "complainant_names": [
+            "Nirmal Developer Olympia Aggrieved Buyers Association"
+          ],
+          "relief_type": "refund_of_consideration",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "refund_principal",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Both parties had filed signed consent terms whereby respondent agreed to refund the amount paid in four installments. As the respondent failed to pay the second installment due in July 2018, the Authority directed payment of the second installment by 5th Dec 2018 and noted the proposed timeline for remaining installments.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "15ce445ce9fbe7592796694aaeea0af5f72d97fe92860c64f8b904f46b30e26c",
+      "order_date": "2020-09-02",
+      "project_name": "Olympia",
+      "project_reg_no": "P51800011870",
+      "order_total_points": 20.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000089971",
+          "complainant_names": [
+            "Mr. Prasanna Iyengar"
+          ],
+          "relief_type": "refund_of_consideration",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "refund_principal",
+            "recipient": "buyer",
+            "interest_rate_description": "9% from receipts of those payments till they are refunded"
+          },
+          "reasoning": "Respondents failed to return the balance amount despite their promise, hence complainants are entitled to refund with interest.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000089971",
+          "complainant_names": [
+            "Mr. Prasanna Iyengar"
+          ],
+          "relief_type": "cost",
+          "granted": true,
+          "amount": {
+            "value": 20000.0,
+            "type": "cost",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Complainants are entitled to litigation costs towards their complaints.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000171766",
+          "complainant_names": [
+            "Mr. Kunal Anand Date"
+          ],
+          "relief_type": "refund_of_consideration",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "refund_principal",
+            "recipient": "buyer",
+            "interest_rate_description": "9% from receipts of those payments till they are refunded"
+          },
+          "reasoning": "Respondents failed to return the balance amount despite their promise, hence complainants are entitled to refund with interest.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000171766",
+          "complainant_names": [
+            "Mr. Kunal Anand Date"
+          ],
+          "relief_type": "cost",
+          "granted": true,
+          "amount": {
+            "value": 20000.0,
+            "type": "cost",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Complainants are entitled to litigation costs towards their complaints.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "1bac0daa5d81ff041c7f2b5eac16b7a14541b7926e7eab72d361c947a8c38c8b",
+      "order_date": "2018-10-15",
+      "project_name": "Olympia C",
+      "project_reg_no": "P51800012383",
+      "order_total_points": 5.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000055455",
+          "complainant_names": [
+            "Mr. Binu Nair",
+            "Mrs. Sumtha Nair"
+          ],
+          "relief_type": "refund_of_consideration",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "refund_principal",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Both parties settled the matter amicably and filed a notarized copy of consent terms, leading to the complaint being withdrawn as disposed of.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "3eccb6fac6746aecdf8bf04d14c35c366aaa09173b13a2831fb7aae8cbe37a5c",
+      "order_date": "2020-12-14",
+      "project_name": "OLYMPIA C D",
+      "project_reg_no": "P51800012383",
+      "order_total_points": 0.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000193162",
+          "complainant_names": [
+            "Kamlesh Lachhman Tilwani",
+            "Lachhman Jiwatram Tilwani"
+          ],
+          "relief_type": "refund_of_consideration",
+          "granted": true,
+          "amount": {
+            "value": 1454058,
+            "type": "refund_principal",
+            "recipient": "buyer",
+            "interest_rate_description": "9% p. a."
+          },
+          "reasoning": "The original order directed the respondent to refund the amount with interest; the respondent failed to comply.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000193162",
+          "complainant_names": [
+            "Kamlesh Lachhman Tilwani",
+            "Lachhman Jiwatram Tilwani"
+          ],
+          "relief_type": "cost",
+          "granted": true,
+          "amount": {
+            "value": 20000,
+            "type": "cost",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "The original order directed the respondent to pay the cost of the complaint; the respondent failed to comply.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        }
+      ]
+    },
+    {
+      "order_id": "65895e8a562092254942e9e22bf24c9f018280a7f613e1d86536ff5af6d90333",
+      "order_date": "2023-04-26",
+      "project_name": "Olympia",
+      "project_reg_no": "P51800012383",
+      "order_total_points": 0.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000057259",
+          "complainant_names": [
+            "Ms. Swati Patil"
+          ],
+          "relief_type": "refund_of_consideration",
+          "granted": true,
+          "amount": {
+            "value": 3618233.97,
+            "type": "refund_principal",
+            "recipient": "buyer",
+            "interest_rate_description": "12% p.a. calculated till 18/04/2023 with further interest until full refund."
+          },
+          "reasoning": "Respondent failed to comply with the previous order to refund the amount with 12% interest in six equal installments. This warrant is issued for the recovery of the ordered amount as arrears of land revenue.",
+          "has_warrant": true,
+          "signal": "covered_by_warrant",
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        }
+      ]
+    },
+    {
+      "order_id": "7d3d94922baa9f8bc34ab8a773909fb8c396c670e75730bed4f601a5e47f0d9c",
+      "order_date": "2018-11-12",
+      "project_name": "Olympia A & B",
+      "project_reg_no": "P51800011870",
+      "order_total_points": 5.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000055712",
+          "complainant_names": [
+            "Mr. Avinash Thakare"
+          ],
+          "relief_type": "refund_of_consideration",
+          "granted": true,
+          "amount": {
+            "value": null,
+            "type": "refund_principal",
+            "recipient": "buyer",
+            "interest_rate_description": null
+          },
+          "reasoning": "Respondent submitted an undertaking to refund the remaining amount, and MahaRERA noted that nothing further survives in the complaint given this willingness.",
+          "has_warrant": false,
+          "signal": "adverse_order_no_warrant",
+          "base_points": 10,
+          "age_halved": true,
+          "final_points": 5.0
+        },
+        {
+          "complaint_no": "CC006000000055712",
+          "complainant_names": [
+            "Mr. Avinash Thakare"
+          ],
+          "relief_type": "delay_interest",
+          "granted": false,
+          "amount": null,
+          "reasoning": "There is no registered agreement for sale between parties that prescribes a date of possession, thus no violation of Section 18 of the RERA Act, and the complainant is not entitled to relief under Section 18.",
+          "has_warrant": false,
+          "signal": null,
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        }
+      ]
+    },
+    {
+      "order_id": "93f8e92fba911435a2a20039f51f1c2917666975dba9c00814fdbc632581fa04",
+      "order_date": "2018-01-23",
+      "project_name": "Olympia B",
+      "project_reg_no": "P51800012383",
+      "order_total_points": 0.0,
+      "reliefs": [
+        {
+          "complaint_no": "CC006000000001434",
+          "complainant_names": [
+            "Mr. Ramchandra L. Badge",
+            "Mrs Pushpalata R. Badge"
+          ],
+          "relief_type": "refund_of_consideration",
+          "granted": false,
+          "amount": null,
+          "reasoning": "Complaint seeking refund and interest was disposed of as parties settled amicably and filed consent terms on record of the Authority. The Authority did not pass an order for refund or interest.",
+          "has_warrant": false,
+          "signal": null,
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        },
+        {
+          "complaint_no": "CC006000000001434",
+          "complainant_names": [
+            "Mr. Ramchandra L. Badge",
+            "Mrs Pushpalata R. Badge"
+          ],
+          "relief_type": "delay_interest",
+          "granted": false,
+          "amount": null,
+          "reasoning": "Complaint seeking refund and interest was disposed of as parties settled amicably and filed consent terms on record of the Authority. The Authority did not pass an order for refund or interest.",
+          "has_warrant": false,
+          "signal": null,
+          "base_points": 0,
+          "age_halved": true,
+          "final_points": 0.0
+        }
+      ]
+    }
+  ],
+  "last_built": "2026-09-22"
+}

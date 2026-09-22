@@ -1,0 +1,54 @@
+{
+  "order_id": "1b98d2be7fda9ac7b7bf3c324b05d87752c64fb6550cab1a50f71bd19a7af306",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "B.D. Kapadnis",
+    "designation": "Member-II"
+  },
+  "respondents": [
+    {
+      "name": "Nirmal Lifestyle Kalyan Pvt Ltd",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": null,
+    "project_reg_no": "P51700006766",
+    "location": null,
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2021-02-08",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000192378",
+        "complainant_names": [
+          "Vijay Shankar Sawant"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The complainant remained absent despite notice for hearings on 20.01.2021 and today, hence the complaint is dismissed for default.",
+            "source_page": 1
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "The complaint was dismissed for default due to the absence of the complainant."
+}

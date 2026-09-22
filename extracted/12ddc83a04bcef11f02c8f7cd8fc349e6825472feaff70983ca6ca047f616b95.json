@@ -1,0 +1,73 @@
+{
+  "order_id": "12ddc83a04bcef11f02c8f7cd8fc349e6825472feaff70983ca6ca047f616b95",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "B.D. Kapadnis",
+    "designation": "Member-II"
+  },
+  "respondents": [
+    {
+      "name": "M/s. Nirmal Lifestyle Kalyan Pvt Ltd",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Lifestyle City Kalyan - Thames (Thames A)",
+    "project_reg_no": "P51700003616",
+    "location": "Kalyan",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2020-08-07",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000056948",
+        "complainant_names": [
+          "Mr. Piyush Ashok kumar Raval"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 902784,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "9% p.a. from 15.10.2016 till their refund"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainant booked flat no. 1602 in 2013, paid Rs. 9,02,784/- and cancelled on 15.10.2016 due to lack of progress. Respondents failed to refund and issued bounced cheques, continuing the transaction and making the claim within limitation under Section 7 of RERA.",
+            "source_page": 3
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Awarded towards the cost of the complaint.",
+            "source_page": 3
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "The final order grants refund of principal with interest at 9% p.a. from 15.10.2016 and costs of Rs. 20,000."
+}

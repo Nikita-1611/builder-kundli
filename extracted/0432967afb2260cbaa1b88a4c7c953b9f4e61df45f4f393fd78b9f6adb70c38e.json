@@ -1,0 +1,1422 @@
+{
+  "order_id": "0432967afb2260cbaa1b88a4c7c953b9f4e61df45f4f393fd78b9f6adb70c38e",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 22,
+  "coram": {
+    "name": "Dr. Vasant Prabhu",
+    "designation": "Secretary"
+  },
+  "respondents": [
+    {
+      "name": "JVPD Properties Private Limited",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Bhagtani Serenity / Serenity- Bldg 1",
+    "project_reg_no": "P51800011181",
+    "location": "Village Tirandaz, Taluka Kurla, Powai, Mumbai Suburban - 400076",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "Wording 'if the clearances are not obtained' on page 20 suggests OC not fully received."
+    }
+  },
+  "primary_order": {
+    "order_date": "2020-02-18",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000141027",
+        "complainant_names": [
+          "Mr Ankur Garg",
+          "Ms Sweta Garg"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 2180354.0,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% p.a. from the date/s of their payment till they are refunded."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "full refund",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent failed to complete the project as agreed and failed to refund the amount paid by the complainants.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded to complainant due to respondent's non-compliance.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192381",
+        "complainant_names": [
+          "Mr Apurva Vinod Pandya",
+          "Mrs Madhuri Apurva Pandya"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 2123061.0,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% p.a. from the date/s of their payment till they are refunded."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "full refund",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Refund of consideration for flat A-3-2901; Respondent failed to complete the project as agreed.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 2026262.0,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% p.a. from the date/s of their payment till they are refunded."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "full refund",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Refund of consideration for flat A-3-2902; Respondent failed to complete the project as agreed.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded to complainant due to respondent's non-compliance.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192384",
+        "complainant_names": [
+          "Chhagani Devi Nahata",
+          "Vijay Raj Nahata"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 15653200.0,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% p.a. from the date/s of their payment till they are refunded."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "full refund",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Refund of consideration for flat A-3-1202; Respondent failed to complete the project as agreed. Amount is based on handwritten correction in source document.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded to complainant due to respondent's non-compliance.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192385",
+        "complainant_names": [
+          "Rohit Vijay Nahata",
+          "Buladevi Nahata"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 15653200.0,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% p.a. from the date/s of their payment till they are refunded."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "full refund",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Refund of consideration for flat A-S-120; Respondent failed to complete the project as agreed. Amount is based on handwritten correction in source document.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded to complainant due to respondent's non-compliance.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192388",
+        "complainant_names": [
+          "Parshuram G Raturi",
+          "Rajni Raturi"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 2615000.0,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% p.a. from the date/s of their payment till they are refunded."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "full refund",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Refund of consideration for flat A-401; Respondent failed to complete the project as agreed.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 2615001.0,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% p.a. from the date/s of their payment till they are refunded."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "full refund",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Refund of consideration for flat A-402; Respondent failed to complete the project as agreed.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded to complainant due to respondent's non-compliance.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192393",
+        "complainant_names": [
+          "Udit M Sharma",
+          "Ritu U Sharma"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% p.a. from the date/s of their payment till they are refunded."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "full refund",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Refund of consideration for flats C-1301 & C-1302. Amount is combined for two flats and explicit split is not available.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded to complainant due to respondent's non-compliance.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192408",
+        "complainant_names": [
+          "Sayed Hifazat Ali"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 9329770.0,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% p.a. from the date/s of their payment till they are refunded."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "full refund",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Refund of consideration for flat C-904; Respondent failed to complete the project as agreed.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded to complainant due to respondent's non-compliance.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192453",
+        "complainant_names": [
+          "Branson D'Souza",
+          "Neelam D'Souza"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% p.a. from the date/s of their payment till they are refunded."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "full refund",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Refund of consideration for flats C-2304 & C-2504. Amount is combined for two flats and explicit split is not available.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded to complainant due to respondent's non-compliance.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192434",
+        "complainant_names": [
+          "Rupesh Keshav Patole",
+          "Darshana Rupesh Patole"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 2198942.0,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% p.a. from the date/s of their payment till they are refunded."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "full refund",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Refund of consideration for flat A-1101; Respondent failed to complete the project as agreed.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 3348750.0,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% p.a. from the date/s of their payment till they are refunded."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "full refund",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Refund of consideration for flat C-2204; Respondent failed to complete the project as agreed.",
+            "source_page": 19
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded to complainant due to respondent's non-compliance.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192437",
+        "complainant_names": [
+          "Imran Shah",
+          "Sakina Mustaq Ahmed Shaikh"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 3093607.0,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% p.a. from the date/s of their payment till they are refunded."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "full refund",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Refund of consideration for flat C-1001; Respondent failed to complete the project as agreed.",
+            "source_page": 19
+          },
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 3093607.0,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% p.a. from the date/s of their payment till they are refunded."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "full refund",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Refund of consideration for flat C-1002; Respondent failed to complete the project as agreed.",
+            "source_page": 19
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded to complainant due to respondent's non-compliance.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192438",
+        "complainant_names": [
+          "Mrityunjay R Dubey"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 2315757.0,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% p.a. from the date/s of their payment till they are refunded."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "full refund",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Refund of consideration for flat C-3704; Respondent failed to complete the project as agreed.",
+            "source_page": 19
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded to complainant due to respondent's non-compliance.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192440",
+        "complainant_names": [
+          "Fathulla Eftekar"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 2315757.0,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% p.a. from the date/s of their payment till they are refunded."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "full refund",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Refund of consideration for flat C-3704; Respondent failed to complete the project as agreed.",
+            "source_page": 19
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded to complainant due to respondent's non-compliance.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192466",
+        "complainant_names": [
+          "Nivas Mahadev Patil",
+          "Pramila Nivas Patil"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 2373261.0,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% p.a. from the date/s of their payment till they are refunded."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "full refund",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Refund of consideration for flat A-2002; Respondent failed to complete the project as agreed.",
+            "source_page": 19
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded to complainant due to respondent's non-compliance.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192467",
+        "complainant_names": [
+          "Rajendra Nikam"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% p.a. from the date/s of their payment till they are refunded."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "full refund",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Refund of consideration for flat A-2-201. Amount not clearly legible in source document.",
+            "source_page": 19
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded to complainant due to respondent's non-compliance.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192472",
+        "complainant_names": [
+          "Puja Dattaprasad Sadweikar",
+          "Dattaprasad Sadwelkar"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% p.a. from the date/s of their payment till they are refunded."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "full refund",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Refund of consideration for flats A-3- & A-3-1102. Amount is combined for two flats and explicit split is not available.",
+            "source_page": 19
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded to complainant due to respondent's non-compliance.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192914",
+        "complainant_names": [
+          "Pankaj Arora",
+          "Vishal Arora"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% p.a. from the date/s of their payment till they are refunded."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "full refund",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Refund of consideration for flats C-2102 & C-2101. Amount is combined for two flats and explicit split is not available.",
+            "source_page": 19
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded to complainant due to respondent's non-compliance.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192479",
+        "complainant_names": [
+          "Kinnari Gupta",
+          "Rashi Gupta"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 1700000.0,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% p.a. from the date/s of their payment till they are refunded."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "full refund",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Refund of consideration for flat A-3-1501; Respondent failed to complete the project as agreed.",
+            "source_page": 19
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded to complainant due to respondent's non-compliance.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192480",
+        "complainant_names": [
+          "Amit Khandelwal",
+          "Mamta Khandelwal"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 1200000.0,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% p.a. from the date/s of their payment till they are refunded."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "full refund",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Refund of consideration for flat A-3-1502; Respondent failed to complete the project as agreed.",
+            "source_page": 19
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded to complainant due to respondent's non-compliance.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192481",
+        "complainant_names": [
+          "Nimu J Mehta",
+          "Manish Mehta"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 1200000.0,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% p.a. from the date/s of their payment till they are refunded."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "full refund",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Refund of consideration for flat A-3-707; Respondent failed to complete the project as agreed.",
+            "source_page": 19
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded to complainant due to respondent's non-compliance.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192482",
+        "complainant_names": [
+          "Alpa Jay Shah"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% p.a. from the date/s of their payment till they are refunded."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "full refund",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Refund of consideration for flats A-3-1007 & A-3-2204. Amount is combined for two flats and explicit split is not available.",
+            "source_page": 19
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded to complainant due to respondent's non-compliance.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192493",
+        "complainant_names": [
+          "Vikas Radhe Shyam Singh"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 1613630.0,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% p.a. from the date/s of their payment till they are refunded."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "full refund",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Refund of consideration for flat B-1-130; Respondent failed to complete the project as agreed.",
+            "source_page": 19
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded to complainant due to respondent's non-compliance.",
+            "source_page": 22
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000192546",
+        "complainant_names": [
+          "Mrs Vaibhavi Mhatre Marwah",
+          "Mr Nitin H Marwah"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% p.a. from the date/s of their payment till they are refunded."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "full refund",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Refund of consideration for flat D-140. Amount not clearly legible in source document.",
+            "source_page": 19
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "none",
+              "date": null,
+              "days": null,
+              "event": null,
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Cost awarded to complainant due to respondent's non-compliance.",
+            "source_page": 22
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 18
+  },
+  "supplementary_proceedings": [
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2023-07-04",
+      "complaint_no": "CC006000000054784",
+      "outcome": "allowed",
+      "reasoning": "Respondent failed to comply with previous MahaRERA orders to refund amounts with interest and cost, leading to issuance of recovery warrants under Section 40(1) of RERA. The 16 applications for non-compliance are disposed of by directing warrants.",
+      "source_page": 13
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2023-07-04",
+      "complaint_no": "CC006000000054802",
+      "outcome": "allowed",
+      "reasoning": "Respondent failed to comply with previous MahaRERA orders to refund amounts with interest and cost, leading to issuance of recovery warrants under Section 40(1) of RERA. The 16 applications for non-compliance are disposed of by directing warrants.",
+      "source_page": 13
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2023-07-04",
+      "complaint_no": "CC006000000110798",
+      "outcome": "allowed",
+      "reasoning": "Respondent failed to comply with previous MahaRERA orders to refund amounts with interest and cost, leading to issuance of recovery warrants under Section 40(1) of RERA. The 16 applications for non-compliance are disposed of by directing warrants.",
+      "source_page": 13
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2023-07-04",
+      "complaint_no": "CC006000000141027",
+      "outcome": "allowed",
+      "reasoning": "Respondent failed to comply with previous MahaRERA orders to refund amounts with interest and cost, leading to issuance of recovery warrants under Section 40(1) of RERA. The 16 applications for non-compliance are disposed of by directing warrants.",
+      "source_page": 13
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2023-07-04",
+      "complaint_no": "CC006000000141028",
+      "outcome": "allowed",
+      "reasoning": "Respondent failed to comply with previous MahaRERA orders to refund amounts with interest and cost, leading to issuance of recovery warrants under Section 40(1) of RERA. The 16 applications for non-compliance are disposed of by directing warrants.",
+      "source_page": 13
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2023-07-04",
+      "complaint_no": "CC006000000192524",
+      "outcome": "allowed",
+      "reasoning": "Respondent failed to comply with previous MahaRERA orders to refund amounts with interest and cost, leading to issuance of recovery warrants under Section 40(1) of RERA. The 16 applications for non-compliance are disposed of by directing warrants.",
+      "source_page": 13
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2023-07-04",
+      "complaint_no": "CC006000000192547",
+      "outcome": "allowed",
+      "reasoning": "Respondent failed to comply with previous MahaRERA orders to refund amounts with interest and cost, leading to issuance of recovery warrants under Section 40(1) of RERA. The 16 applications for non-compliance are disposed of by directing warrants.",
+      "source_page": 13
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2023-07-04",
+      "complaint_no": "CC006000000192571",
+      "outcome": "allowed",
+      "reasoning": "Respondent failed to comply with previous MahaRERA orders to refund amounts with interest and cost, leading to issuance of recovery warrants under Section 40(1) of RERA. The 16 applications for non-compliance are disposed of by directing warrants.",
+      "source_page": 13
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2023-07-04",
+      "complaint_no": "CC006000000192572",
+      "outcome": "allowed",
+      "reasoning": "Respondent failed to comply with previous MahaRERA orders to refund amounts with interest and cost, leading to issuance of recovery warrants under Section 40(1) of RERA. The 16 applications for non-compliance are disposed of by directing warrants.",
+      "source_page": 13
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2023-07-04",
+      "complaint_no": "CC006000000192574",
+      "outcome": "allowed",
+      "reasoning": "Respondent failed to comply with previous MahaRERA orders to refund amounts with interest and cost, leading to issuance of recovery warrants under Section 40(1) of RERA. The 16 applications for non-compliance are disposed of by directing warrants.",
+      "source_page": 13
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2023-07-04",
+      "complaint_no": "CC006000000192577",
+      "outcome": "allowed",
+      "reasoning": "Respondent failed to comply with previous MahaRERA orders to refund amounts with interest and cost, leading to issuance of recovery warrants under Section 40(1) of RERA. The 16 applications for non-compliance are disposed of by directing warrants.",
+      "source_page": 13
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2023-07-04",
+      "complaint_no": "CC006000000192579",
+      "outcome": "allowed",
+      "reasoning": "Respondent failed to comply with previous MahaRERA orders to refund amounts with interest and cost, leading to issuance of recovery warrants under Section 40(1) of RERA. The 16 applications for non-compliance are disposed of by directing warrants.",
+      "source_page": 13
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2023-07-04",
+      "complaint_no": "CC006000000192665",
+      "outcome": "allowed",
+      "reasoning": "Respondent failed to comply with previous MahaRERA orders to refund amounts with interest and cost, leading to issuance of recovery warrants under Section 40(1) of RERA. The 16 applications for non-compliance are disposed of by directing warrants.",
+      "source_page": 13
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2023-07-04",
+      "complaint_no": "CC006000000192669",
+      "outcome": "allowed",
+      "reasoning": "Respondent failed to comply with previous MahaRERA orders to refund amounts with interest and cost, leading to issuance of recovery warrants under Section 40(1) of RERA. The 16 applications for non-compliance are disposed of by directing warrants.",
+      "source_page": 13
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2023-07-04",
+      "complaint_no": "CC006000000192671",
+      "outcome": "allowed",
+      "reasoning": "Respondent failed to comply with previous MahaRERA orders to refund amounts with interest and cost, leading to issuance of recovery warrants under Section 40(1) of RERA. The 16 applications for non-compliance are disposed of by directing warrants.",
+      "source_page": 13
+    },
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2023-07-04",
+      "complaint_no": "CC006000000192827",
+      "outcome": "allowed",
+      "reasoning": "Respondent failed to comply with previous MahaRERA orders to refund amounts with interest and cost, leading to issuance of recovery warrants under Section 40(1) of RERA. The 16 applications for non-compliance are disposed of by directing warrants.",
+      "source_page": 13
+    },
+    {
+      "proceeding_type": "execution_application",
+      "date": "2023-07-18",
+      "complaint_no": "CC006000000141027",
+      "outcome": "allowed",
+      "reasoning": "Recovery warrant issued under Section 40(1) of RERA for execution of previous order regarding refund of principal, interest, and cost.",
+      "source_page": 1
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Some principal refund amounts were illegible or combined for multiple flats in the Final Order table (pages 18-19), hence left as null and noted in reasoning. Handwritten corrections in the 'Amount Paid' table were used where clear. A consistent cost of Rs. 10,000/- per complaint was inferred for each complaint as per the Final Order on page 22. The 'primary_order' refers to the Final Order dated 18th Feb 2020. Supplementary proceedings include the Non-Compliance Order dated 4th July 2023 (covering 16 complaints as listed on pages 10-12) and the specific Recovery Warrant dated 18th July 2023 (for one complaint, CC006000000141027, as detailed on pages 1-9)."
+}

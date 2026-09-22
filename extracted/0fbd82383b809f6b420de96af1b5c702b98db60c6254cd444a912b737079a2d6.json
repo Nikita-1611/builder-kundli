@@ -1,0 +1,54 @@
+{
+  "order_id": "0fbd82383b809f6b420de96af1b5c702b98db60c6254cd444a912b737079a2d6",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "B.D. Kapadnis",
+    "designation": "Hon'ble Member & Adjudicating Officer"
+  },
+  "respondents": [
+    {
+      "name": "Vidhi Raltors",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Gaurav Discovery",
+    "project_reg_no": "P51800007949",
+    "location": null,
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2018-09-05",
+    "complaints": [
+      {
+        "complaint_no": "CC0060000000055145",
+        "complainant_names": [
+          "Sanjay Narain Tekwani"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The parties settled their dispute amicably with the help of mediator Mr. Vasant G. Wani in terms of consent terms placed on record marked Exh. 'A'.",
+            "source_page": 1
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "Complaint disposed of as settled based on consent terms (Exh. A) which the parties agreed not to upload."
+}

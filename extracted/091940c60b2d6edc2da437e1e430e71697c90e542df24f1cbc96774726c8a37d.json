@@ -1,0 +1,81 @@
+{
+  "order_id": "091940c60b2d6edc2da437e1e430e71697c90e542df24f1cbc96774726c8a37d",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Shri B.D. Kapadnis",
+    "designation": "Member II"
+  },
+  "respondents": [
+    {
+      "name": "Nirmal Lifestyle (Kalyan) Pvt. Ltd.",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Lifestyle City Kalyan-Glory B",
+    "project_reg_no": "P51700003537",
+    "location": "Vadavli Kalyan, District Thane",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "Possession not yet handed over; order specifies interest until handing over actual possession of flat with occupation certificate."
+    }
+  },
+  "primary_order": {
+    "order_date": "2020-03-05",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000100203",
+        "complainant_names": [
+          "Sunil Vishwas Bhalekar"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": 2647066.0,
+              "type": "penalty",
+              "recipient": "buyer",
+              "interest_rate_description": "10.15% per annum (simple interest at 2% above SBI's highest MCLR of 8.15%)"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "handing over actual possession of flat with occupation certificate",
+              "from_date": "2017-01-01",
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "The respondents failed to hand over possession by the agreed date (June 2016 plus 6 months grace period, i.e., 31.12.2016). Section 18 of RERA entitles the allottee to continue in the project and claim interest from the date of default till possession.",
+            "source_page": 5
+          },
+          {
+            "relief_type": "cost",
+            "granted": true,
+            "amount": {
+              "value": 20000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Complainants are entitled to the cost of the complaint.",
+            "source_page": 5
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 5
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "Extracted from the MahaRERA final order dated 05.03.2020. The principal amount of Rs. 26,47,066/- was clearly stated in the text for calculating simple interest."
+}

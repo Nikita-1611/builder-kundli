@@ -1,0 +1,98 @@
+{
+  "order_id": "d10d249d0396ff0f3362f5efcd90ff46cfa704cb5133c007c47c57b20a55a4d8",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 16,
+  "coram": {
+    "name": "Dr. Vasant Prabhu",
+    "designation": "Secretary"
+  },
+  "respondents": [
+    {
+      "name": "JVPD Properties Private Limited",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Serenity- Bldg 1",
+    "project_reg_no": "P51800011181",
+    "location": "Powai, Mumbai Suburban \u2013 400076",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "Land on which the project is being implemented, apartments that are already booked with other allottees should not be attached so that the project can be completed."
+    }
+  },
+  "primary_order": {
+    "order_date": "2020-02-18",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000192574",
+        "complainant_names": [
+          "Lovneesh Bansal"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": 1564597.0,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": "10.25% p. a."
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "full refund of the amount to the complainant by the respondent",
+              "from_date": "date of receipt of payment from complainant by respondent",
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "The respondent failed to complete construction and give possession as agreed. Complainant is entitled to refund of principal amount along with interest under Section 18 of RERA due to respondent's non-compliance.",
+            "source_page": 18
+          },
+          {
+            "relief_type": "compensation",
+            "granted": true,
+            "amount": {
+              "value": 10000.0,
+              "type": "cost",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "payment of cost to the complainant",
+              "from_date": null,
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Complainant is awarded Rs. 10,000/- towards the cost of the complaint.",
+            "source_page": 18
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 15
+  },
+  "supplementary_proceedings": [
+    {
+      "proceeding_type": "execution_application",
+      "date": "2023-07-04",
+      "complaint_no": "CC006000000192574",
+      "outcome": "allowed",
+      "reasoning": "The respondent failed to comply with the primary order to refund the amount and pay costs. The MahaRERA, having no alternative, is issuing individual recovery warrants under Section 40(1) of RERA read with Rule 3 of the Maharashtra Real Estate Rules, 2017. The respondent did not appear for the hearing despite due notice.",
+      "source_page": 12
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "OCR quality on some pages (e.g., 14-17) is degraded but legible upon manual cross-check. The primary order date is explicitly stated as 18th February 2020 on pages 3 and 8, despite '13 February 2020' appearing in a scanned header on page 15, so 2020-02-18 is used. OC status inferred from the note regarding ongoing project implementation and non-attachment of booked units. Only one complaint (CC006000000192574) is fully extracted, as per instructions, although the document lists 16 complaints."
+}

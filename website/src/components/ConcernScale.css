@@ -1,0 +1,62 @@
+.concern-scale {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.concern-scale__track {
+  position: relative;
+  height: 8px;
+  border-radius: 4px;
+  background: linear-gradient(
+    90deg,
+    var(--concern-clean) 0 25%,
+    var(--concern-minor) 25% 50%,
+    var(--concern-some) 50% 75%,
+    var(--concern-significant) 75% 100%
+  );
+}
+
+.concern-scale--compact .concern-scale__track {
+  height: 6px;
+}
+
+.concern-scale__marker {
+  position: absolute;
+  top: -6px;
+  width: 4px;
+  height: 20px;
+  border-radius: 2px;
+  background: var(--brand-text);
+  box-shadow: 0 0 0 2px var(--brand-bg, #fff);
+  transform: translateX(-2px);
+}
+
+.concern-scale--compact .concern-scale__marker {
+  top: -5px;
+  height: 16px;
+}
+
+.concern-scale__legend {
+  display: flex;
+  justify-content: space-between;
+  font-family: var(--font-body);
+  font-size: 12px;
+  color: var(--brand-text-secondary);
+}
+
+.concern-scale__label {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-body);
+  font-size: 13px;
+  color: var(--brand-text);
+}
+
+.concern-scale__dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}

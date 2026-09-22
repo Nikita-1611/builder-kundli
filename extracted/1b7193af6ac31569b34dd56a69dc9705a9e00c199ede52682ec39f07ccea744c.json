@@ -1,0 +1,59 @@
+{
+  "order_id": "1b7193af6ac31569b34dd56a69dc9705a9e00c199ede52682ec39f07ccea744c",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Dr. Vijay Satbir Singh",
+    "designation": "Member-1"
+  },
+  "respondents": [
+    {
+      "name": "M/s. Nirmal Lifestyle Kalyan Pvt Ltd",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Platano D",
+    "project_reg_no": "P51700005451",
+    "location": "Kalyan Dist Thane",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2019-07-22",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000078906",
+        "complainant_names": [
+          "Jessy Joy"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "penalty",
+              "recipient": "buyer",
+              "interest_rate_description": "Marginal Cost Lending Rate (MCLR) plus 2%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "There is admitted delay on the part of the respondent in handing over possession of the flat beyond the agreed date of 31-12-2016 with 6 months grace period (30-06-2017).",
+            "source_page": 2
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 2
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "medium",
+  "extraction_notes": "OCR had minor noise which was cross-checked with the image. Delay interest amount is based on actual payment made from 1st July 2017 till actual possession date at MCLR plus 2%, so settled value is null."
+}

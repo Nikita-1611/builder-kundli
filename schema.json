@@ -1,0 +1,279 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://builder-risk/schema/buyer-complaint-order.json",
+  "title": "MahaRERA Buyer-Complaint Order",
+  "description": "Extraction schema for MahaRERA orders disposing of buyer complaints (Section 12/13/14/18 etc.) — as opposed to suo-motu regulatory enforcement orders. One order can name one complainant or many clubbed together, and different complainants (or even different reliefs for the same complainant) can get different outcomes in the same order. A single PDF can also contain more than one proceeding for the same complaint filed on different dates (e.g. a final order followed by a later non-execution application) — those are captured as separate objects, not merged.",
+  "type": "object",
+  "required": [
+    "order_id",
+    "bench",
+    "case_type",
+    "complainant_count",
+    "coram",
+    "respondents",
+    "project",
+    "primary_order",
+    "supplementary_proceedings",
+    "extraction_confidence"
+  ],
+  "additionalProperties": false,
+  "definitions": {
+    "deadline": {
+      "type": "object",
+      "description": "A typed union so a deadline is never forced into a bare date. Recursive via 'earlier_of' to express compound conditions like 'OC received, or a fixed date, whichever is earlier'.",
+      "required": ["type"],
+      "additionalProperties": false,
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": ["fixed_date", "days_from_order", "days_from_notice", "ongoing_until_event", "earlier_of", "none"]
+        },
+        "date": { "type": ["string", "null"], "format": "date", "description": "Used with fixed_date." },
+        "days": { "type": ["integer", "null"], "description": "Used with days_from_order / days_from_notice." },
+        "event": {
+          "type": ["string", "null"],
+          "description": "The triggering or terminating event, e.g. 'receipt of notice of defect', 'date of possession', 'OC being received for the project'. Used with days_from_notice and ongoing_until_event — these may never resolve, which is the point of keeping them typed instead of coercing to a date."
+        },
+        "from_date": {
+          "type": ["string", "null"],
+          "format": "date",
+          "description": "Optional accrual start date, e.g. interest running 'from 1st January 2018 till the date of possession' — from_date captures the start, event captures the open-ended end."
+        },
+        "options": {
+          "type": ["array", "null"],
+          "items": { "$ref": "#/definitions/deadline" },
+          "description": "Used with earlier_of — the set of deadlines being compared, the earliest of which controls."
+        },
+        "installments": {
+          "type": ["object", "null"],
+          "additionalProperties": false,
+          "properties": {
+            "count": { "type": "integer" },
+            "frequency": { "type": "string", "enum": ["monthly", "quarterly", "one_time"] },
+            "note": { "type": ["string", "null"] }
+          },
+          "required": ["count", "frequency", "note"],
+          "description": "Set when payment is spread out once the deadline resolves, e.g. 'in 3 equal monthly instalments thereafter'."
+        }
+      }
+    },
+    "amount": {
+      "type": "object",
+      "description": "Never a bare number — always typed by who receives it and, where the order gives a rate rather than a settled figure, the rate description instead of a guessed total.",
+      "required": ["value", "type", "recipient", "interest_rate_description"],
+      "additionalProperties": false,
+      "properties": {
+        "value": {
+          "type": ["number", "null"],
+          "description": "The principal figure named in the order for this relief. Null if the order specifies a rate/formula but not a settled number, or if a combined figure across multiple units can't be safely split — leave null rather than guess."
+        },
+        "type": {
+          "type": "string",
+          "enum": ["refund_principal", "penalty", "compensation", "cost", "other"]
+        },
+        "recipient": {
+          "type": "string",
+          "enum": ["buyer", "government"]
+        },
+        "interest_rate_description": {
+          "type": ["string", "null"],
+          "description": "E.g. 'MCLR of SBI plus 2% per annum', '18% p.a.'. Kept as the order states it — never converted to a value, since that requires a computation this schema doesn't do."
+        }
+      }
+    },
+    "relief": {
+      "type": "object",
+      "description": "One relief sought by one complainant, and whether it was actually granted. A single complainant can have multiple relief entries with different outcomes (e.g. structural-defect relief granted, delay-interest relief denied, in the same order).",
+      "required": ["relief_type", "granted", "amount", "deadline", "validity_window", "reasoning", "source_page"],
+      "additionalProperties": false,
+      "properties": {
+        "relief_type": {
+          "type": "string",
+          "enum": [
+            "delay_interest",
+            "refund_of_consideration",
+            "structural_defect_rectification",
+            "agreement_for_sale_execution",
+            "compensation",
+            "possession_and_completion",
+            "cost",
+            "other"
+          ]
+        },
+        "granted": { "type": "boolean" },
+        "amount": {
+          "anyOf": [{ "$ref": "#/definitions/amount" }, { "type": "null" }]
+        },
+        "deadline": {
+          "anyOf": [{ "$ref": "#/definitions/deadline" }, { "type": "null" }]
+        },
+        "validity_window": {
+          "type": ["object", "null"],
+          "additionalProperties": false,
+          "properties": {
+            "years": { "type": "number" },
+            "from_event": { "type": "string" }
+          },
+          "required": ["years", "from_event"],
+          "description": "For obligations bounded by a duration rather than a single deadline, e.g. a defect-liability period of '5 years from date of handing over possession' within which the days_from_notice deadline applies."
+        },
+        "reasoning": {
+          "type": "string",
+          "description": "Short paraphrase of why this relief was granted or denied. Paraphrase, not verbatim — scoring never re-reads this."
+        },
+        "source_page": { "type": "integer" }
+      }
+    },
+    "complaint": {
+      "type": "object",
+      "required": ["complaint_no", "complainant_names", "reliefs"],
+      "additionalProperties": false,
+      "properties": {
+        "complaint_no": { "type": "string" },
+        "complainant_names": {
+          "type": "array",
+          "items": { "type": "string" },
+          "minItems": 1,
+          "description": "More than one name for a jointly-filed complaint (e.g. spouses)."
+        },
+        "reliefs": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/relief" },
+          "minItems": 1
+        }
+      }
+    }
+  },
+  "properties": {
+    "order_id": {
+      "type": "string",
+      "description": "Matches the source PDF filename without extension."
+    },
+    "bench": {
+      "type": "string",
+      "enum": ["Mumbai", "Pune", "Nagpur", "Nashik", "Aurangabad", "Amravati", "Konkan"]
+    },
+    "case_type": {
+      "type": "string",
+      "enum": ["single_complainant", "clubbed_complainants"]
+    },
+    "complainant_count": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "coram": {
+      "type": "object",
+      "required": ["name", "designation"],
+      "additionalProperties": false,
+      "properties": {
+        "name": { "type": "string" },
+        "designation": { "type": "string" }
+      }
+    },
+    "respondents": {
+      "type": "array",
+      "minItems": 1,
+      "description": "Array, not a single field — some projects have co-promoters named as separate respondents and held jointly liable.",
+      "items": {
+        "type": "object",
+        "required": ["name", "role"],
+        "additionalProperties": false,
+        "properties": {
+          "name": { "type": "string" },
+          "role": { "type": "string", "enum": ["promoter", "co-promoter"] }
+        }
+      }
+    },
+    "project": {
+      "type": "object",
+      "required": ["project_name", "project_reg_no", "location", "oc_status"],
+      "additionalProperties": false,
+      "properties": {
+        "project_name": { "type": ["string", "null"] },
+        "project_reg_no": { "type": ["string", "null"] },
+        "location": { "type": ["string", "null"] },
+        "oc_status": {
+          "type": "object",
+          "required": ["received", "date", "issuing_authority", "note"],
+          "additionalProperties": false,
+          "properties": {
+            "received": { "type": "boolean" },
+            "date": { "type": ["string", "null"], "format": "date" },
+            "issuing_authority": { "type": ["string", "null"] },
+            "note": {
+              "type": ["string", "null"],
+              "description": "E.g. 'part OC only, for buildings 1(A) & 2(B)' — OC is frequently partial, which matters for whether Section 18 delay claims still apply."
+            }
+          }
+        }
+      }
+    },
+    "primary_order": {
+      "type": "object",
+      "description": "The main order in this PDF — the FINAL ORDER section and the complaints it disposes of. Only this section is scored; the facts/roznama/submissions above it are kept only as reasoning context inside each relief.",
+      "required": ["order_date", "complaints", "order_level_penalty", "source_page"],
+      "additionalProperties": false,
+      "properties": {
+        "order_date": { "type": "string", "format": "date" },
+        "complaints": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/complaint" },
+          "minItems": 1
+        },
+        "order_level_penalty": {
+          "description": "A penalty imposed on the respondent generally (e.g. for a registration violation), not tied to any one complainant's relief.",
+          "anyOf": [
+            {
+              "type": "object",
+              "required": ["amount", "reason", "deadline", "source_page"],
+              "additionalProperties": false,
+              "properties": {
+                "amount": { "$ref": "#/definitions/amount" },
+                "reason": { "type": "string" },
+                "deadline": { "anyOf": [{ "$ref": "#/definitions/deadline" }, { "type": "null" }] },
+                "source_page": { "type": "integer" }
+              }
+            },
+            { "type": "null" }
+          ]
+        },
+        "source_page": {
+          "type": "integer",
+          "description": "Page where the 'FINAL ORDER' heading itself appears."
+        }
+      }
+    },
+    "supplementary_proceedings": {
+      "type": "array",
+      "description": "Later proceedings on the same complaint appearing in the same PDF — e.g. a non-execution application. Empty array, not omitted, when there are none.",
+      "items": {
+        "type": "object",
+        "required": ["proceeding_type", "date", "complaint_no", "outcome", "reasoning", "source_page"],
+        "additionalProperties": false,
+        "properties": {
+          "proceeding_type": {
+            "type": "string",
+            "enum": ["non_execution_application", "execution_application", "review", "appeal", "other"]
+          },
+          "date": { "type": "string", "format": "date" },
+          "complaint_no": { "type": "string" },
+          "outcome": {
+            "type": "string",
+            "enum": ["dismissed_want_of_prosecution", "allowed", "dismissed_other", "pending"]
+          },
+          "reasoning": { "type": "string" },
+          "source_page": { "type": "integer" }
+        }
+      }
+    },
+    "extraction_confidence": {
+      "type": "string",
+      "enum": ["high", "medium", "low"],
+      "description": "Applies to the whole order. A file with a degraded OCR layer but a legible scanned image should still be 'medium', not 'low' — 'low' is for genuine ambiguity in what the order says, not OCR noise that was cross-checked against the image."
+    },
+    "extraction_notes": {
+      "type": "string",
+      "description": "OCR quality, unresolved ambiguities (e.g. a combined multi-unit amount left null rather than guessed), or anything inferred rather than stated verbatim (e.g. an interest rate assumed from standard MahaRERA practice because the Final Order section didn't restate it)."
+    }
+  }
+}

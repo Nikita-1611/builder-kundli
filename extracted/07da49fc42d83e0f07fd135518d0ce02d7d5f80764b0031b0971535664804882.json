@@ -1,0 +1,54 @@
+{
+  "order_id": "07da49fc42d83e0f07fd135518d0ce02d7d5f80764b0031b0971535664804882",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Shri. Mahesh Pathak",
+    "designation": "Hon\u2019ble Member \u2013 I/MahaRERA"
+  },
+  "respondents": [
+    {
+      "name": "Veena Developers",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Veena Samrajya-Sector-VIII",
+    "project_reg_no": "P99000021726",
+    "location": "Palghar West",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2025-04-29",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000428934",
+        "complainant_names": [
+          "Amit Vijay Rane"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "possession_and_completion",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The matter has been amicably settled between the parties through the Conciliation Forum and consent terms/cancellation deed have been signed.",
+            "source_page": 4
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 4
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "The complaint is disposed of as settled based on consent terms and cancellation deed signed between the parties."
+}

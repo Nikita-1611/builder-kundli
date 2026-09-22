@@ -1,0 +1,87 @@
+{
+  "order_id": "1d3e3851f0b53b03034d2db8c2a92ce29c5a29398372f0bd728e0832ad42db46",
+  "bench": "Mumbai",
+  "case_type": "clubbed_complainants",
+  "complainant_count": 4,
+  "coram": {
+    "name": "Shri. Mahesh Pathak",
+    "designation": "Hon\u2019ble Member \u2013 I/MahaRERA"
+  },
+  "respondents": [
+    {
+      "name": "Sahyog Homes Limited",
+      "role": "promoter"
+    },
+    {
+      "name": "Sankalp Siddhi Developers Pvt. Limited",
+      "role": "co-promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Verona",
+    "project_reg_no": "P51800003040",
+    "location": "Village Andheri, District Mumbai",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "Project is incomplete and under construction."
+    }
+  },
+  "primary_order": {
+    "order_date": "2023-03-03",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000198876",
+        "complainant_names": [
+          "Ramawatar Sharma",
+          "Chandrakala Sharma"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "Marginal Cost of funds based Lending Rate (MCLR) of SBI plus 2%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Promoter failed to deliver possession by the agreed date; complainants are entitled to interest for delayed possession under section 18 of RERA after accounting for a 6-month extension under MOFA.",
+            "source_page": 15
+          }
+        ]
+      },
+      {
+        "complaint_no": "CC006000000198995",
+        "complainant_names": [
+          "Santosh Kumar Jain",
+          "Hemalata Santoshkumar Jain"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "Marginal Cost of funds based Lending Rate (MCLR) of SBI plus 2%"
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Promoter failed to deliver possession by the agreed date; complainants are entitled to interest for delayed possession under section 18 of RERA after accounting for a 6-month extension under MOFA.",
+            "source_page": 15
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 15
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "The order clubbed two complaints (CC006000000198876 and CC006000000198995) regarding separate flats (Flat No. 2504 & 2404). Since the exact calculated interest value per flat was not numerically quantified as a lump sum in the final order, the amount value is left null with the specific statutory rate described."
+}

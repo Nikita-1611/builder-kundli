@@ -1,0 +1,48 @@
+/*
+  Every color, font, spacing and radius value for the site lives here.
+  Nothing else in the codebase should hardcode a hex value, px size, or
+  font stack -- restyle by editing this one file.
+*/
+:root {
+  /* Colors -- flat and neutral on purpose, restyle later */
+  --color-bg: #f7f7f5;
+  --color-surface: #ffffff;
+  --color-border: #e0e0dc;
+  --color-text: #1a1a18;
+  --color-text-muted: #6b6b66;
+  --color-accent: #1a1a18;
+  --color-accent-contrast: #ffffff;
+  --color-adverse: #8a3b2b;
+  --color-adverse-bg: #fbeeeb;
+  --color-neutral-bg: #eeeeec;
+  --color-focus-ring: #2b6ef2;
+
+  /* Typography */
+  --font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-size-sm: 0.875rem;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.25rem;
+  --font-size-xl: 1.75rem;
+  --font-size-xxl: 2.25rem;
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-bold: 700;
+  --line-height-base: 1.5;
+
+  /* Spacing scale */
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2.5rem;
+  --space-xxl: 4rem;
+
+  /* Shape */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-pill: 999px;
+  --border-width: 1px;
+
+  /* Layout */
+  --content-max-width: 640px;
+}

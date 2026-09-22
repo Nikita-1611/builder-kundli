@@ -1,0 +1,76 @@
+{
+  "order_id": "1f96ab63e913a192224b41391a8063af870a61d5da25657275a55ff1e868356d",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Dr. Vasant Prabhu",
+    "designation": "Secretary, MahaRERA"
+  },
+  "respondents": [
+    {
+      "name": "Vidhi Realtors",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": null,
+    "project_reg_no": "P51800007949",
+    "location": null,
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2019-12-27",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000100488",
+        "complainant_names": [
+          "Meghana L Tolani"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": 4574191.0,
+              "type": "other",
+              "recipient": "buyer",
+              "interest_rate_description": "as prescribed under the provisions of Section 18 of the RERA"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "handover of possession of their booked flat",
+              "from_date": "2017-07-01",
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "Respondent directed to pay interest for delayed possession under Section 18 of RERA.",
+            "source_page": 1
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [
+    {
+      "proceeding_type": "non_execution_application",
+      "date": "2023-08-30",
+      "complaint_no": "CC006000000100488",
+      "outcome": "allowed",
+      "reasoning": "Respondent failed to comply with the order dated 27-12-2019 and subsequent hearing directions, leading to the issuance of a recovery warrant under Section 40(1) of RERA.",
+      "source_page": 2
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "The PDF is a non-compliance/execution order dated 30-08-2023 for a prior final order dated 27-12-2019. The primary order section captures the original relief granted in 2019, while the supplementary proceedings capture the execution/recovery action taken on 30-08-2023."
+}

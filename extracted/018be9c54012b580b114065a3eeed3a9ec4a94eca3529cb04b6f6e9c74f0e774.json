@@ -1,0 +1,55 @@
+{
+  "order_id": "018be9c54012b580b114065a3eeed3a9ec4a94eca3529cb04b6f6e9c74f0e774",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Shri. Ajoy Mehta",
+    "designation": "Chairperson, MahaRERA"
+  },
+  "respondents": [
+    {
+      "name": "NIRMAL LIFESTYLE KALYAN PVT LTD",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Nirmal Lifestyle Kalyan",
+    "project_reg_no": "P51700003554",
+    "location": null,
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2022-10-11",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000194941",
+        "complainant_names": [
+          "VISHAL SURESH WAYAL",
+          "SONI VISHAL WAYAL"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "other",
+            "granted": false,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The complainant was absent for the hearing. The respondent informed the Authority that the matter has been settled through conciliation and the conciliation is on record. The complaint is thus disposed.",
+            "source_page": 1
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "Project name 'Nirmal Lifestyle Kalyan' inferred from the respondent's name. The matter was disposed due to conciliation between parties, with no specific relief granted by the Authority in this order."
+}

@@ -1,0 +1,60 @@
+{
+  "order_id": "1bac0daa5d81ff041c7f2b5eac16b7a14541b7926e7eab72d361c947a8c38c8b",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 2,
+  "coram": {
+    "name": "Dr. Vijay Satbir Singh",
+    "designation": "Member - 1"
+  },
+  "respondents": [
+    {
+      "name": "M/s. Nirmal Developers",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Olympia C",
+    "project_reg_no": "P51800012383",
+    "location": "Mulund (West), Mumbai",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": null
+    }
+  },
+  "primary_order": {
+    "order_date": "2018-10-15",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000055455",
+        "complainant_names": [
+          "Mr. Binu Nair",
+          "Mrs. Sumtha Nair"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "refund_of_consideration",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "refund_principal",
+              "recipient": "buyer",
+              "interest_rate_description": null
+            },
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "Both parties settled the matter amicably and filed a notarized copy of consent terms, leading to the complaint being withdrawn as disposed of.",
+            "source_page": 1
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "Complaint was withdrawn as settled between the parties via consent terms."
+}

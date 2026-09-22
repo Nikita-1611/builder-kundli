@@ -1,0 +1,67 @@
+{
+  "order_id": "0435e191615395b1ef04a356bb64779f25428d27a655e3b454ba2c979bae469f",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Dr. Vijay Satbir Singh",
+    "designation": "Member - 1/MahaRERA"
+  },
+  "respondents": [
+    {
+      "name": "Nirmal Lifestyle Ltd",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Turquoise",
+    "project_reg_no": "P518000003188",
+    "location": null,
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "Project is nearing completion."
+    }
+  },
+  "primary_order": {
+    "order_date": "2019-08-06",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000078380",
+        "complainant_names": [
+          "Smita Bhikaji Kaskar"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": {
+              "value": null,
+              "type": "compensation",
+              "recipient": "buyer",
+              "interest_rate_description": "MCLR + 2%"
+            },
+            "deadline": {
+              "type": "ongoing_until_event",
+              "date": null,
+              "days": null,
+              "event": "actual date of possession",
+              "from_date": "2018-03-01",
+              "options": null,
+              "installments": null
+            },
+            "validity_window": null,
+            "reasoning": "There is a delay in handing over possession as per the registered agreement for sale. The respondent has not mentioned sufficient reason for the delay. Allottees are entitled to seek interest for delayed possession under Section 18 of the RERA Act.",
+            "source_page": 3
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 3
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "The complaint requests interest for delayed possession under Section 18. The order directs payment of interest from 1st March 2018 till the actual date of possession at MCLR + 2%, which is to be adjusted against outstanding dues at the time of possession."
+}

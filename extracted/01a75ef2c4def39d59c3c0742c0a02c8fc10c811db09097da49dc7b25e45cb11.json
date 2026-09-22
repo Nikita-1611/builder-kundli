@@ -1,0 +1,54 @@
+{
+  "order_id": "01a75ef2c4def39d59c3c0742c0a02c8fc10c811db09097da49dc7b25e45cb11",
+  "bench": "Mumbai",
+  "case_type": "single_complainant",
+  "complainant_count": 1,
+  "coram": {
+    "name": "Dr. Vijay Satbir Singh",
+    "designation": "Member 1"
+  },
+  "respondents": [
+    {
+      "name": "M/s Nirmal Lifestyle (Kalyan) Private Limited",
+      "role": "promoter"
+    }
+  ],
+  "project": {
+    "project_name": "Platano C",
+    "project_reg_no": "P51700006766",
+    "location": "Kalyan",
+    "oc_status": {
+      "received": false,
+      "date": null,
+      "issuing_authority": null,
+      "note": "OC status is not mentioned in the order."
+    }
+  },
+  "primary_order": {
+    "order_date": "2018-02-01",
+    "complaints": [
+      {
+        "complaint_no": "CC006000000000829",
+        "complainant_names": [
+          "Mr. Suryaprakash Sharma"
+        ],
+        "reliefs": [
+          {
+            "relief_type": "delay_interest",
+            "granted": true,
+            "amount": null,
+            "deadline": null,
+            "validity_window": null,
+            "reasoning": "The complainant sought directions for the respondent to pay interest for delayed possession. Both parties settled the matter amicably and filed consent terms on record, which were taken on record. The complaint stands disposed of due to this settlement.",
+            "source_page": 1
+          }
+        ]
+      }
+    ],
+    "order_level_penalty": null,
+    "source_page": 1
+  },
+  "supplementary_proceedings": [],
+  "extraction_confidence": "high",
+  "extraction_notes": "The order states that the parties settled amicably and filed consent terms, leading to the disposal of the complaint. However, the specific financial terms (amount of interest or deadline for payment) of this settlement are not detailed in the order, hence 'amount' and 'deadline' for the relief are null."
+}
