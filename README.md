@@ -28,7 +28,7 @@ It reads the actual MahaRERA orders instead of counting them, and shows a buyer:
 - **A 0 to 10 concern score**, with the full working shown
 - **A link to the source order** for every finding, so anyone can verify it
 
-The current dataset covers 26 builders, 1,607 recovery warrants and 96 orders read in full.
+MahaRERA's statewide warrant registry has 1,607 recovery warrants in total. Of the 26 builders tracked so far, 477 of those warrants and 73 fully-read orders belong to them.
 
 ## How it works
 
@@ -62,8 +62,8 @@ Full details are in [ARCHITECTURE.md](ARCHITECTURE.md).
 ## Limitations
 
 - **Maharashtra only.** Each state's RERA publishes data differently.
-- **Up to 5 orders read per builder**, newest first, to stay within free API limits.
-- **Some builders have warrants but no readable orders.** MahaRERA's site blocked retrieval for a few; their pages say so.
+- **Order coverage per builder is uneven, not capped.** New extraction runs are limited to 5 orders per builder to stay within free API limits, but several builders already have more from before that cap existed (up to 21 for one builder) — so counts vary widely, not a fixed 5.
+- **10 of the 26 tracked builders have warrants but no readable orders yet.** For 3 of them, MahaRERA's own site actively blocks PDF retrieval (see `ARCHITECTURE.md`, Stage 2). The other 7 are just waiting on the next extraction run — limited by the free Gemini tier's daily quota, not blocked.
 - **Warrant execution isn't published.** MahaRERA shows that a warrant was issued, not whether the money was later recovered.
 - **Clean builders were added by hand**, after confirming they have no recovery warrants on record.
 
@@ -73,7 +73,7 @@ Full details are in [ARCHITECTURE.md](ARCHITECTURE.md).
 # Pipeline (needs GEMINI_API_KEY in .env)
 python scripts/scrape_warrants.py
 python scripts/collect_orders.py
-python scripts/extract_batch.py
+python scripts/extract.py       # defaults to a capped, per-builder selection
 python scripts/score.py
 python scripts/build.py
 
