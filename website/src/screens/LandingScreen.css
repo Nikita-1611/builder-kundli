@@ -123,14 +123,31 @@
 }
 
 .landing-nav__mark {
-  width: 26px;
-  height: 26px;
-  border-radius: 6px;
-  background: var(--brand-green);
+  width: 28px;
+  height: 28px;
+  flex-shrink: 0;
+  display: block;
 }
 
 .landing-nav__name {
-  font-weight: 600;
+  font-family: var(--font-heading);
+  font-size: 19px;
+  font-weight: 500;
+  line-height: 1;
+}
+
+.landing-nav__tagline {
+  display: none;
+  font-size: 13px;
+  color: var(--brand-text-secondary);
+  padding-left: 10px;
+  border-left: 1px solid var(--brand-border);
+}
+
+@media (min-width: 900px) {
+  .landing-nav__tagline {
+    display: inline;
+  }
 }
 
 .landing-nav__links {

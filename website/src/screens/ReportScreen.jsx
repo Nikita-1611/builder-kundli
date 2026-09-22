@@ -579,7 +579,7 @@ const QUESTION_POOL = [
 function ShareCard({ builder }) {
   const [copied, setCopied] = useState(false);
   const level = concernLevel(builder.score);
-  const shareText = `${builder.builder_name} on MahaRERA: ${level.label.toLowerCase()}. ${window.location.href}`;
+  const shareText = `${builder.builder_name} on MahaRERA: ${level.label.toLowerCase()}. Full record on Builder Kundli: ${window.location.href}`;
 
   async function handleCopyLink() {
     try {

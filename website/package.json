@@ -8,6 +8,7 @@
     "check-consistency": "node scripts/check-consistency.mjs",
     "dev": "npm run sync-data && vite",
     "build": "npm run sync-data && npm run check-consistency && vite build",
+    "vercel-build": "npm run check-consistency && vite build",
     "lint": "oxlint",
     "preview": "vite preview"
   },

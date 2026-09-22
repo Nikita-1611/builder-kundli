@@ -310,8 +310,16 @@ export default function LandingScreen() {
     <div className="landing">
       <header className="landing-nav">
         <div className="landing-nav__brand">
-          <span className="landing-nav__mark" />
-          <span className="landing-nav__name">Builder Risk Check</span>
+          <svg className="landing-nav__mark" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <rect width="64" height="64" rx="14" fill="#0f5245" />
+            <path d="M32 14L41 23L32 32L23 23Z" fill="#E8B45A" />
+            <g fill="none" stroke="#fff" strokeWidth="3" strokeLinejoin="round">
+              <rect x="14" y="14" width="36" height="36" />
+              <path d="M14 14L50 50M50 14L14 50M32 14L50 32L32 50L14 32Z" />
+            </g>
+          </svg>
+          <span className="landing-nav__name">Builder Kundli</span>
+          <span className="landing-nav__tagline">Not stars. MahaRERA records.</span>
         </div>
         <nav className="landing-nav__links">
           <a href="#how">How it works</a>
@@ -728,7 +736,7 @@ export default function LandingScreen() {
 
       <footer className="landing-footer">
         <div className="landing-footer__about">
-          <span className="landing-footer__name">Builder Risk Check</span>
+          <span className="landing-footer__name">Builder Kundli</span>
           <span>Flags things worth asking about. Not legal or investment advice. Maharashtra only. Data from public MahaRERA records.</span>
         </div>
         <div className="landing-footer__links">
