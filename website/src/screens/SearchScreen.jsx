@@ -106,7 +106,11 @@ export default function SearchScreen() {
           </div>
         )}
 
-        <p className="muted search-screen__scope-note">This prototype currently covers 19 builders in Maharashtra.</p>
+        {index && (
+          <p className="muted search-screen__scope-note">
+            This prototype currently covers {searchableIndex.length} builders in Maharashtra with a readable order.
+          </p>
+        )}
       </div>
     </div>
   );

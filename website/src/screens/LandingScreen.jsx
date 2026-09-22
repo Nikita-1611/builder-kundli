@@ -3,6 +3,7 @@ import { Link, useNavigate } from "react-router-dom";
 import { FileCheck, Eye, Info } from "lucide-react";
 import { fetchBuilderIndex, fetchBuilder } from "../lib/builders";
 import { fetchDistricts } from "../lib/districts";
+import { fetchStats } from "../lib/stats";
 import { suggestBuilders, findExactMatch } from "../lib/search";
 import { summarizeCategories } from "../lib/categories";
 import { verdictHeadline, verdictSubline } from "../lib/verdict";
@@ -13,18 +14,7 @@ import ConcernScale from "../components/ConcernScale";
 import MaharashtraMap from "../components/MaharashtraMap";
 import "./LandingScreen.css";
 
-const MAP_SOURCE = "MahaRERA warrant register, 20 July 2026";
 const DEFAULT_DISTRICT = "Mumbai";
-
-// Hardcoded because it's a registry-wide total, not something derivable
-// from the ~25 builders in this dataset -- see the citation next to it.
-const STATS = {
-  warrants: "1,595",
-  projects: "593",
-  amount: "₹1,161 cr",
-};
-const STATS_SOURCE =
-  "Source: MahaRERA warrant register, updated 20 July 2026. A warrant means the buyer won and the builder didn't pay.";
 
 // The builder whose record anchors the hero preview card -- highest score
 // in the dataset, so a first-time visitor immediately sees what a full
@@ -200,6 +190,7 @@ export default function LandingScreen() {
   const [openFaq, setOpenFaq] = useState(null);
   const [districts, setDistricts] = useState(null);
   const [selectedDistrict, setSelectedDistrict] = useState(DEFAULT_DISTRICT);
+  const [stats, setStats] = useState(null);
 
   useEffect(() => {
     let cancelled = false;
@@ -223,6 +214,16 @@ export default function LandingScreen() {
     let cancelled = false;
     fetchDistricts().then((data) => {
       if (!cancelled) setDistricts(data.districts);
+    });
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
+  useEffect(() => {
+    let cancelled = false;
+    fetchStats().then((data) => {
+      if (!cancelled) setStats(data);
     });
     return () => {
       cancelled = true;
@@ -430,18 +431,21 @@ export default function LandingScreen() {
 
       <section className="stats">
         <div className="stat">
-          <span className="stat__value">{STATS.warrants}</span>
+          <span className="stat__value">{stats ? stats.warrants.toLocaleString("en-US") : "…"}</span>
           <span className="stat__label">recovery warrants issued</span>
         </div>
         <div className="stat">
-          <span className="stat__value">{STATS.projects}</span>
+          <span className="stat__value">{stats ? stats.projects.toLocaleString("en-US") : "…"}</span>
           <span className="stat__label">projects with a warrant</span>
         </div>
         <div className="stat">
-          <span className="stat__value">{STATS.amount}</span>
+          <span className="stat__value">{stats ? `₹${stats.amount_cr.toLocaleString("en-US")} cr` : "…"}</span>
           <span className="stat__label">under recovery warrants</span>
         </div>
-        <p className="stats__source">{STATS_SOURCE}</p>
+        <p className="stats__source">
+          Source: MahaRERA warrant register{stats?.scrape_date ? `, updated ${stats.scrape_date}` : ""}. A warrant
+          means the buyer won and the builder didn&#39;t pay.
+        </p>
       </section>
 
       <section className="district-map">
@@ -471,7 +475,9 @@ export default function LandingScreen() {
             <p className="muted district-map__note">
               &ldquo;Mumbai&rdquo; on this map combines Mumbai City and Mumbai Suburban.
             </p>
-            <p className="mono district-map__source">Source: {MAP_SOURCE}.</p>
+            <p className="mono district-map__source">
+              Source: MahaRERA warrant register{stats?.scrape_date ? `, ${stats.scrape_date}` : ""}.
+            </p>
           </div>
 
           <div className="district-map__panel">

@@ -28,7 +28,9 @@ const DEST_DIR = join(__dirname, "..", "public", "builders");
 const ORDERS_SOURCE_DIR = join(__dirname, "..", "..", "orders");
 const ORDERS_DEST_DIR = join(__dirname, "..", "public", "orders");
 const WARRANTS_SOURCE = join(__dirname, "..", "..", "raw", "warrants.json");
+const RAW_HTML_DIR = join(__dirname, "..", "..", "raw_html", "warrants");
 const DEST_DISTRICTS = join(__dirname, "..", "public", "districts.json");
+const DEST_STATS = join(__dirname, "..", "public", "stats.json");
 
 rmSync(DEST_DIR, { recursive: true, force: true });
 mkdirSync(DEST_DIR, { recursive: true });
@@ -136,9 +138,15 @@ for (const warrant of warrants) {
     id: matchedId,
     count: 0,
     amount: 0,
+    // Distinct project_no's THIS builder has a warrant on IN THIS DISTRICT
+    // -- a builder's total project_count (builders/*.json) is a single
+    // state-wide number and was wrongly being repeated on every district
+    // row on the report page; this is the per-district slice of it.
+    projects: new Set(),
   };
   respondent.count += 1;
   respondent.amount += warrant.amount;
+  respondent.projects.add(warrant.project_no);
   entry.respondents.set(key, respondent);
 }
 
@@ -152,9 +160,41 @@ for (const [districtName, entry] of districts) {
     // everyone, not just a fixed top N.
     builders: [...entry.respondents.values()]
       .sort((a, b) => b.count - a.count)
-      .map(({ name, id, count }) => ({ name, id, count })),
+      .map(({ name, id, count, projects }) => ({ name, id, count, project_count: projects.size })),
   };
 }
 
 writeFileSync(join(DEST_DISTRICTS), JSON.stringify({ districts: districtsOutput }, null, 2));
 console.log(`Wrote ${Object.keys(districtsOutput).length} districts -> public/districts.json`);
+
+// Homepage stats strip (warrants / projects / amount) -- computed here from
+// the same raw/warrants.json the pipeline and README/ARCHITECTURE.md cite,
+// instead of a hand-typed constant in LandingScreen.jsx that quietly drifted
+// out of sync with the real registry total (1,595 vs the actual 1,607).
+// "One source" means this file, not a number retyped in three places.
+let scrapeDate = null;
+try {
+  const htmlFiles = readdirSync(RAW_HTML_DIR).filter((f) => f.endsWith(".html"));
+  const match = htmlFiles[0]?.match(/(\d{4})(\d{2})(\d{2})T\d{6}Z/);
+  if (match) {
+    const [, y, m, d] = match;
+    scrapeDate = new Date(Date.UTC(+y, +m - 1, +d)).toLocaleDateString("en-GB", {
+      day: "numeric",
+      month: "long",
+      year: "numeric",
+    });
+  }
+} catch {
+  // raw_html/ is gitignored -- fine if it's not there, the date just stays unknown
+}
+
+const totalAmountRupees = warrants.reduce((sum, w) => sum + w.amount, 0);
+const totalProjects = new Set(warrants.map((w) => w.project_no)).size;
+const stats = {
+  warrants: warrants.length,
+  projects: totalProjects,
+  amount_cr: Math.round(totalAmountRupees / 1e7),
+  scrape_date: scrapeDate,
+};
+writeFileSync(DEST_STATS, JSON.stringify(stats, null, 2));
+console.log(`Wrote homepage stats -> public/stats.json (${stats.warrants} warrants, ${stats.projects} projects, ₹${stats.amount_cr} cr)`);

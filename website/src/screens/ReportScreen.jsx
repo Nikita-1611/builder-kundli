@@ -210,6 +210,12 @@ function OutcomeSection({ builder }) {
   // reason -- see the conversation this fixed.
   const stats = builderBuyerStats(builder);
   const orderedAmount = sumOrderedAmount(orders);
+  // formatCr rounds to 2 decimals (nearest ₹1 lakh) -- a handful of granted
+  // reliefs with a real but tiny stated amount (e.g. one ₹20,000 legal cost
+  // among 70+ reliefs whose amount was never stated in the order) would
+  // otherwise round down to a misleading "₹0.00 cr", reading as "buyers got
+  // nothing" instead of "most amounts aren't in the text we read".
+  const orderedAmountKnown = orderedAmount > 0 && formatCr(orderedAmount) !== "₹0.00 cr";
 
   return (
     <section className="report-block">
@@ -227,7 +233,9 @@ function OutcomeSection({ builder }) {
         {orderedAmount > 0 && (
           <div className="outcome-box">
             <span className="muted">Ordered to pay</span>
-            <span className="outcome-box__value">{formatCr(orderedAmount)}</span>
+            <span className={`outcome-box__value ${orderedAmountKnown ? "" : "outcome-box__value--unknown"}`}>
+              {orderedAmountKnown ? formatCr(orderedAmount) : "Amount not stated in the orders we read"}
+            </span>
             <span className="muted">refunds, interest and compensation</span>
           </div>
         )}
@@ -247,7 +255,7 @@ function OutcomeSection({ builder }) {
 
 // ---------- districts ----------
 
-function DistrictSection({ builder, districtRows }) {
+function DistrictSection({ districtRows }) {
   if (districtRows.length === 0) return null;
   const max = Math.max(...districtRows.map((row) => row.count));
 
@@ -267,7 +275,7 @@ function DistrictSection({ builder, districtRows }) {
         {districtRows.map((row) => (
           <div key={row.district} className="district-row">
             <span className="district-row__name">{row.district}</span>
-            <span className="mono">{builder.project_count}</span>
+            <span className="mono">{row.projectCount}</span>
             <span className="mono">{row.count}</span>
             <span className="district-row__track">
               <span className="district-row__fill" style={{ width: `${(row.count / max) * 100}%` }} />
@@ -693,7 +701,7 @@ export default function ReportScreen() {
           <VerdictCard builder={builder} />
           <CategorySection builder={builder} categories={categories} />
           <OutcomeSection builder={builder} />
-          <DistrictSection builder={builder} districtRows={districtRows} />
+          <DistrictSection districtRows={districtRows} />
           <OrdersSection builder={builder} />
           <CalculationSection builder={builder} />
           <CheckItYourselfSection builder={builder} />
