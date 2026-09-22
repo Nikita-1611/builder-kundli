@@ -6,7 +6,11 @@ Check a Maharashtra builder's track record before you book a flat.
 
 **Live:** https://builder-kundli.vercel.app/
 
-<!-- Add a screenshot of a builder report here -->
+
+
+https://github.com/user-attachments/assets/baac7e7b-a457-499d-b279-f176d36d589c
+
+
 
 ---
 
