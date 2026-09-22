@@ -1,28 +1,92 @@
 # Builder Kundli
 
-Not stars. MahaRERA records.
+**Not stars. MahaRERA records.**
 
-**Live:** [paste your Vercel URL]
+Check a Maharashtra builder's track record before you book a flat.
 
-## What it solves
+**Live:** https://builder-kundli.vercel.app/
 
-Other builder-check tools just count complaints filed against a real estate developer. Builder Kundli reads the actual MahaRERA order PDFs — what a buyer complained about, what the authority ordered, and whether the builder actually paid — so a buyer can see the real outcome, not just a raw complaint tally. Maharashtra (MahaRERA) only, for now.
+<!-- Add a screenshot of a builder report here -->
+
+---
+
+## The problem
+
+Buying an under-construction flat means paying lakhs to a builder years before you get the keys. The one thing you can't easily check is whether that builder has let buyers down before.
+
+MahaRERA publishes the records, but only as counts. A builder page might say "9 complaints, 7 disposed." That number hides the answer that matters. Nine small issues that were fixed and nine buyers who won their case and never got paid look exactly the same.
+
+And "disposed" doesn't mean paid. MahaRERA marks a case closed when it passes an order, not when the buyer gets their money. When a builder ignores an order, MahaRERA issues a recovery warrant. Only around a third of those warrants have actually been executed.
+
+## What Builder Kundli does
+
+It reads the actual MahaRERA orders instead of counting them, and shows a buyer:
+
+- **What buyers complained about**, in plain language
+- **What MahaRERA ordered**, and who it ruled for
+- **Whether the builder paid**, or whether MahaRERA had to issue a recovery warrant
+- **A 0 to 10 concern score**, with the full working shown
+- **A link to the source order** for every finding, so anyone can verify it
+
+The current dataset covers 26 builders, 1,607 recovery warrants and 96 orders read in full.
 
 ## How it works
 
-A batch pipeline, run ahead of time, not live:
+A batch pipeline that runs ahead of time. Nothing is scraped or generated when a visitor uses the site.
 
-1. **Scrape** — MahaRERA's recovery warrant registry → `raw/warrants.json`
-2. **Collect** — download the underlying order PDFs → `orders/`
-3. **Extract** — Gemini reads each order PDF into structured JSON (who asked, what was granted/denied, why) → `extracted/`
-4. **Score** — plain Python, no AI: points from warrants and orders → `scored/`
-5. **Load** — `scored/*.json` into a SQLite database (`builder_risk.db`); every buyer/warrant count the site shows comes from a SQL query here, not a hand-rolled recount in the app
-6. **Build** — resolve builder name variants, compute the 0–10 score, write one JSON per builder → `builders/`, synced into the website
+| Stage | What it does | Output |
+|---|---|---|
+| 1. Scrape | Pulls MahaRERA's recovery warrant registry | `raw/warrants.json` |
+| 2. Collect | Downloads the order PDFs behind each warrant | `orders/` |
+| 3. Extract | Gemini reads each order into a fixed JSON schema | `extracted/` |
+| 4. Score | Plain Python assigns points to warrants and orders | `scored/` |
+| 5. Load | Everything goes into SQLite; all counts come from SQL | `builder_risk.db` |
+| 6. Build | Resolves builder name variants, computes scores, writes one file per builder | `builders/` |
 
-The website (`website/`) only ever reads those per-builder JSON files — no backend, no live scraping.
+The website in `website/` only reads the per-builder JSON files. There is no backend and no API key on the live site.
 
-See [ARCHITECTURE.md](ARCHITECTURE.md) for the full pipeline, schema, and design decisions.
+Full details are in [ARCHITECTURE.md](ARCHITECTURE.md).
 
-## Tech
+## Key decisions
 
-Python · Gemini · SQLite · React · Vite · Vercel
+**AI is used in one place only.** Gemini extracts facts from legal PDFs. Scoring and counting are plain code, so the same data always produces the same score, and every point can be explained.
+
+**Schema-validated extraction.** Every extracted order is checked against `schema.json`. Output that doesn't fit is rejected rather than guessed at.
+
+**Buyers are counted once.** One buyer can win several things in a single order. All buyer counts use `COUNT(DISTINCT complaint_no)` in SQL, so the report and category pages always agree.
+
+**No fuzzy name matching.** Builders appear under many spellings. Fuzzy matching wrongly attached other companies' records to the wrong builder, so name variants are matched by normalisation and a reviewed alias list instead.
+
+**"Not decided" is not "builder won".** Many dismissed complaints were never ruled on: filed too early, paused by insolvency proceedings, or settled. These are labelled separately from cases MahaRERA actually decided for the builder.
+
+## Limitations
+
+- **Maharashtra only.** Each state's RERA publishes data differently.
+- **Up to 5 orders read per builder**, newest first, to stay within free API limits.
+- **Some builders have warrants but no readable orders.** MahaRERA's site blocked retrieval for a few; their pages say so.
+- **Warrant execution isn't published.** MahaRERA shows that a warrant was issued, not whether the money was later recovered.
+- **Clean builders were added by hand**, after confirming they have no recovery warrants on record.
+
+## Run it locally
+
+```bash
+# Pipeline (needs GEMINI_API_KEY in .env)
+python scripts/scrape_warrants.py
+python scripts/collect_orders.py
+python scripts/extract_batch.py
+python scripts/score.py
+python scripts/build.py
+
+# Website
+cd website
+npm install
+npm run dev
+```
+
+## Stack
+
+Python · Gemini API · SQLite · React · Vite · Vercel
+
+## Disclaimer
+
+Builder Kundli shows what MahaRERA's own public records say. It is not legal or financial advice, and it doesn't tell anyone whether to buy. Every finding links to its source so it can be checked independently.
