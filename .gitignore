@@ -7,3 +7,4 @@ builder_risk.db
 scored/
 collect_orders_log*.txt
 project-context.md
+__pycache__/
