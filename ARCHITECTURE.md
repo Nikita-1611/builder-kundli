@@ -1,4 +1,4 @@
-# Architecture — Builder Risk Report
+# Architecture — Builder Kundli
 
 Batch pipeline. Runs once on a laptop. No backend, no database, no login.
 Output: one JSON file per builder (19 currently). Website only reads files.
