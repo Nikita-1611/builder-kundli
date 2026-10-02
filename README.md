@@ -84,6 +84,24 @@ Full results and method are in [EVALS.md](EVALS.md).
 - **Clean builders were added by hand**, after confirming they have no recovery warrants on record.
 - **Director-named orders can go uncounted.** When an order lists a director ahead of the company, it isn't matched to the builder (3 JVPD orders confirmed). Found by the evals, not yet fixed.
 
+## Go-to-market
+
+**For:** families buying under-construction flats in Mumbai and Pune — ₹50L–3Cr, usually on a home loan.
+
+**How they'd find it:** each builder has its own URL, so pages can be indexed for searches like "is [builder] safe" (needs server rendering, not built yet); a WhatsApp share card, because property decisions here are family decisions; homebuyer groups on Reddit and WhatsApp.
+
+**Pricing:** free for buyers. A paid API for portals and lenders later.
+
+**North star:** source-backed reads — one visit where someone found their builder, read the report, and opened the original order. Supporting: search success rate, scroll depth, shares, source-order CTR. Counter-metric: disputed findings, since this publishes adverse things about named companies.
+
+## Roadmap
+
+**Now** — read the orders still pending; fix the open bug where a director's name is read as the builder.
+
+**Next** — every Maharashtra builder, auto-updated, with alerts when a record changes.
+
+**Later** — paid partner API, then other states.
+
 ## Run it locally
 
 ```bash
