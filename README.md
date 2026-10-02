@@ -63,6 +63,18 @@ Full details are in [ARCHITECTURE.md](ARCHITECTURE.md).
 
 **"Not decided" is not "builder won".** Many dismissed complaints were never ruled on: filed too early, paused by insolvency proceedings, or settled. These are labelled separately from cases MahaRERA actually decided for the builder.
 
+**No hand-typed numbers on the site.** Homepage stats (warrants, projects, amount) are computed from `raw/warrants.json` at build time into `public/stats.json`, the same source this README cites. When orders don't state an amount, the report says "Amount not stated in the orders we read" instead of showing a misleading ₹0.00.
+
+## How it's checked
+
+Full results and method are in [EVALS.md](EVALS.md).
+
+| Check | What it tests | Result |
+|---|---|---|
+| Grounding (`evals/grounding_check.py`) | Does every complaint number, date and amount Gemini extracted appear in the source PDF text? | Amounts 82.9%, complaint numbers 57.4%, dates 39.5% traceable. A lower bound: 11 PDFs are scans with no text layer, and many others have heavy OCR noise. |
+| Human review (`evals/sample_for_human_review.py`) | 15 orders across 15 builders, to check by hand against the PDF | Sample ready in `evals/human_review_sample.csv` |
+| Site invariants (`website/scripts/check-invariants.mjs`) | Counts agree across pages; district totals never exceed builder totals; the ₹0.00 guard is still in place | Runs on every build. Passing. |
+
 ## Limitations
 
 - **Maharashtra only.** Each state's RERA publishes data differently.
@@ -70,6 +82,7 @@ Full details are in [ARCHITECTURE.md](ARCHITECTURE.md).
 - **10 of the 26 tracked builders have warrants but no readable orders yet.** For 3 of them, MahaRERA's own site actively blocks PDF retrieval (see `ARCHITECTURE.md`, Stage 2). The other 7 are just waiting on the next extraction run — limited by the free Gemini tier's daily quota, not blocked.
 - **Warrant execution isn't published.** MahaRERA shows that a warrant was issued, not whether the money was later recovered.
 - **Clean builders were added by hand**, after confirming they have no recovery warrants on record.
+- **Director-named orders can go uncounted.** When an order lists a director ahead of the company, it isn't matched to the builder (3 JVPD orders confirmed). Found by the evals, not yet fixed.
 
 ## Run it locally
 
@@ -81,10 +94,15 @@ python scripts/extract.py       # defaults to a capped, per-builder selection
 python scripts/score.py
 python scripts/build.py
 
+# Evals (needs: pip install pdfplumber)
+python evals/grounding_check.py
+python evals/sample_for_human_review.py
+
 # Website
 cd website
 npm install
 npm run dev
+npm run check-invariants   # also runs inside npm run build
 ```
 
 ## Stack

@@ -8,13 +8,24 @@
           "name": "N.K.Bhupesh Babu",
           "id": "n-k-bhupesh-babu",
           "count": 30,
-          "project_count": 6
+          "project_count": 6,
+          "project_nos": [
+            "P52000005585",
+            "P52000006667",
+            "P52000009049",
+            "P52000009573",
+            "P52000010054",
+            "P52000012218"
+          ]
         },
         {
           "name": "Shadow Builders",
           "id": "shadow-builders",
           "count": 12,
-          "project_count": 1
+          "project_count": 1,
+          "project_nos": [
+            "P52000007231"
+          ]
         },
         {
           "name": "Vinay Agarwal",
@@ -440,73 +451,116 @@
           "name": "JVPD Properties Pvt. Ltd",
           "id": "jvpd-properties-pvt-ltd",
           "count": 127,
-          "project_count": 1
+          "project_count": 1,
+          "project_nos": [
+            "P51800011181"
+          ]
         },
         {
           "name": "Nirmal Developers",
           "id": "nirmal-developers",
           "count": 28,
-          "project_count": 2
+          "project_count": 2,
+          "project_nos": [
+            "P51800011870",
+            "P51800012383"
+          ]
         },
         {
           "name": "Vidhi Realtors",
           "id": "vidhi-realtors",
           "count": 27,
-          "project_count": 1
+          "project_count": 1,
+          "project_nos": [
+            "P51800007949"
+          ]
         },
         {
           "name": "Unity Land Consultancy/ Pramod Pisal",
           "id": "unity-land-consultancy-pramod-pisal",
           "count": 24,
-          "project_count": 1
+          "project_count": 1,
+          "project_nos": [
+            "P51800006382"
+          ]
         },
         {
           "name": "Skylink Hospitality LLP",
           "id": "skylink-hospitality-llp",
           "count": 22,
-          "project_count": 1
+          "project_count": 1,
+          "project_nos": [
+            "P51800000370"
+          ]
         },
         {
           "name": "Sumer Radius Realty Pvt.Ltd",
           "id": "sumer-radius-realty-pvt-ltd",
           "count": 16,
-          "project_count": 1
+          "project_count": 1,
+          "project_nos": [
+            "P51800007149"
+          ]
         },
         {
           "name": "Sahyog Homes Limited",
           "id": "sahyog-homes-limited",
           "count": 15,
-          "project_count": 1
+          "project_count": 1,
+          "project_nos": [
+            "P51800003040"
+          ]
         },
         {
           "name": "Sheth Infraworld Pvt.Ltd",
           "id": "sheth-infraworld-pvt-ltd",
           "count": 15,
-          "project_count": 1
+          "project_count": 1,
+          "project_nos": [
+            "P51800000882"
+          ]
         },
         {
           "name": "D.S Kulkarni Developers Limited",
           "id": "d-s-kulkarni-developers-limited",
           "count": 13,
-          "project_count": 1
+          "project_count": 1,
+          "project_nos": [
+            "P51800009465"
+          ]
         },
         {
           "name": "Nirmal Lifestyle Ltd",
           "id": "nirmal-lifestyle-ltd",
           "count": 12,
-          "project_count": 6
+          "project_count": 6,
+          "project_nos": [
+            "P51800004719",
+            "P51800005668",
+            "P51800006781",
+            "P51800007641",
+            "P51800010841",
+            "P51800012386"
+          ]
         },
         {
           "name": "Monarch & Qureshi Builders",
           "id": "monarch-qureshi-builders",
           "count": 11,
-          "project_count": 2
+          "project_count": 2,
+          "project_nos": [
+            "P51800009046",
+            "P51800010967"
+          ]
         },
         {
           "name": "Shiv Shakti Builders And Developers",
           "id": "shiv-shakti-builders-and-developers",
           "count": 10,
-          "project_count": 1
+          "project_count": 1,
+          "project_nos": [
+            "P51800009511"
+          ]
         },
         {
           "name": "Nirman Realtors And Developers",
@@ -1034,7 +1088,10 @@
           "name": "Godrej Projects Development Pvt. Ltd",
           "id": "godrej-projects-development-pvt-ltd",
           "count": 1,
-          "project_count": 1
+          "project_count": 1,
+          "project_nos": [
+            "P51900003595"
+          ]
         },
         {
           "name": "Harsh Developes",
@@ -1928,7 +1985,10 @@
           "name": "Hagwood Commercial Developer Pvt Ltd.",
           "id": "hagwood-commercial-developer-pvt-ltd",
           "count": 10,
-          "project_count": 1
+          "project_count": 1,
+          "project_nos": [
+            "P50500004915"
+          ]
         },
         {
           "name": "Hagwood Commercial Devlopers Pvt.Ltd",
@@ -2360,13 +2420,24 @@
           "name": "Darode Jog Homes Private Limited",
           "id": "darode-jog-homes-private-limited",
           "count": 15,
-          "project_count": 3
+          "project_count": 3,
+          "project_nos": [
+            "P52100005786",
+            "P52100009554",
+            "P52100009647"
+          ]
         },
         {
           "name": "D.S Kulkarni Developers Limited",
           "id": "d-s-kulkarni-developers-limited",
           "count": 10,
-          "project_count": 4
+          "project_count": 4,
+          "project_nos": [
+            "P52100004304",
+            "P52100005158",
+            "P52100007124",
+            "P52100007164"
+          ]
         },
         {
           "name": "Jalan Mapal Shelters",
@@ -3506,19 +3577,48 @@
           "name": "Nirmal Lifestyle Kalyan Pvt Ltd",
           "id": "nirmal-lifestyle-kalyan-pvt-ltd",
           "count": 43,
-          "project_count": 18
+          "project_count": 18,
+          "project_nos": [
+            "P51700002924",
+            "P51700003274",
+            "P51700003461",
+            "P51700003537",
+            "P51700003541",
+            "P51700003542",
+            "P51700003545",
+            "P51700003554",
+            "P51700003616",
+            "P51700003628",
+            "P51700005234",
+            "P51700005451",
+            "P51700005583",
+            "P51700006342",
+            "P51700006379",
+            "P51700006383",
+            "P51700006711",
+            "P51700006766"
+          ]
         },
         {
           "name": "Om Sai Infra & Om Sai Group",
           "id": "om-sai-infra-om-sai-group",
           "count": 24,
-          "project_count": 1
+          "project_count": 1,
+          "project_nos": [
+            "P51700012436"
+          ]
         },
         {
           "name": "Karrm Infrastructure Pvt.Ltd",
           "id": "karrm-infrastructure-pvt-ltd",
           "count": 11,
-          "project_count": 4
+          "project_count": 4,
+          "project_nos": [
+            "P51700003215",
+            "P51700008284",
+            "P51700009304",
+            "P51700010325"
+          ]
         },
         {
           "name": "Ravi Developments",
@@ -3992,7 +4092,10 @@
           "name": "Nirmal Lifestyle Ltd",
           "id": "nirmal-lifestyle-ltd",
           "count": 1,
-          "project_count": 1
+          "project_count": 1,
+          "project_nos": [
+            "P51800004719"
+          ]
         },
         {
           "name": "Nirmal Lifestyles (Kalyan) Pvt. Ltd.",

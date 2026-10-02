@@ -160,7 +160,18 @@ for (const [districtName, entry] of districts) {
     // everyone, not just a fixed top N.
     builders: [...entry.respondents.values()]
       .sort((a, b) => b.count - a.count)
-      .map(({ name, id, count, projects }) => ({ name, id, count, project_count: projects.size })),
+      // project_nos only for tracked builders: one project can have warrants
+      // registered under two benches (e.g. Nirmal Lifestyle's P51800004719 in
+      // both Mumbai Suburban and Thane), so check-invariants.mjs needs the ids
+      // to compare the distinct union against the builder's total -- summing
+      // per-district counts would count that project twice.
+      .map(({ name, id, count, projects }) => ({
+        name,
+        id,
+        count,
+        project_count: projects.size,
+        ...(id ? { project_nos: [...projects].sort() } : {}),
+      })),
   };
 }
 
